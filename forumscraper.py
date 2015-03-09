@@ -20,5 +20,9 @@ topic_urls.remove('https://en.forums.wordpress.com/topic/forums-faq-getting-star
 topic_urls.remove('https://en.forums.wordpress.com/topic/forums-in-other-languages-not-english')
 
 for url in topic_urls:
-	tempstorage.write(requests.get(url)) % url
+	response = requests.get(url)
+	soup = bs4.BeautifulSoup(response.text)
+	for p in soup.find_all('p'):
+		with open("workfile.txt", 'a') as workfile:
+   			workfile.write(p.get_text().encode('utf-8'))
 

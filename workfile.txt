@@ -1,0 +1,378 @@
+WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportsimonaglutenfree
+
+Member
+Mar 9, 2015, 11:48 PM
+
+I am looking into inserting Polylang as a plugin. I downloaded it on my computer, and I have a wordpress.com website. How do I go by it?
+Thanks!
+The blog I need help with is simonaglutenfree.wordpress.com.You must log in to post.No tags yet.
+An Automattic Production
+WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportgtchildrenusa
+
+Member
+Mar 9, 2015, 11:44 PM
+
+i have a main picture and need to display detail of the main picture in separate or second page and how do i do that??
+The blog I need help with is gtchildrenusa.wordpress.com.You must log in to post.No tags yet.
+An Automattic Production
+WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportinthelifewithayo
+
+Member
+Mar 7, 2015, 7:29 PM
+
+Im having a hard time adding pictures to my blog. I have never had any problems before.. Till about 3 days ago. I see the pictures when I'm working on my blog just fine. When I got to post my blog my subscribers can't see the pictures and when I go back to look at it. I can't see them either.. Please help.
+The blog I need help with is inthelifewithayo.wordpress.com.titanas
+
+Member
+Mar 7, 2015, 8:53 PM
+
+Hey,Looking at your latest post i can see that the pictures don't have a path to the picture file. Fox example the first in your latest post links to [email redacted] which is not a valid path to a picture. That's why the picture is not showing up.Looking at an older post, OOTD #11: Black &White Smiles, the link to the picture is correct: https://inthelifewithayo.files.wordpress.com/2015/03/img_3450-0.jpg this is why your photo is showing up.
+titanas
+
+Member
+Mar 7, 2015, 8:55 PM
+
+The link to your latest image looks like this:CB5E4679-2D91-42D1-A4BE-69A8838DE905 @ mobilenotes.apple.comThis is not a correct link
+inthelifewithayo
+
+Member
+Mar 8, 2015, 9:04 PM
+
+How can I change it back. I'm using an iPhone if that helps
+kaiserharmon
+
+Member
+Mar 9, 2015, 10:11 PM
+
+Hey. I am reading this trail and I am also having problems seeing my photo. My link seems fine. When I look at it in edit view, I can see it, but not when I post it. Can anyone else see it? Thank you.
+kaiserharmon
+
+Member
+Mar 9, 2015, 10:15 PM
+
+The picture is for the story, Leo is changing the world, but I only see the picture for The Ironman and his Wonderdrug. Maybe I am just looking at it wrong? Please help
+timethief
+
+Member
+Mar 9, 2015, 10:18 PM
+
+@kaiserharmon
+I do not see any images at all embedded into this post https://kaiserharmon.wordpress.com/2015/03/08/leo-is-changing-the-world/These are the accepted file types:
+.jpg/.jpeg
+.gif
+.pngInstructions here http://en.support.wordpress.com/images/Here are more details about the options for uploading images http://wpbtips.wordpress.com/2009/04/26/images-the-three-link-options/For troubleshooting images see here > http://en.support.wordpress.com/images/troubleshooting-images/
+inthelifewithayo
+
+Member
+Mar 9, 2015, 11:43 PM
+
+I'm having the same problem. Someone told me my link wasn't right. I'm blogging on my iPhone so I don't know how to fix it. I see the pics when I view my blog before posting it. But when it's posed you can't see the pics. How can I fix this?? Please help again I'm not on a computer I'm blogging from my phone.
+You must log in to post.No tags yet.
+An Automattic Production
+WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportwitnessindy
+
+Member
+Mar 9, 2015, 11:42 PM
+
+I already have a domain name but my host does not support WordPress.  Can I use my current domain without compromising my existing website?
+The blog I need help with is witnessindy.wordpress.com.You must log in to post.No tags yet.
+An Automattic Experiment
+WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportgerifoo
+
+Member
+Mar 7, 2015, 3:39 AM
+
+I managed to import my first three files from xanga but it doesn't work for the rest of the files. What should I do? Thanks
+The blog I need help with is gerifoo.wordpress.com.kokkieh
+
+Member
+Mar 7, 2015, 7:05 AM
+
+Hi there. Can you please expand on "doesn't work"? Is the importer stuck, does it not want to select the file, does it show it worked but the content isn't there, etc.?
+gerifoo
+
+Member
+Mar 7, 2015, 7:24 AM
+
+Hi! Thanks for replying. It showed that it worked. I received the email, but the content isn't there.
+kokkieh
+
+Member
+Mar 7, 2015, 7:41 AM
+
+Thanks for the extra information. I'll tag this for staff to follow up. Please be patient while waiting for their reply.
+gerifoo
+
+Member
+Mar 7, 2015, 9:47 AM
+
+thank you so much, appreciate it :)
+gracejiyoung
+
+Staff
+Mar 9, 2015, 11:41 PM
+
+Hi there,Are you still having issues with this? I'm seeing posts back from 2010 to March 2015. Let me know if you have any questions with this!
+You must log in to post.No tags yet.
+An Automattic Opus
+WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportkoberlander115
+
+Member
+Mar 9, 2015, 10:14 PM
+
+Hello. I'm working with the Sela theme and having trouble with the front page/homepage. When I set a featured image for a wide screen look, I get a white box on top of the image and I don't know how to remove it. Can someone help? Here's the code:<p style="text-align: center;"><a href="https://kristinoberlander.files.wordpress.com/2015/03/home.jpg"><img class="alignnone size-full wp-image-59" src="https://kristinoberlander.files.wordpress.com/2015/03/home.jpg" alt="2509 x 1673" width="620" height="413" /></a></p>
+The blog I need help with is kristinoberlander.com.pcosta88
+
+Member
+Mar 9, 2015, 11:40 PM
+
+Hello!While I do not see a white box I do see white spacing at the top. If you have Custom Design as part of the Premium package you can close the white at the top of the image with the following CSS code placed in your customizer:
+Note also that featured images for the Sela Theme need to be the following:The featured image on the front page and on pages works best with images at least 1180 wide.
+Featured Images for posts should be at least 820 wide by 312.You must log in to post.
+An Automattic Opus
+WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportjasonfvance
+
+Member
+Mar 9, 2015, 11:16 PM
+
+I need help with account recovery: I chair a non profit who hosts with WP
+Our site admin is no longer with us, and I do not have any log-in info. I need to make changes to the site asap; how do I reset login info/update credentials w/o current account info.?
+The blog I need help with is jasonfvance.wordpress.com.raincoaster
+
+Member
+Mar 9, 2015, 11:36 PM
+
+What is the actual URL of the site you're talking about, starting with http?
+jasonfvance
+
+Member
+Mar 9, 2015, 11:39 PM
+
+http://www.accessnh.org
+You must log in to post.No tags yet.
+An Automattic Production
+WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportnagpalreema09
+
+Member
+Mar 9, 2015, 8:52 PM
+
+Hello,I have created a page called "N&R News" so my company can frequently publish updates as this is the only section that will probably get updated frequently for SEO purposes. I have a couple of questions:- I'd like to set a featured image for this page to resemble all other pages in the main nav, but it's not working right
+- The Facebook is properly linking, but not the LinkedIn, and I've tried troubleshooting this, and don't know what to do
+- The title of the post I've published is showing up as a link to a page that has the exact same content, and I want to get rid of that.
+- I'd like some aesthetics changed - no author, a red font to match the other titles within the site, etc.If someone could help me out, that would be great!!!!!!!
+The blog I need help with is nrengineering.wordpress.com.raincoaster
+
+Member
+Mar 9, 2015, 8:54 PM
+
+When you say things like "- The title of the post I've published is showing up as a link to a page that has the exact same content, and I want to get rid of that." you need to give us the URL of the post and page, starting with http.When you ask about custom design changes, do you have the Custom Design upgrade?
+nagpalreema09
+
+Member
+Mar 9, 2015, 8:59 PM
+
+Page: https://nrengineering.wordpress.com/nr-news/The title has a link to it: https://nrengineering.wordpress.com/2015/03/09/nr-completes-hybrid-turbine-blade-research/I have the middle package and can do custom CSS. Is that what you're asking?
+raincoaster
+
+Member
+Mar 9, 2015, 9:24 PM
+
+Yes.You will want to read this before doing any heavy lifting reorganizing your site https://wpbtips.wordpress.com/2010/06/30/posts-on-pages/
+nagpalreema09
+
+Member
+Mar 9, 2015, 9:41 PM
+
+I gather that there needs to be a categorical menu, but I'm not sure what comes next in my process.
+raincoaster
+
+Member
+Mar 9, 2015, 9:53 PM
+
+You do not need static pages. You just need category pages and Posts. Make more posts and the structure will become visible. It takes several posts for themes to really take shape.
+nagpalreema09
+
+Member
+Mar 9, 2015, 9:58 PM
+
+I'm only asking about a specific part of the site, not the whole thing. I understand that all static pages are "posts" and I know what my goal is. I want to use this page or "post" as a press release tool for my company. I know that I will continue populating it as time progresses, but I just want minor things fixed that I mentioned above.
+timethief
+
+Member
+Mar 9, 2015, 9:59 PM
+
+ I understand that all static pages are "posts" That's not correct. Read this please https://en.support.wordpress.com/post-vs-page/
+nagpalreema09
+
+Member
+Mar 9, 2015, 10:06 PM
+
+Thanks for sharing this. I've talked to a few different people today and they all seem to share different sentiments. The article you shared allowed me to believe that I'm slowly getting to my goal. But again, my questions above are not being answered.
+timethief
+
+Member
+Mar 9, 2015, 10:10 PM
+
+I am saying this in a kindly way. lol :D Neither raincoaster nor I share "sentiments" in support threads. We post correct answers to support questions and have been doing that longer than all but one support staff member has even been on staff.There are many misunderstandings and misconceptions when it comes to custom menus. I suggest you read these two posts I link to below.
+http://wpbtips.wordpress.com/2010/06/30/posts-on-pages/
+http://wpbtips.wordpress.com/2011/12/19/custom-menus/You have created static pages that will never automatically update. Technically you can't post to more than one page on any blog but do read on. Static Pages and dynamic Category Pages are not the same. The former cannot automatically update but the latter do.
+http://en.support.wordpress.com/pages/
+http://en.support.wordpress.com/category-pages/If you want to have pages that do update then they must be replaced by dynamic category pages (and sub-category pages) that will automatically update every time you publish a post assigned to the relevant category and/or sub-category.By default the front page of the blog is the post that displays all posts in your blog. Though there is only one dynamic page in a blog for posts (not pages) http://en.support.wordpress.com/post-vs-page/ and we cannot post to more than that one page, we can create the appearance that we have posted to more than one page.We organize posts by assigning categories to them. You can create a custom menu and add the dynamic categories and sub-categories pages into the custom menu, and order them as you wish.
+http://en.support.wordpress.com/posts/categories/
+http://en.support.wordpress.com/menus/
+http://en.support.wordpress.com/menus/#adding-category-pages
+http://en.support.wordpress.com/menus/#changing-the-order-creating-sub-menus
+timethief
+
+Member
+Mar 9, 2015, 10:11 PM
+
+But again, my questions above are not being answered. All CSS questions about altering theme appearance are posted into the CSS Forum.Custom design - Frequently Asked Questions
+http://en.support.wordpress.com/custom-design/#frequently-asked-questions
+http://en.support.wordpress.com/custom-design/
+http://en.support.wordpress.com/custom-design/editing-css/
+http://en.support.wordpress.com/custom-design/custom-fonts/Please use this link http://en.forums.wordpress.com/forum/css-customization#postform  so you can copy and paste your text into a thread that will appear in the CSS Forum where you will get the help you need.
+nagpalreema09
+
+Member
+Mar 9, 2015, 10:43 PM
+
+I apologize if I offended you. I was actually speaking of a few different people I spoke to earlier today. I will admit, I am frustrated with myself because I have been trying to figure this out for quite some time now.Originally, I wanted to have an excerpt of each post on the homepage. Someone from Support earlier told me it wouldn't be ideal because of my theme's limitations. She then told me that a new page (static page, I'm guessing?) would be ideal and that it could be added in the main nav. I went ahead and did that and assumed that I could go ahead and add posts right on that page. Maybe that's where I confused things.
+nagpalreema09
+
+Member
+Mar 9, 2015, 10:43 PM
+
+I will go ahead and read these links. Thanks for sending.
+timethief
+
+Member
+Mar 9, 2015, 10:47 PM
+
+I'm not offended. I have answered questions here for over 8 years, nearly 9 years and I have the skin of a rhino. That's why I included the lol :D above.
+nagpalreema09
+
+Member
+Mar 9, 2015, 11:01 PM
+
+Good to hear :)Okay, so after reading. I think my first step is to set up a category page and trash the page that I created. Is that correct? I only want one page to update frequently, and it's that one. Because of that, I'm not sure that I need a custom menu. Or am I totally wrong?
+raincoaster
+
+Member
+Mar 9, 2015, 11:03 PM
+
+The first link I gave you contains links to the most important things you need to read, and you need to read them in order. It will all make sense once you have a dozen or so posts in various categories and have tinkered with menus a bit.
+nagpalreema09
+
+Member
+Mar 9, 2015, 11:38 PM
+
+I've read. I created a category called N&R News. I also read about the custom menu...but I'm still not sure why I need that. I don't intend for these posts to populate on the homepage or on a dropdown. I have added my post to my category though.
+You must log in to post.No tags yet.
+An Automattic Creation
+WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportcweeks416
+
+Member
+Mar 9, 2015, 11:04 PM
+
+I have a free word press account started. I used Quickinstall to install the paid version with  my own doman name carolweeksspeaks.com and it is not showing up. I go to the url and there's nothing on the page.
+raincoaster
+
+Member
+Mar 9, 2015, 11:38 PM
+
+I don't know what Quickinstall is, but it doesn't look like you have a blog at WordPress.com. What is your web host? It looks like Godaddy, in which case you need to deal with them and get support from the WordPress.ORG forums.
+You must log in to post.
+An Automattic Creation
+WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportelisagrasso
+
+Member
+Mar 9, 2015, 10:22 PM
+
+I don't find "add media" over the text box, i can just write without adding medias. what can i do?
+The blog I need help with is lustinfashion.com.raincoaster
+
+Member
+Mar 9, 2015, 11:04 PM
+
+Are you an Editor or Admin of that site, or just an Author? Authors cannot add media.
+timethief
+
+Member
+Mar 9, 2015, 11:07 PM
+
+raincoaster meant to say that Contributors cannot post media. https://en.support.wordpress.com/user-roles/#contributor
+elisagrasso
+
+Member
+Mar 9, 2015, 11:11 PM
+
+And so what can i do to publish media? I have to say admins to let me become an admin?
+raincoaster
+
+Member
+Mar 9, 2015, 11:37 PM
+
+Editor. Not Admin. You can upload images somewhere else like Flickr and use HTML code to put them in the posts. Otherwise, you can't do it.
+You must log in to post.No tags yet.
+An Automattic Invention
+WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportekwestel
+
+Member
+Mar 9, 2015, 11:21 PM
+
+I don't have an "insert media" button. How can I insert media without the button
+raincoaster
+
+Member
+Mar 9, 2015, 11:36 PM
+
+What is the URL of the blog you're trying to insert media into? Also, are you an editor or admin there? Authors can't add media.
+You must log in to post.No tags yet.
+An Automattic Joint
+WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportarendaltango
+
+Member
+Mar 9, 2015, 8:11 PM
+
+Hi, I have pressed the "go premium" and it send me to the "update" and it is empty, There are no "plans" active so how do I go premium?
+The blog I need help with is arendaltango.wordpress.com.galois
+
+Member
+Mar 9, 2015, 8:14 PM
+
+Try from here:
+https://store.wordpress.com/plans/premium/
+raincoaster
+
+Member
+Mar 9, 2015, 8:14 PM
+
+What browser and version are you using? Sounds like a browser problem.
+arendaltango
+
+Member
+Mar 9, 2015, 8:16 PM
+
+I have tried with Opera 27.0 and Google Chrom Versjon 40.0.2214.115 m
+galois
+
+Member
+Mar 9, 2015, 8:50 PM
+
+Do you have tried with that link?
+arendaltango
+
+Member
+Mar 9, 2015, 9:12 PM
+
+yes galois I did and it is the same
+galois
+
+Member
+Mar 9, 2015, 11:35 PM
+
+Ok, I tagged this thread with the modlook tag for Staff attention.
+Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+You must log in to post.
+An Automattic Experiment
