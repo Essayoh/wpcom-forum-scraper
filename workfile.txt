@@ -1,378 +1,616 @@
-WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportsimonaglutenfree
 
-Member
-Mar 9, 2015, 11:48 PM
+Today I learned in justjennifer's blog that we have lost our Forum Moderator, Tess 
+Tess Warn was an outstanding example of a patient and skilled WordPress.com Volunteer who went out of her way to help others here for many years.  
+Tess will be missed by many like me,  who never met her face-to-face but were blessed when she calmly illustrated how to herd cats , as well as, educating us all in the technical aspects of using WordPress.com software.
+She touched many hearts with her loving kindness. Please keep her family in your thoughts and prayers at this time.
 
-I am looking into inserting Polylang as a plugin. I downloaded it on my computer, and I have a wordpress.com website. How do I go by it?
+
+Hey,
+I'm having a hard time figuring out how to add a comment box to each and every post on the yourop.ca home page. On my other blog it immediately says "leave a reply" however here you have to click on the individual post, which is not wanted. 
+Cheers,
+Zak
+
+The blog I need help with is yourop.ca. 
+Hello, my domain expired and I have been trying to get help renewing it.  I submitted a couple support tickets but no response.  I saw in a closed forum post that a staff member was able to help get someone elses domain renewed.  The domain that I need to renew is dooverdecade.com.
+Thanks.
+
+
+Flagged for the staff to help
+
+
+Thank you auxclass
+
+
+Today I learned in justjennifer's blog that we have lost our Forum Moderator, Tess 
+Tess Warn was an outstanding example of a patient and skilled WordPress.com Volunteer who went out of her way to help others here for many years.  
+Tess will be missed by many like me,  who never met her face-to-face but were blessed when she calmly illustrated how to herd cats , as well as, educating us all in the technical aspects of using WordPress.com software.
+She touched many hearts with her loving kindness. Please keep her family in your thoughts and prayers at this time.
+
+
+Hey,
+I'm having a hard time figuring out how to add a comment box to each and every post on the yourop.ca home page. On my other blog it immediately says "leave a reply" however here you have to click on the individual post, which is not wanted. 
+Cheers,
+Zak
+
+The blog I need help with is yourop.ca. 
+Hello, my domain expired and I have been trying to get help renewing it.  I submitted a couple support tickets but no response.  I saw in a closed forum post that a staff member was able to help get someone elses domain renewed.  The domain that I need to renew is dooverdecade.com.
+Thanks.
+
+
+Flagged for the staff to help
+
+
+Thank you auxclass
+
+
+How do I find an old site?
+
+The blog I need help with is perspectivetk.wordpress.com. 
+It's not this blog, it's one I created before but can't find. Any help is appreciated. Thanks.
+
+
+My box file sharing widget that was displayed in the top right hand side is no longer visible.  How do I get it back?
+
+The blog I need help with is aaupnv.wordpress.com. 
+As of December 1st, 2014, Box.com sharing widgets can no longer be created and have been removed. Instead, you can create a link to a shared Box.com file or folder.
+Any widgets that were already in place prior to December 1st, 2014 will cease to work after January 5th, 2015.
+https://en.support.wordpress.com/widgets/boxcom-widget/
+
+
+More about this:
+https://en.forums.wordpress.com/topic/does-wordpress-support-boxnet-widgets-anymore?replies=17#post-2248622
+
+
+I like the "Connect" theme, but before I pay $69 I want to know that I can change the pictures to ones that relate to my business.
+
+The blog I need help with is ransommckenzie.wordpress.com. 
+If you have the Custom Design upgrade, you can change any of the images. Otherwise, you would have to read the theme description carefully to look for things like "customizable header" and related terms. Which specific images were you wanting to change?
+
+
+The background cityscape to one of my city.  And other header shots
+
+
+I think I figured it out.  It looks like pretty much everything is customizable.
+
+
+Hello,
+Is there a way to change the type of site that I have? What I would like is for people to click on my domain address which will then automatically bring them to my direct sales site. 
+Thank you,
+Jackie
+
+The blog I need help with is hotmommaonthego.com. 
+Hi there. Do you mean you want to use your domain with a different site, not on WordPress.com? You can find the different options for using a domain purchased through WordPress.com with another host and website here: https://en.support.wordpress.com/domains/move-domain/
+Let us know if that's not what you're looking for.
+
+
+Hello,
+ No, is there a way that if someone types in my website that I have with you that they can be automatically redirected to my direct sales website?
+
+
+Recently, I contacted you guys. I asked how I should create different menu tabs. I took your advice. And it worked. But now that I have different menu tabs, I need to know how to add my blog posts to the menu tabs. I have tabs like recipes and tips. And my posts that I've already done are all recipes, so I wanted to know how I can add my recipes to JUST the recipe tab. Would you mind showing me how to do this? Thanks for the help!
+
+The blog I need help with is kcolescreativecorner.wordpress.com. 
+@colescreativecorner
+It sounds like you need to create Category Pages, which you can place in your site's Custom Menu:
+Category Pages
+Custom Menus
+If I've misunderstood the issue, or if you have any other questions, please let me know :-)
+
+
+Yes. I still need help. I can't get just one post to go to  a menu tab without all of them following, and sometimes it will delete it from my blog, and I'll have to add it back in from my drafts. I appreciate the links, but what I'm still not understanding is how to assign the same category to all of the posts that I want to appear on a given page. Thanks for the help!
+
+
+Hi guys, i have renewed my account twice now but it keeps coming up as expired, and website cannot be accessed by potential clients
+ I'm not sure what to do ?
+
+The blog I need help with is minititans.co.nz. 
+Hi there -
+I've responded in your other thread, so please post any other questions there. Thanks!
+http://en.forums.wordpress.com/topic/domain-expired-105
+
+
+How do I change the URL for the blog that I want and delete an additional account.
+
+The blog I need help with is brown3td.wordpress.com. 
+Accounts cannot be deleted. 
+URLs can be changed, but it is generally not advised. https://en.forums.wordpress.com/topic/if-i-change-blog-address-will-any-appearance-and-contents-changes-occur?replies=7
+
+
+I can read the posts on our blog site but I cannot find out how to post to it.
+
+
+We cannot tell you unless you give us the URL starting with http.
+
+
+I am a clueless newbie who is now hovering between homicide and suicide.
+For unknown reasons, I lost the edited revision (which I saved every few minutes) of a post I spent hours on.  A message screen appeared, "There's a more recent ... RESTORE?"  I took a chance and clicked on RESTORE which brought up the original post (18 hours earlier which  was NOT my most recent draft). Does WP have a warped sense of humor?
+WP writes about how to find the 25 most recent revisions, BUT the screens, etc shown do NOT exist for me.  So, now what can I do?
+If this is a WP glitch, it needs to be corrected.  I spent many hours learning how to tweak my post, and in the process WP ate my revised post.
+
+The blog I need help with is brittonbell.wordpress.com. 
+There is a long standing issue Staff are aware of if you use the new post editor for creating or editing posts. 
+Provided you did not create the post in the new Beep Beep Boop editor where it's saved only on your browser, and is not auto-saved to the servers for your blog you may be able to recover a lost post or page.
+If the post was created on the dashboard of your own blog at Dashboard > Posts > All Posts > Add New then you ought to be able to recover a lost post or page from revisions if needs be.
+http://en.support.wordpress.com/posts/post-revisions/
+See also if applicable > restoring from trash http://en.support.wordpress.com/trash/#restoring-from-trash
+To locate draft POSTS Dashboard > Posts > All Post > Drafts
+http://brittonbell.wordpress.com/wp-admin/edit.php?post_status=draft&post_type=post
+To locate draft PAGES Dashboard > Pages> All Pages > Drafts
+http://brittonbell.wordpress.com/wp-admin/edit.php?post_status=draft&post_type=page
+(If you are referring to a Page then see here > http://en.support.wordpress.com/pages/page-revisions/)
+If you cannot locate a revision or restore from Trash then the content has been lost and cannot be recovered.
+I recommend:
+1. Always create your posts on the dashboard of your own blog at
+2. Dashboard > Posts > All Posts > Add New
+3. Immediately after creating a post and entering a title click the save draft link. Thereafter, "click save draft" frequently.
+4. Always allow pages to fully load before clicking any other links.
+5. Never leave a post or page open for content creation or editing and walk away from it, or open another tab in the same blog and work on something else while it is still open. Save it properly and return to edit it later.
+6. Use an offline blog editor so you have backups on your own computer http://en.support.wordpress.com/xml-rpc/
+
+
+Dear Timethief
+Thanks for your quick response to my call for help.  I have done all these things, which is why I am both frustrated and confused.
+I did save my drafts every few minutes, but the instructions for finding 25 most recent revisions does not appear on my Dashboard/Edit/ etc.
+That's why I posted my question - arrrggggghhhhh
+Thanks anyway.
+
+
+I'm sorry I was unable to help you resolve this.  All I can suggest is that you use the classic post editor. At the top of the new editor page when creating a post you should see a link to use the Classic view instead. Click that link. Then, if you have cookies enabled on your browser your preference will be saved unless or until your clear your cookies, and it will take you to the classic editor automatically every time you create a new post via the drop-down menu in the black admin bar or edit a post via the edit button on the blog itself.
+
+
+OOOPPPPSSS
+I only see BeepBeepBoop when I went from Preview to Edit, or Published Post to Edit page ...
+And, I have not Upgraded, either.  I wanted to learn how to use WP before I spent anything.
+It sounds as if I was in the B-B-P poop editor and that's why my post and revisions went down the crapper (s**thole) ...
+If nothing else, I've learned a huge lesson ---- create all my posts in Word they copy/paste into a new post/draft and insert my links etc after that point.  (In previous posts which I created in Word, the links never came over or they were messed up).
+Oh well, another day ... another lesson from the WP Gods!
+Thanks a ton, timethief - you rock!!
+
+
+Do NOT use the Beep Beep Boop editor. Use the Classic editor. It does not have this problem.
+
+
+As those who went before me so aptly said, 
+"Now, you tell me!"
+Believe me, I will NEVER EVER use the BeepBeepBoopPOOP again!
+This certainly clears up why I could not find any of the links, etc to find Revisions.
+WHY in the world doesn't WP tell folks this?  Their "Beginners" videos, and Help pages are remiss in a HUGE way.
 Thanks!
-The blog I need help with is simonaglutenfree.wordpress.com.You must log in to post.No tags yet.
-An Automattic Production
-WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportgtchildrenusa
 
-Member
-Mar 9, 2015, 11:44 PM
 
-i have a main picture and need to display detail of the main picture in separate or second page and how do i do that??
-The blog I need help with is gtchildrenusa.wordpress.com.You must log in to post.No tags yet.
-An Automattic Production
-WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportinthelifewithayo
+As those who went before me so aptly said, 
+"Now, you tell me!"
+Believe me, I will NEVER EVER use the BeepBeepBoopPOOP again!
+This certainly clears up why I could not find any of the links, etc to find Revisions.
+WHY in the world doesn't WP tell folks this?  Their "Beginners" videos, and Help pages are remiss in a HUGE way.
+Thanks!
 
-Member
-Mar 7, 2015, 7:29 PM
 
-Im having a hard time adding pictures to my blog. I have never had any problems before.. Till about 3 days ago. I see the pictures when I'm working on my blog just fine. When I got to post my blog my subscribers can't see the pictures and when I go back to look at it. I can't see them either.. Please help.
-The blog I need help with is inthelifewithayo.wordpress.com.titanas
+Moving to the classic editor is one way to avoid this problem in the future.  The other is to make sure you don't have the newer editor open in multiple windows at the same time.  That is the usual cause of problems like the one you described.
+This is a known issue, and it's being addressed. 
+If you send me a direct link to the post where you lost data, I'm also happy to take a second look to see if the revision can be restored.
 
-Member
-Mar 7, 2015, 8:53 PM
 
-Hey,Looking at your latest post i can see that the pictures don't have a path to the picture file. Fox example the first in your latest post links to [email redacted] which is not a valid path to a picture. That's why the picture is not showing up.Looking at an older post, OOTD #11: Black &White Smiles, the link to the picture is correct: https://inthelifewithayo.files.wordpress.com/2015/03/img_3450-0.jpg this is why your photo is showing up.
-titanas
+Thank you, listhefair, but I doubt there is any semblance of hope after tee hours I have spent reading WP "help" and especially after reading these posts.
+It appears to me WP should NOT be placing a 'hook' which suggests there is an improved way to write a post, without providing a method of locating prior revisions.
+That being said, I am always willing to accept a helpful hand.  I have it sitting in a "published by me" because I hate the original version compared with mine after lots of changes, links, and niftier media inserts.
+If I give you the URL for it will it open up my entire account, though?
+Thanks,
+The Curmudgeon (smiling)
 
-Member
-Mar 7, 2015, 8:55 PM
 
-The link to your latest image looks like this:CB5E4679-2D91-42D1-A4BE-69A8838DE905 @ mobilenotes.apple.comThis is not a correct link
-inthelifewithayo
+If I give you the URL for it will it open up my entire account, though?
+It won't :)  If anyone who doesn't have access to your account clicks the link they'll just get notice that they don't have permission to see the page.
 
-Member
-Mar 8, 2015, 9:04 PM
 
-How can I change it back. I'm using an iPhone if that helps
-kaiserharmon
+https://wordpress.com/post/83083525/92
 
-Member
-Mar 9, 2015, 10:11 PM
 
-Hey. I am reading this trail and I am also having problems seeing my photo. My link seems fine. When I look at it in edit view, I can see it, but not when I post it. Can anyone else see it? Thank you.
-kaiserharmon
+Thanks.  I see several autosaves of that post here: https://brittonbell.wordpress.com/wp-admin/post.php?post=92&action=edit
+Do any of those look familiar?
 
-Member
-Mar 9, 2015, 10:15 PM
 
-The picture is for the story, Leo is changing the world, but I only see the picture for The Ironman and his Wonderdrug. Maybe I am just looking at it wrong? Please help
-timethief
+There is only one edit ... and this is not the final one.  The final revision appears to be long gone.
+My frustration has turned to anger with WP.  In the dashboard, New Post, WP indicates a "new improved/easier way" with a link to the BeepBeepBoop area.  THAT's where I went and that's where I lost all revisions and my final draft (all of which I saved). 
+I wanted one final edit, saved it, and when I came back to it a few hours later - it was an earlier version.  When I came to this earlier version, WP indicates "there is a newer version in The Browser" with a button, "RESTORE" and that's when my not so final version was replaced with the first revision and that is now what appears.
 
-Member
-Mar 9, 2015, 10:18 PM
 
-@kaiserharmon
-I do not see any images at all embedded into this post https://kaiserharmon.wordpress.com/2015/03/08/leo-is-changing-the-world/These are the accepted file types:
-.jpg/.jpeg
-.gif
-.pngInstructions here http://en.support.wordpress.com/images/Here are more details about the options for uploading images http://wpbtips.wordpress.com/2009/04/26/images-the-three-link-options/For troubleshooting images see here > http://en.support.wordpress.com/images/troubleshooting-images/
-inthelifewithayo
+You have every right to be angry (not that you need my permission, of course).  I wish I could have been more helpful.
 
-Member
-Mar 9, 2015, 11:43 PM
 
-I'm having the same problem. Someone told me my link wasn't right. I'm blogging on my iPhone so I don't know how to fix it. I see the pics when I view my blog before posting it. But when it's posed you can't see the pics. How can I fix this?? Please help again I'm not on a computer I'm blogging from my phone.
-You must log in to post.No tags yet.
-An Automattic Production
-WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportwitnessindy
+THANK YOU TO EVERYONE WHO LED ME IN THE RIGHT DIRECTION.  
+THIS WAS A PAINFUL LEARNING EXPERIENCE, AND WP SHOULD ADDRESS THIS DEVASTATING GLITCH IN THEIR 'IMPROVED" EDITING AND NEW DRAFT PAGES.
+DAMNATION, WP - YOU SHOULD BE ASHAMED OF YOURSELVES.  
+WOW, WHAT A GREAT TITLE FOR MY NEXT POST!!
 
-Member
-Mar 9, 2015, 11:42 PM
 
-I already have a domain name but my host does not support WordPress.  Can I use my current domain without compromising my existing website?
-The blog I need help with is witnessindy.wordpress.com.You must log in to post.No tags yet.
-An Automattic Experiment
-WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportgerifoo
+lizthefair ...
+the link you provided me is certainly better than nothing !!  YAY!!
+How did you get there???
+Holy Moly ...
 
-Member
-Mar 7, 2015, 3:39 AM
 
-I managed to import my first three files from xanga but it doesn't work for the rest of the files. What should I do? Thanks
-The blog I need help with is gerifoo.wordpress.com.kokkieh
+@brittonbell
+Many of us, myself included,  have experienced this miserable experience that may give rise to rage, over a prolonged period of time, as can be evidenced in part only by the posts I tagged with recovering a lost post or page.  
+I am not discouraging you for publishing a post about this, but  I chose not to publish a series of rants about this and other crazymaking changes that are referred to by some as improvements. I don't believe it's worth my time and effort to get worked up enough to do so.
+Best wishes.
 
-Member
-Mar 7, 2015, 7:05 AM
 
-Hi there. Can you please expand on "doesn't work"? Is the importer stuck, does it not want to select the file, does it show it worked but the content isn't there, etc.?
-gerifoo
+LOL - lizthefair!!!
+Curmudgeons are known for their upbeat, positive approach to life NOT!
+After walking this earth more than six decades, I've hopefully have learned to pick my battles.  That being said, WP should do something about this glitch.
+How did you manage to find the revisions, though??????
 
-Member
-Mar 7, 2015, 7:24 AM
 
-Hi! Thanks for replying. It showed that it worked. I received the email, but the content isn't there.
-kokkieh
+One last question, lizthefair 
+I have clicked on "Restore this Revision" but where does it restore it?
+I can't even tell IF it has restored it...
+Thanks for letting me bug you to death.
+If nothing else, perhaps others can learn from this exchange.
 
-Member
-Mar 7, 2015, 7:41 AM
 
-Thanks for the extra information. I'll tag this for staff to follow up. Please be patient while waiting for their reply.
-gerifoo
+the link you provided me is certainly better than nothing !! YAY!!
+How did you get there???
 
-Member
-Mar 7, 2015, 9:47 AM
+That page is from the WP Admin editor Time Thief and Raincoaster were suggesting you use.  You can access that dashboard from here:
+https://brittonbell.wordpress.com/wp-admin
+You can also go to the front page of your site, hover over "my sites" and choose "WP Admin"
+I have clicked on "Restore this Revision" but where does it restore it?
+Here's a quick overview of how post revisions work:
+https://en.support.wordpress.com/pages/page-revisions/
+If you click "restore this revision" it updates the version of the post that's in your editor.  If you didn't notice any changes it's likely the revision you restored was the same as the one you were already using.
 
-thank you so much, appreciate it :)
-gracejiyoung
 
-Staff
-Mar 9, 2015, 11:41 PM
+YUPPERS ...
+Been there
+Done that
+Read That
+and
+Done it again ...
+Alas ... my last revision is Grass ... Cut to the ground, and plowed under.
+Bummer ... and
+Bummed
 
-Hi there,Are you still having issues with this? I'm seeing posts back from 2010 to March 2015. Let me know if you have any questions with this!
-You must log in to post.No tags yet.
-An Automattic Opus
-WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportkoberlander115
 
-Member
-Mar 9, 2015, 10:14 PM
+Delete my account
 
-Hello. I'm working with the Sela theme and having trouble with the front page/homepage. When I set a featured image for a wide screen look, I get a white box on top of the image and I don't know how to remove it. Can someone help? Here's the code:<p style="text-align: center;"><a href="https://kristinoberlander.files.wordpress.com/2015/03/home.jpg"><img class="alignnone size-full wp-image-59" src="https://kristinoberlander.files.wordpress.com/2015/03/home.jpg" alt="2509 x 1673" width="620" height="413" /></a></p>
-The blog I need help with is kristinoberlander.com.pcosta88
 
-Member
-Mar 9, 2015, 11:40 PM
+Delete my account...unable to do so from my IPad...very confusing
 
-Hello!While I do not see a white box I do see white spacing at the top. If you have Custom Design as part of the Premium package you can close the white at the top of the image with the following CSS code placed in your customizer:
-Note also that featured images for the Sela Theme need to be the following:The featured image on the front page and on pages works best with images at least 1180 wide.
-Featured Images for posts should be at least 820 wide by 312.You must log in to post.
-An Automattic Opus
-WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportjasonfvance
 
-Member
-Mar 9, 2015, 11:16 PM
+Here's how to deactivate your account:
+Although username accounts are not deleted, so you cannot be impersonated and have your reputation affected by anyone registering the same username in the future, there are steps you can take that amount to removing all personal information and result in leaving only a throwaway email address behind. http://en.support.wordpress.com/deleting-accounts/
+1. You can go to My Account->Edit Profile and remove all data except the account name and an email address. Create a throwaway email address and change the account email to that throwaway address. This only leaves the username behind.
+2. To unsubscribe from email sent to you from WordPress.com, go here and click on “Block all subscription emails from WordPress.com”:
+https://wordpress.com/settings/notifications/
+3. To ensure the account is locked up tightly, visit this site, generate a password of 15-20 characters, and change the account password to it:
+http://www.thebitmill.com/tools/password.html
+4. To hide your Gravatar profile, login and on the bottom right hand corner of your Gravatar profile page you will find a "hide" button visible only to you that you can click.
 
-I need help with account recovery: I chair a non profit who hosts with WP
-Our site admin is no longer with us, and I do not have any log-in info. I need to make changes to the site asap; how do I reset login info/update credentials w/o current account info.?
-The blog I need help with is jasonfvance.wordpress.com.raincoaster
 
-Member
-Mar 9, 2015, 11:36 PM
+Hello, a site I help out with is having several problems related to Jetpack publicize and subscriptions.
+Somehow my personal WordPress.com is linked to http://www.buncombemastergardener.org even though it does not appear in the My Sites list. I need this connection removed.
+I also would like to remove this address from the My Site list, which was a test blog that no longer exists: http://lydiarobertsdesign.com/newsite/
+Please let me know if you can help. I think removing these two connections will solve the Jetpack problems we're experiencing. Thanks!
 
-What is the actual URL of the site you're talking about, starting with http?
-jasonfvance
+The blog I need help with is www.buncombemastergardener.org. 
+Hi Lydia!
+I removed the Jetpack connection for http://www.buncombemastergardener.org from your WordPress.com account. It should not appear in your My Sites list any longer.
+I'm not seeing lydiarobertsdesign.com/newsite in your list, however. Is that connected to another account, perhaps?
+Looking forward to hearing from you. Thanks very much.
 
-Member
-Mar 9, 2015, 11:39 PM
 
-http://www.accessnh.org
-You must log in to post.No tags yet.
-An Automattic Production
-WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportnagpalreema09
+Thank you so much for such a quick response! I really appreciate it.
+When I log in to WordPress.com, I see two sites listed under My Sites. The second is for http://lydiarobertsdesign.com/newsite/, but there is a warning notice that I must upgrade Jetpack. Since the site no longer exists (it was only ever a test site), there is no Jetpack there at all which is maybe why you're not seeing it on your end. I'd like to remove it though because somehow all of the Master Gardener's subscription emails and facebook posts keep shortlinking back to this old test site. Let me know if there's anything I can do on my end.
 
-Member
-Mar 9, 2015, 8:52 PM
 
-Hello,I have created a page called "N&R News" so my company can frequently publish updates as this is the only section that will probably get updated frequently for SEO purposes. I have a couple of questions:- I'd like to set a featured image for this page to resemble all other pages in the main nav, but it's not working right
-- The Facebook is properly linking, but not the LinkedIn, and I've tried troubleshooting this, and don't know what to do
-- The title of the post I've published is showing up as a link to a page that has the exact same content, and I want to get rid of that.
-- I'd like some aesthetics changed - no author, a red font to match the other titles within the site, etc.If someone could help me out, that would be great!!!!!!!
-The blog I need help with is nrengineering.wordpress.com.raincoaster
+Lydia,
+Are you seeing this under My Sites when you're logged in here at WordPress.com? Or are you seeing this when you're logged into a self-hosted account?
+Please confirm that it is while you are on this page:
+https://wordpress.com/me
+Also, please confirm that you're logged into your WordPress.com account, wundermint, while you're seeing this URL in My Sites.
+Finally, if you could take a screenshot of this list, it would be a great help to me, as I am not seeing this connection on your WordPress.com account, wundermint.
+You can simply upload the screenshot to your Media Library (on your WordPress.com site, still hosted here), like any other image, and I'll be able to access it from there. Even though that blog is inactive, you can log in, and I can view it.
+The page at the following link has some helpful tips for taking screenshots:
+http://en.support.wordpress.com/make-a-screenshot/
+Just let me know when there's something I can look at! Thanks so much :)
 
-Member
-Mar 9, 2015, 8:54 PM
 
-When you say things like "- The title of the post I've published is showing up as a link to a page that has the exact same content, and I want to get rid of that." you need to give us the URL of the post and page, starting with http.When you ask about custom design changes, do you have the Custom Design upgrade?
-nagpalreema09
+Yes, this is visible inside my WordPress.com account (not self-hosted). I've put a few screenshots into that wundermint blog media library. Let me know if you need a link, I figured you can get in? Thanks!
 
-Member
-Mar 9, 2015, 8:59 PM
 
-Page: https://nrengineering.wordpress.com/nr-news/The title has a link to it: https://nrengineering.wordpress.com/2015/03/09/nr-completes-hybrid-turbine-blade-research/I have the middle package and can do custom CSS. Is that what you're asking?
-raincoaster
+Hi Lydia!
+Thanks for those images! Very helpful. 
+Could you take another look at My Sites now, and let me know if you've seen a change?
+I'll keep an eye out for your response. Thanks!
 
-Member
-Mar 9, 2015, 9:24 PM
 
-Yes.You will want to read this before doing any heavy lifting reorganizing your site https://wpbtips.wordpress.com/2010/06/30/posts-on-pages/
-nagpalreema09
+Perfect. That's exactly what I wanted. I'm hoping this resolves the issues we have with the Master Gardener site. I should be able to test that theory the next time one of their post gets publicized to Facebook.
+Thank you so much for all your help!
 
-Member
-Mar 9, 2015, 9:41 PM
 
-I gather that there needs to be a categorical menu, but I'm not sure what comes next in my process.
-raincoaster
+Fabulous! Lydia, thanks for your patience! Best of luck with the Master Gardener site :)
 
-Member
-Mar 9, 2015, 9:53 PM
 
-You do not need static pages. You just need category pages and Posts. Make more posts and the structure will become visible. It takes several posts for themes to really take shape.
-nagpalreema09
+Hello Robyn,
+Unfortunately, I'm still seeing a problem with the Publicize option on the Master Gardener's site.
+Here is their Facebook page. The "Pruning Spring Blooming Shrubs" is a publicized post via Jetpack. If you click the picture it goes to the correct post. But if you click the shortlink it still tries to go to that old test site. This is the shortlink: http://wp.me/p3b2XP-rz 
+Is there anything you can do to correct this? I hate that people are trying to go to their posts only to end up on my personal 404 page. It doesn't make any sense. Thank you!
 
-Member
-Mar 9, 2015, 9:58 PM
 
-I'm only asking about a specific part of the site, not the whole thing. I understand that all static pages are "posts" and I know what my goal is. I want to use this page or "post" as a press release tool for my company. I know that I will continue populating it as time progresses, but I just want minor things fixed that I mentioned above.
-timethief
+Hey Lydia!
+I don't see that Jetpack for your site, http://www.buncombemastergardener.org is connected to your WordPress.com account, wundermint. Are you seeing a connection to this account in the Master Gardener's Dashboard? If you don't, can you reconnect your Jetpack site to your WordPress.com account?
+Your Jetpack site should appear here: https://wordpress.com/stats in My Sites.
+Thanks much. Please let me know when that's done!
 
-Member
-Mar 9, 2015, 9:59 PM
 
- I understand that all static pages are "posts" That's not correct. Read this please https://en.support.wordpress.com/post-vs-page/
-nagpalreema09
+Hi there,
+None of the sites are connected, that's what is so puzzling. See above in this thread where I had you remove all the connections. The only connection under My Sites that I have left is wundermint.wordpress.com.
 
-Member
-Mar 9, 2015, 10:06 PM
 
-Thanks for sharing this. I've talked to a few different people today and they all seem to share different sentiments. The article you shared allowed me to believe that I'm slowly getting to my goal. But again, my questions above are not being answered.
-timethief
+Boa noite, preciso de ajuda para descobrir qual o autcode do meu domínio para que eu possa contratar o serviço de hospedagem.
 
-Member
-Mar 9, 2015, 10:10 PM
+The blog I need help with is garranchogjb.com. 
+To get support in your language post to
+Português (Portuguese): http://pt.forums.wordpress.com
+Português do Brasil (Brazilian Portuguese): http://pt-br.forums.wordpress.com
 
-I am saying this in a kindly way. lol :D Neither raincoaster nor I share "sentiments" in support threads. We post correct answers to support questions and have been doing that longer than all but one support staff member has even been on staff.There are many misunderstandings and misconceptions when it comes to custom menus. I suggest you read these two posts I link to below.
-http://wpbtips.wordpress.com/2010/06/30/posts-on-pages/
-http://wpbtips.wordpress.com/2011/12/19/custom-menus/You have created static pages that will never automatically update. Technically you can't post to more than one page on any blog but do read on. Static Pages and dynamic Category Pages are not the same. The former cannot automatically update but the latter do.
-http://en.support.wordpress.com/pages/
-http://en.support.wordpress.com/category-pages/If you want to have pages that do update then they must be replaced by dynamic category pages (and sub-category pages) that will automatically update every time you publish a post assigned to the relevant category and/or sub-category.By default the front page of the blog is the post that displays all posts in your blog. Though there is only one dynamic page in a blog for posts (not pages) http://en.support.wordpress.com/post-vs-page/ and we cannot post to more than that one page, we can create the appearance that we have posted to more than one page.We organize posts by assigning categories to them. You can create a custom menu and add the dynamic categories and sub-categories pages into the custom menu, and order them as you wish.
-http://en.support.wordpress.com/posts/categories/
-http://en.support.wordpress.com/menus/
-http://en.support.wordpress.com/menus/#adding-category-pages
-http://en.support.wordpress.com/menus/#changing-the-order-creating-sub-menus
-timethief
 
-Member
-Mar 9, 2015, 10:11 PM
+Instagram feed will not display says "There was an error retrieving images from Instagram. An attempt will be remade in a few minutes."  My account is authorized already and in the past two months I have never seen the Instagram widget work properly ever!
 
-But again, my questions above are not being answered. All CSS questions about altering theme appearance are posted into the CSS Forum.Custom design - Frequently Asked Questions
-http://en.support.wordpress.com/custom-design/#frequently-asked-questions
-http://en.support.wordpress.com/custom-design/
-http://en.support.wordpress.com/custom-design/editing-css/
-http://en.support.wordpress.com/custom-design/custom-fonts/Please use this link http://en.forums.wordpress.com/forum/css-customization#postform  so you can copy and paste your text into a thread that will appear in the CSS Forum where you will get the help you need.
-nagpalreema09
+The blog I need help with is sagemountainfarmblog.wordpress.com. 
+enable markdown doesn't appear on my settings => writing. what am i missing here? is it only available to paying customers?
 
-Member
-Mar 9, 2015, 10:43 PM
+The blog I need help with is storiesjourney.wordpress.com. 
+https://shamimj.wordpress.com/ hasn't had a published post for years now. Please provide the URL for the exact blog in question in the form of an active link starting with http://
 
-I apologize if I offended you. I was actually speaking of a few different people I spoke to earlier today. I will admit, I am frustrated with myself because I have been trying to figure this out for quite some time now.Originally, I wanted to have an excerpt of each post on the homepage. Someone from Support earlier told me it wouldn't be ideal because of my theme's limitations. She then told me that a new page (static page, I'm guessing?) would be ideal and that it could be added in the main nav. I went ahead and did that and assumed that I could go ahead and add posts right on that page. Maybe that's where I confused things.
-nagpalreema09
 
-Member
-Mar 9, 2015, 10:43 PM
+Oops! Are you referring to this blog http://storiesjourney.wordpress.com/ ?
+You have to be logged in as Admin http://en.support.wordpress.com/user-roles/#administrator under the exact same username account that registered the blog to access the blog's dashboard and proceed to enable markdown. https://en.support.wordpress.com/markdown/
+Clicking this link should display all your blogs registered under the same username, including the hidden ones: https://dashboard.wordpress.com/wp-admin/index.php?page=my-blogs&show=hidden
+If you do not see the blog here http://en.support.wordpress.com/my-blogs/ then
+follow this guide > http://en.support.wordpress.com/my-blogs/#my-blogs-dashboard-visibility
 
-I will go ahead and read these links. Thanks for sending.
-timethief
 
-Member
-Mar 9, 2015, 10:47 PM
+I was working on a draft, and lost it when I went to insert media.
+I want to insert an html image that came from a phone message I received.  Can I do this?
 
-I'm not offended. I have answered questions here for over 8 years, nearly 9 years and I have the skin of a rhino. That's why I included the lol :D above.
-nagpalreema09
+The blog I need help with is enerjoyce.wordpress.com. 
+If the post was created on the dashboard of your own blog at Dashboard > Posts > All Posts > Add New then you ought to be able to recover a lost post or page from revisions if needs be.
+http://en.support.wordpress.com/posts/post-revisions/
+To locate draft POSTS Dashboard > Posts > All Post > Drafts
+http://enerjoyce.wordpress.com/wp-admin/edit.php?post_status=draft&post_type=post
 
-Member
-Mar 9, 2015, 11:01 PM
 
-Good to hear :)Okay, so after reading. I think my first step is to set up a category page and trash the page that I created. Is that correct? I only want one page to update frequently, and it's that one. Because of that, I'm not sure that I need a custom menu. Or am I totally wrong?
-raincoaster
+Thanks.  I guess it's gone.  I typed it, posted two photos, and it disappeared when I went to grab a third photo.   I followed the steps you listed, and there's no draft pending.  The photos are still there, but I can't find the trail of where I inserted them.  Oh well.  I appreciate your help!
 
-Member
-Mar 9, 2015, 11:03 PM
 
-The first link I gave you contains links to the most important things you need to read, and you need to read them in order. It will all make sense once you have a dozen or so posts in various categories and have tinkered with menus a bit.
-nagpalreema09
+I'm very sorry this happened to you. You may want to look in your Trash.
+There is a long standing issue Staff are aware of if you use the new post editor for creating or editing posts.
+Provided you did not create the post in the new Beep Beep Boop editor where it's saved only on your browser, and is not auto-saved to the servers for your blog you may be able to recover a lost post or page.
+If the post was created on the dashboard of your own blog at Dashboard > Posts > All Posts > Add New then you ought to be able to recover a lost post or page from revisions if needs be.
+http://en.support.wordpress.com/posts/post-revisions/
+See also if applicable > restoring from trash http://en.support.wordpress.com/trash/#restoring-from-trash
+To locate draft POSTS Dashboard > Posts > All Post > Drafts
+http://enerjoyce.wordpress.com/wp-admin/edit.php?post_status=draft&post_type=post
+To locate draft PAGES Dashboard > Pages> All Pages > Drafts
+http://enerjoyce.wordpress.com/wp-admin/edit.php?post_status=draft&post_type=page
+(If you are referring to a Page then see here > http://en.support.wordpress.com/pages/page-revisions/)
+If you cannot locate a revision or restore from Trash then the content has been lost and cannot be recovered.
+I recommend:
+1. Always create your posts on the dashboard of your own blog at
+2. Dashboard > Posts > All Posts > Add New
+At the top of the new editor page when creating a post you should see a link to use the Classic view instead. Click that link. Then, if you have cookies enabled on your browser your preference will be saved unless or until your clear your cookies, and it will take you to the classic editor automatically every time you create a new post via the drop-down menu in the black admin bar or edit a post via the edit button on the blog itself.
+3. Immediately after creating a post and entering a title click the save draft link. Thereafter, "click save draft" frequently.
+4. Always allow pages to fully load before clicking any other links.
+5. Never leave a post or page open for content creation or editing and walk away from it, or open another tab in the same blog and work on something else while it is still open. Save it properly and return to edit it later.
+6. Use an offline blog editor so you have backups on your own computer http://en.support.wordpress.com/xml-rpc/
 
-Member
-Mar 9, 2015, 11:38 PM
 
-I've read. I created a category called N&R News. I also read about the custom menu...but I'm still not sure why I need that. I don't intend for these posts to populate on the homepage or on a dropdown. I have added my post to my category though.
-You must log in to post.No tags yet.
-An Automattic Creation
-WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportcweeks416
+Need to migrate to another host. They need to I.P.address of my wordpress blog to do it. Where do I get that? Cannot seems to find it anywhere.
 
-Member
-Mar 9, 2015, 11:04 PM
+The blog I need help with is dessert4everyone.wordpress.com. 
+Hi there,
+Please be sure to create at least two, pointing to the two IPs from the list below.
 
-I have a free word press account started. I used Quickinstall to install the paid version with  my own doman name carolweeksspeaks.com and it is not showing up. I go to the url and there's nothing on the page.
-raincoaster
+192.0.78.12
+192.0.78.13
 
-Member
-Mar 9, 2015, 11:38 PM
 
-I don't know what Quickinstall is, but it doesn't look like you have a blog at WordPress.com. What is your web host? It looks like Godaddy, in which case you need to deal with them and get support from the WordPress.ORG forums.
-You must log in to post.
-An Automattic Creation
-WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportelisagrasso
+Thank you very much!
 
-Member
-Mar 9, 2015, 10:22 PM
 
-I don't find "add media" over the text box, i can just write without adding medias. what can i do?
-The blog I need help with is lustinfashion.com.raincoaster
+Hi, 
+I am currently using "premium plan" via wordpress.com but i would like to change to wordpress.org in order to  be able to have different plug-ins and edit the website in any form i want. I would like to keep my domain name but i probably would need to change my current host to other host company right? 
+If this is the case, what can i do? Do i need to downgrade to "Free plan"?
+If so, how about all my video and picture that doesn't support in free plan. will it be lost? - Is there anyway to save them? 
+Lastly, if I cancel my domain name registeration now, will it be possible to use it again? (eg. via other host/domain company?) If i can use it again, how long will it take for settlement? and re-registeration?
+Really looking forward to your prompt reply!
+Thank you
 
-Member
-Mar 9, 2015, 11:04 PM
+The blog I need help with is minjiya.com. 
+My site, bankruptcyfocus.wordpress.com is giving some users trouble today.  The site resolves to the IP address 192.0.78.12, but when users click on bankruptcyfocus.wordpress.com, sometimes they get to our site, but at other times they do not.
+Doing a traceroute to bankruptcyfocus.wordpress.com gives the following:
+C:\>tracert bankruptcyfocus.wordpress.com
+Tracing route to lb.wordpress.com [192.0.78.12]
+over a maximum of 30 hops:
+  1    <1 ms    <1 ms    <1 ms  156.125.4.162
+  2    <1 ms    <1 ms    <1 ms  156.125.65.2
+  3    <1 ms    <1 ms    <1 ms  172.18.50.29
+  4    32 ms    43 ms     6 ms  172.18.50.2
+  5    37 ms    37 ms    39 ms  172.16.0.26
+  6    33 ms    33 ms    33 ms  172.16.0.25
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16    60 ms    60 ms    63 ms  192.0.78.12
+Trace complete.
+Websense reports that 192.0.78.12 is a compromised website and is to serve up malicious content to visitors.  They recommend that users not visit the URL in a web browser until the malicious content has been removed.
+Please answer the following questions:
+Is 192.0.78.12 the appropriate address to which our site should resolve?
+If yes, is this address compromised (or was it) with malicious software?
+If yes, has the malicious software been removed?
+Thank you.
 
-Are you an Editor or Admin of that site, or just an Author? Authors cannot add media.
-timethief
+The blog I need help with is atcprint.wordpress.com. 
+Can you give me a link to where you found the websense information? I can take a closer look.
 
-Member
-Mar 9, 2015, 11:07 PM
 
-raincoaster meant to say that Contributors cannot post media. https://en.support.wordpress.com/user-roles/#contributor
-elisagrasso
+My old wordpress blog did not import into my new blog. I followed the steps but the xml that was download said there was an error and i was given all the information UP TO the error. Not sure if this is why it didn't import to my new blog. Can you help?
 
-Member
-Mar 9, 2015, 11:11 PM
+The blog I need help with is kristinabrittphotography.wordpress.com. 
+Can you tell me what site you're exporting and what site you're importing to?
 
-And so what can i do to publish media? I have to say admins to let me become an admin?
-raincoaster
 
-Member
-Mar 9, 2015, 11:37 PM
+Vreau sa impartasesc cu toata lumea secretele frumusetii
 
-Editor. Not Admin. You can upload images somewhere else like Flickr and use HTML code to put them in the posts. Otherwise, you can't do it.
-You must log in to post.No tags yet.
-An Automattic Invention
-WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportekwestel
+The blog I need help with is neylamustafa.wordpress.com. 
+Is there something about your site that I can help with?
 
-Member
-Mar 9, 2015, 11:21 PM
 
-I don't have an "insert media" button. How can I insert media without the button
-raincoaster
+Please, I can't seem to find my "old" theme - the one I used until a couple of minutes ago. I was looking for maybe something new, but I can't go "back". I Think it was "Inuit", but that I couldn't find. Can you help me?
 
-Member
-Mar 9, 2015, 11:36 PM
+The blog I need help with is lttewatch.wordpress.com. 
+Hi there! You had been using the Inuit Types theme. This theme is retired now, so I would encourage you to update to a newer theme. But you should be able to re-enable it through your dashboard here:
+https://lttewatch.wordpress.com/wp-admin/themes.php?search=inuit
 
-What is the URL of the blog you're trying to insert media into? Also, are you an editor or admin there? Authors can't add media.
-You must log in to post.No tags yet.
-An Automattic Joint
-WordPress.com is an easy way to start blogging. Get a blog, check out our features, read the latest announcements, choose from great themes, or learn about the team behind it.You’re on our community support forums.Register or log in:Need help? Check out our Support site, then WordPress.com Forums » Supportarendaltango
 
-Member
-Mar 9, 2015, 8:11 PM
+How to add “Template” option in page attributes panel?
+
+The blog I need help with is iamirmax.wordpress.com. 
+how to add "template" option in page attributes panel
+
+
+Not an option on WordPress.com. Neither are plugins. For security reasons, you cannot add themes or plugins to a WordPress.com blog.
+
+
+More info about this:
+https://en.support.wordpress.com/themes/#uploading-custom-themes
+
+
+Hi chadong016 - could you tell me more about what you're trying to accomplish? Some themes come with page templates that you can use, but it's not possible to add new ones. You may be able to accomplish your goal with some custom CSS depending what you're trying to do.
+
+
+Hi Kathrynwp,
+Thank you for your reply if you click on the dashboard and add page on the right site in page attributes you will see "template" at this link
+http://codex.wordpress.org/Pages_Add_New_Screen
+but in my wordpress I can't see that menu why?
+
+
+No  template drop menu in page attributes in my wordpress
+
+
+Could you link to the site you need help with so I can take a look directly? It looks like you've deleted the site here: iamirmax.wordpress.com
+If you're not seeing the Page Attributes box you may need to unhide it via your Screen Options panel. While on a page, open the Screen Options panel by clicking the tab at the top right, and then make sure the Page Attributes box is checked off:
+https://cloudup.com/ccvZhxRBJMJ
+
+
+http://www.ibeyoutee.com
+
+
+I see page attributes box but I can't see template box.
+Actually I'm new with wordpress I have too many questions to ask I don't know can I ask them or not?
+
+
+You can see more details in this picture as well.As you can see there is no "template" option in page attributes.
+https://cldup.com/5_hzJ4wAFx.png
+
+
+http://www.ibeyoutee.com/ is a WordPress.ORG blog and you need to be in their forums for help with that.
+
+
+Looks like you're using Twenty Thirteen, and that you're running WordPress on your own hosting.
+Twenty Thirteen is a theme that doesn't come with any page templates, so that's why you're not seeing any available. Not all themes come with page templates.
+These forums are for folks hosted here on WordPress.com. Since you need help with your self-hosted site, as raincoaster mentioned, you'll need to post over in the WordPress.org support forums:
+http://wordpress.org/support/
+You'll need a free WordPress.org account to post - if you don't already have one, you can register here:
+https://wordpress.org/support/register.php
+Be sure to provide a link to your site when you post so people can help you more easily.
+
+
+Thank you raincoaster and Kathrynwp For your kind advice ^^
+
+
+sedayelove - my pleasure, good luck with your site!
+
+
+Hello, I need to renew our premium account but I'm not seeing any of the "cogs" on the My Upgrades page.  I am one of the administrators of the site, but not the creator.  How can I renew our site with a new credit card?  There was supposed to be an auto-renew but we have eclipsed the 30-day mark and there's no evidence that it has renewed.  Thanks,
+Aaron
+
+The blog I need help with is nrelscience.org. 
+I purchased a Premium account, but when I save my customized colors they are not being applied to the live blog. How can I fix this?
+
+The blog I need help with is ohgblog.com. 
+I checked http://ohgblog.com/ and I see that you purchased a custom domain for that blog, but you have not purchased a premium plan.
+In the customize section, you are probably looking at the trial, pre-purchase view. Look at the top of the colors panel and you will probably see a note explaining  you are in an upgrade preview and you can either purchase or exit the preview.
+
+
+I just checked my billing, and it lists a receipt for a purchase of a premium plan (for $99). Is there a way that this purchase could have been made but WordPress would have not upgraded my account?
+
+
+I just looked at http://ohgblog.com/ before because that's the blog you linked in your help request. I should have checked your account too. I checked it just now, and it looks like you've setup two separate blogs:
+1 - https://ohgdotblogdotcom.wordpress.com/
+2 - http://ohgblog.com/
+The first one has the premium plan, and the second one has a custom domain.
+I would suggest the following:
+Move the premium plan from https://ohgdotblogdotcom.wordpress.com/ to http://ohgblog.com/ and delete the https://ohgdotblogdotcom.wordpress.com/ blog since it looks like that one was created by you by mistake. Can you confirm?
+
+
+All good- thanks for your help!
+
 
 Hi, I have pressed the "go premium" and it send me to the "update" and it is empty, There are no "plans" active so how do I go premium?
-The blog I need help with is arendaltango.wordpress.com.galois
 
-Member
-Mar 9, 2015, 8:14 PM
-
+The blog I need help with is arendaltango.wordpress.com. 
 Try from here:
 https://store.wordpress.com/plans/premium/
-raincoaster
 
-Member
-Mar 9, 2015, 8:14 PM
 
 What browser and version are you using? Sounds like a browser problem.
-arendaltango
 
-Member
-Mar 9, 2015, 8:16 PM
 
 I have tried with Opera 27.0 and Google Chrom Versjon 40.0.2214.115 m
-galois
 
-Member
-Mar 9, 2015, 8:50 PM
 
 Do you have tried with that link?
-arendaltango
 
-Member
-Mar 9, 2015, 9:12 PM
 
 yes galois I did and it is the same
-galois
 
-Member
-Mar 9, 2015, 11:35 PM
 
 Ok, I tagged this thread with the modlook tag for Staff attention.
 Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
-You must log in to post.
-An Automattic Experiment
+
+
+Could you try one more time from this page:
+https://wordpress.com/plans/arendaltango.wordpress.com
+You'll be asked for your credit card info and should be ok from there.
+If it still doesn't work, please let me know and we'll take another approach.
+
+
+It works now, thank you!
+
+
+Hello!
+I've been having an issue about my domain name, seleneskibina.com for the last few days and been unable to resolve it. 
+2 months ago, I went for an upgrade trial on WordPress, which included a domain name as well (It was a 30 days trial, and I didn't buy it). Later I decided that I'd only need the domain name and nothing else, so I canceled the upgrade, only chose the domain name purchase which was basically $13. Now in my account, as I see, the domain will be available till 25th January 2016. Everything seemed OK to me, and I changed the DNS settings on WordPress to link this domain to my site that is hosted somewhere else. It worked for at least 1 month perfectly well, but a few days ago, when I typed seleneskibina.com, my site was no longer there.
+Then I saw the "DNS needs to be updated" sign in my WordPress account, and started making a research on the issue. I chatted with a WordPress staff, and he told me that I haven't registered my domain name on here, I only mapped it via WordPress, so I need to contact wildwestdomains.com - This is a site I've never heard before, but it seems like my domain name was registered on this site. I contacted Wild West Domains, telling them about the issue, and asked for my account info to edit my domain name DNS settings (and to transfer it to my other web host later on). But they told me that my domain name is not working now as it might have been expired or canceled, so I need to contact WordPress to cover this. The domain name shouldn't be expiring as the expiration date is actually 25 January 2016. I don't know what's wrong here, but when I check the status of my domain name via whois, I come up with this: http://who.is/whois/seleneskibina.com - which tells me the domain is no longer active, and is now in redemption period. 
+I thought the domain name would stay in my account as long as I renewed my payment (the domain mapping), so automated the renew feature. Now why is my domain name in redemption period? Didn't I pay for the whole year and register for the domain already? Could you please help me about this? 
+Thank you!
+
+The blog I need help with is seleneskibina.com. 
+Hi,
+I'd like some of my widgets to form part of main nav menu but it only lets me add pages, posts and links... The widgets don't come up
+If I google it then people suggest creating a new page template but this doesn't exist in my dashboard options?
+Many thanks,
+
+The blog I need help with is ruckmylife.com. 
+Hello! Adding widgets to your menu is not possible here on WordPress.com. Creating new page templates is also only available through self hosted WordPress.org sites.
+Can you tell me what you're trying to add? Maybe there's another way to do it!
+

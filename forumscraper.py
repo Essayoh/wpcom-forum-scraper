@@ -5,8 +5,6 @@ import bs4
 root_url = 'https://en.forums.wordpress.com'
 index_url = root_url + "/forum/support"
 
-tempstorage =  open('tempstorage', 'w')
-
 def get_page_urls():
     response = requests.get(index_url)
     soup = bs4.BeautifulSoup(response.text)
@@ -22,7 +20,7 @@ topic_urls.remove('https://en.forums.wordpress.com/topic/forums-in-other-languag
 for url in topic_urls:
 	response = requests.get(url)
 	soup = bs4.BeautifulSoup(response.text)
-	for p in soup.find_all('p'):
-		with open("workfile.txt", 'a') as workfile:
-   			workfile.write(p.get_text().encode('utf-8'))
+	for topic in soup.find_all(class_="post"):
+		with open("workfile.txt", 'a+') as workfile:
+   			workfile.write(topic.get_text().encode('utf-8'))
 
