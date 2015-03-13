@@ -1,9 +1,13 @@
 import requests
 import bs4
+import shutil
+import os
+from time import gmtime, strftime
 
 #didn't actually need to split these up, next iteration can be joined
 root_url = 'https://en.forums.wordpress.com'
 index_url = root_url + "/forum/support"
+current_time = strftime("%Y-%m-%d %H:%M:%S", gmtime())
 
 def get_page_urls():
     response = requests.get(index_url)
@@ -24,3 +28,4 @@ for url in topic_urls:
 		with open("workfile.txt", 'a+') as workfile:
    			workfile.write(topic.get_text().encode('utf-8'))
 
+shutil.move("workfile.txt",current_time)
