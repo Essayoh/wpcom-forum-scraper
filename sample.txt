@@ -1,0 +1,744 @@
+
+Will i receive invoice for a payment? I'm writing from AVON Lithuania company and for accountancy it's crucial to receive one.
+
+The blog I need help with is avonlietuva.wordpress.com. 
+Everytime i try and delete my site I get the following message:
+**Delete Site
+Warning! You cannot delete a site if it has a domain registration upgrade because you need access to the site in order to get to the domain manager.
+If you do not want to use your site any more please make it private. Other users won’t be able to visit the site but you can still access the Dashboard so you can get to the domain manager.**
+I have cancelled the auto renew on my domain name (held through wordpress) but it still hasn't helped!
+
+The blog I need help with is italorafaelsanchez.com. 
+@italorafaelsanchez19821
+I'd be happy to cancel italorafaelsanchez.com for you.
+Before I proceed, there are a few points I need to cover.
+If we cancel your domain, it can take up to several weeks for our domain registrar to release the domain, and we can't guarantee that your domain will be available to you again, once canceled.
+If you want to keep using your domain, but you don't want to use WordPress.com anymore, you don't have to cancel it. Instead, you can move the domain to another site, using the Domain Administration tool under Store > Domains, at the bottom of the page.
+For more information on using the domain elsewhere, please see:
+http://en.support.wordpress.com/domains/domain-management/
+Once you confirm how you'd like to proceed, I will get started processing your transaction, and you will be able to delete your site.
+
+
+Dear pmciano,
+Can you help us delete our site too?
+Thank you
+
+
+@newidealistmagazine
+To confirm, you'd like to cancel newidealistmagazine.com, correct?
+Just let me know and I will remove the domain from your site.
+
+
+Hi! Yes I'd like to cancel newidealistmagazine.com.
+We don't want to keep using the domain.
+Thanks.
+
+
+@newidealistmagazine
+I've canceled your domain, as requested.
+Let us know if you have any more questions :-)
+
+
+Can you delete my domain too please??
+
+
+@ineedmashedpotatoes
+To clarify, you'd like me to cancel ineedmashedpotatoes.com, correct?
+Once you confirm how you'd like to proceed, I will get started processing your transaction :-)
+
+
+Yes, I confirm! And the domain behind it too, please :-)
+
+
+Hi!
+On my blog http://grzesiopolak.com I deleted a page (about a month ago) with the link http://grzesiopolak.com/listy-do-polski/. I was chaning the whole section, so that page has gone to the bin, than was deleted permanently.
+After a month I came back and created a completely new page and wanted the link to be the same, i.e. http://grzesiopolak.com/listy-do-polski/ - forget about it. The system is changing it to http://grzesiopolak.com/listy-do-polski-2/ (like the old page was still there). Frustrating, as I've already made links in other posts and pages!
+It happens when I upload an image that I have to correct, too: after deleting the image "for ever", the new image will be automatically called "image-2" in the link - not just "image" ("-2" will be automatically added to any title in the URL).
+Does WordPress keeps those "deleted for ever" pages, posts and images somewhere in some cache on the server, so I cannot use the same name again in the link (after I delete images, posts or pages from Trash)? This is not very comfortable :/
+Unhappily, I had to go around and change the name from http://grzesiopolak.com/listy-do-polski-2/ to http://grzesiopolak.com/listy_do_polski/.
+Any suggestions as to what I do wrong?
+Adam
+
+The blog I need help with is grzesiopolak.com. 
+Hi
+My blog is blogoath.wordpress.com. I cannot access either of my blogs in the usual fashion, I can get into the opening screen after I sign in, but, this page will not show either of my blogs (the other being mixenglish.wordpress,com). Even clicking to "My Sites" will not show the names of my blogs.
+However, if I go to the yahoo page and type in "blogoath. wordpress.com", I cannot get my blog site but I can get into the wordpress forums page. From there I go to "My Sites" and choose "switch sites". From there I can get into my blog admin.
+I have cleared cache and cookies. I have even shut down the computer and re-started, In addition, I am on Internet Explorer 11 and using Windows 8.1.
+Is there anything else I can do?
+Looking forward to your reply.
+
+The blog I need help with is blogoath.wordpress.com. 
+@blogoath
+You can administer your site here:
+http://blogoath.wordpress.com/wp-admin/
+If you are still having a problem, let me know, and we can take the next troubleshooting step, once I get more feedback.
+
+
+Thanks for that..the link got me straight into my admin. However, when I go through the usual method (going through the wordpress front page) I still find the same result...that is, when I click on "My Sites" my blogs do not appear. I am left with a blank screen.
+But I do want to thank you for your response. In the short term, I will use either the  link you sent or I'll go through the "back door" via the forums page - because when I click on the "My Sites", it will show my blogs and I just click on "Switch Sites".
+
+
+@blogoath
+When I view your My Sites section, this is what I see:
+https://cloudup.com/cUw7vKyk6no
+https://wordpress.com/sites
+Also, you can reach your site's Dashboard from here:
+http://note.io/1wGZACt
+If I've misunderstood the issue, or if you have any other questions, please let me know.
+
+
+Sorry for taking so long to answer.
+My sites should be Blogoath and Mixenglish. The "cloudup" name - I have no idea what that is or where it came from. The "wordpress.com" name seem general...bit I didn't put that in as my site.
+When I go through the back door method (via forums) I can get both my sites.
+However, I still cannot get them after signing in...(the front door method?)
+I certainly do appreciate your help and I hope we can resolve this... so you can spend time doing other stuff.
+thanks
+
+
+@blogoath
+Cloudup is a service that can be used for sharing screenshots. I used it to share a screenshot with you to illustrate what I see when I view your My Sites page.
+It lists both of the sites that are associated with your WordPress.com account, Blogoath and Mixenglish.
+You can administer these sites here, respectively:
+https://blogoath.wordpress.com/wp-admin/
+https://mixenglish.wordpress.com/wp-admin/
+Let us know if you have any more questions :-)
+
+
+Thanks for the information...and thanks for the links. Thanks for telling me about Cloudup...although I don't understand why it is 'My Sites'...which I cannot see that at all, but I think you can.
+As I said before, I can see both my blog sites in the "My Sites" (and not Cloudup...which is okay) when I use the backdoor method - via forums. However, it does not explain why I cannot see them after I sign in with the usual method of going through the WordPress page...I only get a blank page when I press on "My Sites". Could this mean I have done something wrong...I must admit this something I do worry about. Also, does this mean I should use the links you sent me all the time in the future?
+Whatever happens I am still grateful that I can still use my blog...(quite infrequently at the moment, I admit).
+cheers for now
+
+
+@blogoath
+Can you please try clearing out your browser's cache?
+https://en.support.wordpress.com/browser-issues/#clearing-your-browser-cache
+Afterwards, try again and see if you're still getting a blank screen.
+If you are still having a problem, let me know, and we can take the next troubleshooting step, once I get more feedback.
+
+
+Yes I have done that. I did it again...same result as above.
+Sorry for being a nuisance.
+Thanks
+
+
+@blogoath
+Can you try using an alternate web browser (e.g., Firefox, Chrome) to see if you can replicate the issue?
+If you still experience the problem in other browsers, let me know, and we will continue to investigate the issue.
+Thank you for your patience.
+
+
+I purchased .com for 18 EUR and my blog came with wordpress.com?
+
+The blog I need help with is mirrormirrorontheworld.wordpress.com. 
+@jmihajlovic76
+I don't see any custom domains associated with your WordPress.com account.
+You can add one of these addresses to your site here:
+https://mirrormirrorontheworld.wordpress.com/wp-admin/paid-upgrades.php?page=domains
+Register a New Domain
+Let us know if you have any more questions.
+
+
+Thank you for your reply. What went wrong here is actually me :) I didn't fill in my credit card details correctly and that resulted in domain name wordpress.com. My apologies and thanks again for looking into this.
+
+
+@jmihajlovic76
+It's no problem. I'm glad you've got things worked out.
+If you have any other questions regarding WordPress.com, please let us know :-)
+
+
+I have one more, actually :) I upgraded to premium member and renamed my domain into mirrormirrorontheworld.com and made it my primary domain. When I try to customize a theme (Sela) which is active it is giving me an error message "safari can't find the server" it is referring to wp-admin/customize.php? What is going on? Thanks a lot!
+
+
+Hello this is a fellow up message to
+"nancythanki" who responded to my domain name/website renewal and she asked that i let her know when i made the payment so that they could begin the "recovery process".
+the payment has been made for "oysterrevival.com"
+ please let me know if you need any other info from us.
+you can email us at: [email redacted]
+thank you so much for your response. i very much appreciate it. 
+best-
+allison
+
+
+Guys, girls, need help here. Thanks! Also, where do I go for support as a premium member?
+
+
+@jmihajlovic76
+The Customizer on your site seems to be working OK:
+https://cloudup.com/cZ6_fKqUBXE
+Can you please try clearing out your browser's cache?
+https://en.support.wordpress.com/browser-issues/#clearing-your-browser-cache
+If you are still having a problem, let me know, and we can take the next troubleshooting step, once I get more feedback.
+@oysterrevival
+It looks like your domain has been successfully redeemed. It's valid through 2016-01-23:
+https://oysterrevival.wordpress.com/wp-admin/paid-upgrades.php?page=my-upgrades
+You can set your site's Primary Domain here:
+https://oysterrevival.wordpress.com/wp-admin/paid-upgrades.php?page=domains
+Let us know if you have any more questions :-)
+
+
+Hi there,
+I still have the same problem. Safari can't find the server. Cache cleared, throughout terminal as well. DNS reset also. Downloaded google chrome, I have the same issue. This should be something at the domains end. Please help! Thanks!
+
+
+You are right, it works with Sela theme. If I change my mind and want to upload another theme it is giving me an error message.
+
+
+@jmihajlovic76
+You should be able to change your site's theme here:
+https://mirrormirrorontheworld.wordpress.com/wp-admin/themes.php
+If you're receiving an error, send me a screenshot, so I can better understand the issue. You can simply upload the screenshot to your Media Library, like any other image, and I'll be able to access it from there.
+The page at the following link has some helpful tips for taking screenshots:
+http://en.support.wordpress.com/make-a-screenshot/
+Once I get some feedback, we can take the next troubleshooting step in resolving your issue.
+
+
+HI,
+The image is uploaded in my media library. Just to clear out things one more time:
+I have two domains:
+1) mirrormirrorontheworld.com (my primary domain)
+2) mirrormirrorontheworld.wordpress.com (my secondary domain)
+I want to use my primary domain, upload a theme and customize it.
+I created these two one day after another so I think the confusion is there, that system somehow mixed up those two. If the solution is to get rid of one than please delete one with wordpress.com ending.
+
+
+You cannot upload a theme to a WordPress.com blog, whether you buy a custom domain for it or not. 
+http://mirrormirrorontheworld.com/ is a WordPress.COM blog. It has a custom domain. You cannot add a theme to it. You cannot customize it without the customization upgrade.
+
+
+You cannot add a theme to it. You cannot customize it without the customization upgrade.
+@jmihajlovic76: your account is later than 01/09/2014
+If you want the Custom Design upgrade, you need a plan
+As of September 1, 2014, Custom Design is now a feature of the WordPress.com Premium and WordPress.com Business. You may choose one of the plans listed at https://store.wordpress.com/plans/.
+https://en.support.wordpress.com/custom-design/
+
+
+I am a premium member. Starting to question my decisions here... :)
+
+
+I am a premium member. Starting to question my decisions here... 
+Ok, I gave you relevant info. For free.   ;)
+
+
+Thanks galois! :)))
+
+
+Need help here. Thanks!
+
+
+So lets say I am trying to add prophoto to my basic site I now have to pay for premium or business to be able to add it?
+
+
+@jmihajlovic76
+Themes can't be uploaded to blogs hosted on WordPress.com. They can only be uploaded to self-hosted blogs running on WordPress.org software. You can read more about the differences between WordPress.com and WordPress.org here:
+http://en.support.wordpress.com/com-vs-org/
+On WordPress.com, you can select from a variety of themes to change your blog's appearance. You can read more about customizing the appearance and theme of your blog on WordPress.com here:
+http://en.support.wordpress.com/themes/adding-new-themes/
+We offer over 210 themes, both free themes and premium themes created by leading theme companies. You can view all of our themes  and filter them by specific criteria here:
+http://theme.wordpress.com/
+You can also post suggestions for new themes we might add on our public user forum:
+http://en.forums.wordpress.com/topic/how-to-use-the-themes-forum
+At present, you have one WordPress.com site, mirrormirrorontheworld.wordpress.com, which has a custom domain associated with it, mirrormirrorontheworld.com. You will only see the mirrormirrorontheworld.wordpress.com address when you're administering your site.
+For more information about the differences between domain registration, hosting, and mapping, please see our page All About Domains:
+http://en.support.wordpress.com/domains/all-about-domains/
+If you have additional questions, please let us know.
+@marcumphotograpy
+As I stated above, themes cannot be uploaded to WordPress.com sites.
+If you need assistance with anything else, please let me know.
+
+
+How do I get rid of the Beep beep boop when I want to do a new post? I just want to go back to the Classic mode as if is far more user friendly.
+
+The blog I need help with is anotherday2paradise.wordpress.com. 
+Go to the My Sites link in the dark admin bar, and on the drop down, click WP-Admin and from there you can get to the classic editor.
+
+
+Raincoaster, I followed your instructions but am not seeing an option. I dislike the new format so much I am considering moving back to Blogger (which I don't like!).
+
+
+@mroby: see here:
+https://en.forums.wordpress.com/topic/please-reinstate-the-option-of-choice-to-use-the-old-publishing-format/page/3?replies=153#post-2311085
+
+
+Why must it be difficult to find? Why not have it as a link on the screen as it was?
+
+
+How do I add additional websites to my Profile? While in the profile, I click Add WordPress Site. My two sites that are in there show but when I click Add Site, it does nothing.
+Shawn
+
+The blog I need help with is www.ambassadorsforchristradio.com. 
+Hi
+I've been trying to embed an instagram video on my blog for the last 2-3 days. All I'm doing is copying the instagram embed code and posting it in the blog post. 
+The issue is that video is showing full width but only half height. So if the video is supposed to be a square (as instavideos are) I'm getting a rectangle, with the correct width but a short height. 
+Please help me fix this, its driving me nuts.
+
+The blog I need help with is blueant.in. 
+@headant13
+Please refer to the following support page to learn how to embed Instagram content on a WordPress.com site:
+https://en.support.wordpress.com/instagram/instagram-images/
+If you have additional questions, please let us know.
+
+
+Thanks for the link. I've gone through it several times. The embed methods described, ie with a short code or just by putting the url, are not working on the blog. 
+Is there some other way to do this?
+Thanks,
+Arjun
+
+
+Yes, and you should be doing it that other way. The reason WordPress.com instructions do not work for you is that you do not have a WordPress.com blog. 
+http://blueant.in/ is a WordPress.ORG blog and you need to go ask in their forums.
+
+
+Sorry, my mistake. Feeling extremely embarrassed now.
+Will move this question to their forums.
+Thanks!
+
+
+No worries. Some days a third of our questions are from WP.org sites.
+
+
+@headant13
+It's no problem.
+If you ever have questions regarding WordPress.com, let us know :-)
+
+
+Hi!
+I've been wanting to delete my domain. I already enabled renewal, but cannot seem to delete the domain and keep being sent in loops when i want to contact support.
+Please delete it! I've transfered everything and just want to get rid of the domain on wordpress.
+Thanks.
+
+The blog I need help with is ineedmashedpotatoes.com. 
+How do I post to a page and how do  I assign different posts to different pages? Plus, how do I do this and also have my most recent post documented on my home page?
+
+The blog I need help with is olivialarkinblog.wordpress.com. 
+@oliviajlarkin95
+You can edit your Pages here:
+https://olivialarkinblog.wordpress.com/wp-admin/edit.php?post_type=page
+Pages
+To learn more about Category Pages, please check out the following support document:
+Category Pages
+Your most recent posts are set to display on your site's home page:
+https://olivialarkinblog.wordpress.com/wp-admin/options-reading.php
+If you’re just getting started, Blogging University can be an excellent place to begin your WordPress.com experience.
+https://dailypost.wordpress.com/blogging-university/
+Once you sign up for a course, you will get access to The Commons, where you can get helpful feedback from Happiness Engineers, as well as other WordPress.com users. It’s a great place to make connections and receive community support.
+https://dailypost.wordpress.com/blogging-u-guidelines/
+You can also browse our support documentation and check out the forums; you might find the answer you're looking for:
+http://support.wordpress.com
+http://forums.wordpress.com
+Let us know if you have any more questions.
+
+
+Thank you so much, @pmciano ! With your help I was able to sought that out.
+One more  question - if I have posted to a specific page how do I get there to be a link/summary of that post on my home page (not the full post)?
+
+
+@oliviajlarkin95
+You can accomplish this with the More Tag:
+More Tag
+If you have additional questions, please let us know :-)
+
+
+Hello,
+Already for very long the widget of the home page connects to flickr isn't working.
+Its a shame since the home page looked much better with the photos linked.
+I removed and added it many times and still doesn't work.
+Any help?
+Thanks,
+Monica
+
+The blog I need help with is eaelalto.wordpress.com. 
+For our school newspaper, I wanted to add a feature where the students could click on their name here: http://midwoodargus.org/period-3/ then it would lead to a separate tab that show all the articles they had published. We already posted their articles for the beginning of the school year and their names are on each posts, so is there a way to have a link to articles with their names?
+I know we could have made categories with all the students names and did it then, but there are over a 100 students and we can't do this every year the students change. 
+So is there another way?
+
+The blog I need help with is midwoodargus.org. 
+@midwoodargus
+You could do this with Tags.
+First, you'd create a tag for each student:
+https://midwoodargus.wordpress.com/wp-admin/edit-tags.php?taxonomy=post_tag
+Then, add each student's tag to their content:
+https://en.support.wordpress.com/posts/tags/
+https://midwoodargus.wordpress.com/wp-admin/edit.php
+Finally, link to each student's tag page on your Period 3 Page:
+Links
+Let us know if you have any more questions :-)
+
+
+thank you. it worked, but I can only link on article for each students and some students have more than one. How do I fix this?
+
+
+@midwoodargus
+If a student has more than one piece of content, you can simply add their tag to additional pieces of their work.
+On that student's tag page, all of their work will show up.
+If I've misunderstood the issue, or if you have any other questions, please let me know.
+
+
+I have been using the old posting format without problems. 
+Today, that option has been removed.  
+Why?
+The "new format" is problematic and cumbersome.
+The older publishing platform did not have issues that caused security features in my browser to alert me every few minutes to intrusive programs running in the background. 
+With the old format I don't have to recreate categories and tags with each new post.  
+I have hundreds that I need and use every day but the established categories  do not  show up.  Yes, I see that  drop down menu, but it only offers 6 choices.  What happened to the category list already created?
+It is important that I be able to set the time for each post.  It is my system for ordering my work and has nothing to do with "scheduling". 
+There are numerous other issues that can only be resolved by allowing the choice of working with old editing-posting format.
+Without that option, I will be forced to leave WordPress.
+
+The blog I need help with is libya360.wordpress.com. 
+UPDATE:
+It seems that the editor is only malfunctioning on  some of my websites, not all. 
+On libya360.wordpress.com, everything is working smoothly. The speed is much faster compared to the sister sites,  I can see all the  established categories in the drop down and set the publication time.
+My guess is that you are still working on the changeover and things will normalize soon?
+
+
+The new format sucks.....Options are left out...for example, I'm unable to tag new pages to a home page....I'm sure there are people who like the new format....but there are a lot, I'm sure, who, like myself, do not....I hate it....give us the option to use the Classic mode...
+
+
+Today, that option has been removed.
+Why?
+Nope, you can always find the classic editor.
+See here: https://en.forums.wordpress.com/topic/new-improved-edit-interface-is-still-deleting-numeric-tags?replies=21#post-2309540
+
+
+galois, 
+The classic option was available yesterday but not today so this is a recent change. WP had promised to keep the option open. For some reason it's been closed, at least on my website.
+
+
+The classic option was available yesterday but not today so this is a recent change. WP had promised to keep the option open. For some reason it's been closed, at least on my website.
+I understand you and I know about this.
+But the classic option is still available for you.
+From here: https://cloudup.com/cfMJ02ama_r
+
+
+When I select edit on my post, it automatically goes to that new bee-bo-boop format and I have no way to switch to the classic editor at that time.  There should be a button on that page to switch the view, like it used to.  Now, I have to go to my classic site, find all of my posts and then edit from there, instead of using the quick edit link that is on the posts.  You've just made it so much harder to use wordpress.
+Please do not default to that crappy new editor.   I want the original editor to be my default 
+thank you
+
+
+Or see here: https://en.forums.wordpress.com/topic/new-improved-edit-interface-is-still-deleting-numeric-tags?replies=23#post-2310052
+
+
+Again, @cbiancardi:
+See here: https://cloudup.com/cfMJ02ama_r
+or here: https://en.forums.wordpress.com/topic/new-improved-edit-interface-is-still-deleting-numeric-tags?replies=23#post-2310052
+
+
+again, @galois, you aren't understanding - I have no default button on that crappy new editor to flip me back to the classic one.  I don't care that I can jump thru hoops to get to the classic editor - I didn't have to do that before.  I do not want the bee-boop editor as my default.    I already know that I can go thru several clicks to get to the old editor.  What I want is my user experience that I had recently - which I didn't have to do all of these things to just edit a page.
+unless you have a solution to that, I will wait for someone in tech support to respond.
+
+
+As long as the new editor continues to delete posts the way it does, it's my opinion that it should be taken offline completely until fixed. It's irresponsible.
+
+
+https://itf1011.wordpress.com
+I totally agree.
+For the third time this evening I have made extensive changes to a post or page, only for the save or post/publish act to only part fill the 'new' green progress bar at the top and then simply stop, rendering my new work lost in limbo, neither saved, published, nor retrievable without a page refresh (which results in a blank editor).
+I am furious. 
+I now need to re-work the entire piece again.  I am now forced to copy and paste my work into WordPress if it cannot be relied upon to save it successfully.
+I have noticed a significant amount of change over recent months, none of which seems to add any quantifiable value, and indeed seems to lessen user experience.
+I am becoming increasingly frustrated with the barrage of change for no apparent reason.
+The list of things that now aggravate me is extensive, so I shall not list it here.
+It was all awesome as it was about a year ago.  Now we have nice new jazzy editors and menus and I like none of it.
+Stop changing things!
+If it ain't broke don't fix it.
+Change for change sake is the worst kind of change.
+
+
+@cbiancardi: I am a volunteer and was trying to help you find the way to the classic editor.
+Do not discharge your anger to me.
+
+
+I will wait for someone in tech support to respond.
+Keep dreaming, @cbiancardi
+
+
+I can't find a better place to post this so here goes - like some others I'm struggling with the new editor, got very used to the old but I do understand things change and I need to change with them. What I want to do is to change dates on my posts. I run a lost and found site for animals in Darwin (Australia) and I want to repost those animals which have been lost for a long time. Under the reschedule it appears I can only reschedule for a time in the future and not for the immediate. I used to be able to do this with the classic editor. I really don't want to recreate the whole post which is the only way I can see of doing it. Do I need to download new software?
+Really hoping somebody can help. I'm sure I'll have further questions as time goes on. many thanks telaf
+
+
+Please please please please let us get back to the old editor dearest WordPress. I am lost on this new one. The old one was so easy and now I can't get it back..... :-(
+
+
+I'm reading that there are a series of clicks I can make to get back to classic editor now that the button is gone. Can anyone tell me what those clicks are? I will happily click away to get back there...
+Thank you!
+
+
+Please re-instate the option to switch......
+.... And stop fiddling with things.
+
+
+If you go to the old style Dashboard and select add New Post then you get the old style editor (with the option to beep boop bump).
+If you go to the  old style Dashboard and select the list of Posts, then you can edit your post using the old style editor.
+I have a horrible feeling about this. I hope I'm wrong.....
+
+
+@galois - my anger is not "being" discharged towards you.  If you had bothered to read my post, you would have seen that I already know how to "get" back to the classic editor.
+You didn't bother to read my posts.  Volunteer or no, if one doesn't bother to read what the issue is, then there isn't much help there if the problem isn't being handled.  You are just repeating the same thing over and over again, and not responding to the question.  If you don't have the answer, then please don't respond to it with a canned response.  You are wasting your volunteer time
+
+
+I am fairly pi**ed off about this too, but lets direct our energies towards getting the option back. (Lets hope it doesnt take as long as last time).
+In the meantime, I spent 20 minutes looking for an add-on that would help. I think someone told us about something like this last time. Not sure.
+Anyway, if installed the  firefox add-on
+ URL link 
+ that allows you to transform the link to the new editor, to the one for the old editor.
+This means that you can right-click on any Edit post button and go directly to the old editor.
+I know its not a solution, but it is a work-around. (You would need one for each of your blogs). I will give more details if anyone is interested.
+
+
+@knashermac2009 I would love details on that!  Would that work for the free version of wordpress?   thank you so much!
+
+
+@cbiancardi Yes  it will work!
+1. Download and enable the firefox add-on URL Link 2.04.03
+2. From the list of add-ons, find URL Link and click on Options
+3. Click on th e"Edit Menu" tab and add a new entry
+ Edit Post|https://yourWebSiteURL/wp-admin/post.php?post=*&action=edit
+(Edit Post is what you will later. The stuff after the | is the link to the classic editor. The * will be the post_id)
+4. Click on the "Edit Search and Replace String" tab and add a new entry
+https://wordpress.com/post/yourWebSiteCode/||
+The bit before the || is the link to the new editor without the post id. Link URL is going to remove this (leaving the post_id). You can obtain yourWebSiteCode (a 7 digit number) by hovering over a link to the new editor (as in New Post or Edit Post).
+5. Click OK. I removed all the other entries in both menus to remove clutter.
+6. Now, when you go into your blog, right-click on any edit button and hover over "Open Selection". You'll see "Unaltered" plus all the items from the Edit Menu in URL Link (including Edit Post). Select the latter.
+
+
+Please Reinstate the Option of Choice to Use the Old Publishing Format -- strongly echoed
+
+
+We all appreciate what volunteers do, but I sometimes think that this system is reinforcing WP's already bad habits. The volunteers get a lot of the anger which WP should be feeling itself.
+
+
+I would like to speak for a subgroup of bloggers on WordPress.
+I blog anonymously and in private browsing windows.  When I close my browser, the cache is deleted.  Since the new editor apparently stores drafts in a computer's cache, the new editor is absolutely not an option for me.
+Now imagine all those college students who have to use campus computer labs... you know, those students who don't have their own computer or smart phone.  (Yes, plenty of those still exist in spite of the proliferation of such technology among youth.)
+If the new editor had been the only visible option when I started blogging, I would not have stayed on WordPress for more than a day.  It wouldn't have been feasible.  (Having been here for a while, I know there are workarounds.  A newbie wouldn't realize that.)
+
+
+@bumblepuppies ... so with the new editor, if the cache is emptied you lose all your drafts?? I have dozens of drafts. They are my "lab" for future posts. Am I going to lose them once the classic editor is shut down?? This is the worst thing I have heard yet. Anyone??
+
+
+@davidderrick-Who said anything about the Classic Editor being shut down?
+
+
+@davidderrick
+That is my understanding.  The workaround would be to publish your drafts, but schedule them for a time that's 100 years into the future.
+
+
+It would be foolish to assume the classic editor is staying, no?
+
+
+Ich habe ein eigenes Bild im Bereich "customize" eingefügt, es wird jedoch nicht hochgeladen und über meinem ersten Posting angezeigt:(
+
+The blog I need help with is worldwide2000.wordpress.com. 
+I have a WordPress.com website and have upgraded to the premium plan where it is hosted via WordPress.com. My question is- if I upgrade to the business plan on WordPress.com am I able to do affiliate advertising, set up my website how I like? Or does WordPress.org have different priced plans with different plans? I will be selling ebooks/file downloads and also products like printed menu planners etc so need to be able to sell them easily to customers. On the other hand I have no idea with the technical side of websites and how to set them up with coding etc and do not have a budget (yet) for paying someone else to do it. I am not great with all of this stuff and am willing to learn though. Can anyone help me with what they think would be best for me and my business? Thank you.
+
+The blog I need help with is lunchboxideasforkids.com.au. 
+@lunchboxideasforkids
+WordPress.com offers several options for those who want to generate some revenue from their blog or site, including affiliate links, advertising, and PayPal and eCommerce integration.
+You can read more about affiliate links and the types of advertising allowed on WordPress.com here:
+http://en.support.wordpress.com/affiliate-links/
+http://en.support.wordpress.com/advertising/
+If you would like to sell your own work or solicit donations using Paypal on your WordPress.com site, this link will give you instructions for setting up a PayPal button:
+http://en.support.wordpress.com/paypal/
+WordPress.com Business users can integrate eCommerce features in their site by using one of our eCommerce partners. If you have a store at Ecwid, Shopify, or Shoplocket, you can showcase and sell your products on your WordPress.com site:
+http://en.support.wordpress.com/ecommerce/
+If you require eCommerce/shopping cart functionality beyond this, you might be interested in a self-hosted (WordPress.org) installation. There are no restrictions on eCommerce if you set up a self-hosted WordPress.org blog instead of a WordPress.com blog, but there are some added responsibilities.
+Please see this link to learn about the differences between WordPress.com and WordPress.org:
+http://support.wordpress.com/com-vs-org/
+If you have additional questions, please let us know.
+
+
+Hi I just want to double check- I am able to sell products from my business on any of the wordpress.com or WordPress.org accounts? Thank you.
+
+
+You are able to sell things YOU produce. You aren't allowed to sell stuff like Mary Kay or whatever.
+And no paid advertising.
+
+
+@lunchboxideasforkids
+Yes, you can sell products you produce and you can use affiliate links. Please review the documents I posted to for specific requirements.
+Keep in mind:
+Sites whose primary purpose is to drive traffic to affiliate storefronts, rather than creating original content, will be banned as spam. Promoting affiliate links through comments or the support forums is also considered spam.
+https://en.support.wordpress.com/affiliate-links/
+While most affiliate links and sponsored posts are allowed on WordPress.com, we do not allow image ads or third-party advertising networks like Google AdSense, OpenX, Lijit, BuySellAds, and Vibrant Media.
+https://en.support.wordpress.com/advertising/
+Also, please review our Terms of Service:
+http://en.wordpress.com/tos/
+Let us know if you have any more questions.
+
+
+How do you change a blog to a website?  I accidentally clicked on that I desired to create a blog rather than a website.
+
+
+When the featured image of a post is clicked the page scrolls back up to the header.  How can I make it stay on the post instead of scrolling back up to the header?  Users will have to scroll back down to the post.  I am using Utlimate theme.
+
+The blog I need help with is thebuttonchronicles.wordpress.com. 
+@thebuttonchronicles
+I don't see any featured images set for your posts.
+Can you confirm the address of the WordPress.com site in question?
+Once you give me some additional clarification, I will be more than happy to continue addressing your issue.
+
+
+bestfuturisticmovies.com
+
+
+@thebuttonchronicles
+You've reached support for the free blogs hosted at WordPress.com. The site you've indicated, bestfuturisticmovies.com, is running a self-hosted/installed version of WordPress (using the free WordPress.org software).
+To clear up any confusion, WordPress.com and WordPress.org are two different entities. You can read more about that here:
+http://support.wordpress.com/com-vs-org/
+Since your site is self-hosted with a different provider, support staff at WordPress.com do not have access to your site's files or the ability to provide support for your current issue. 
+You can find support for your self-hosted WordPress site here:
+http://wordpress.org/support/
+http://codex.wordpress.org/
+You may also wish to contact your host's support team for more assistance.
+In regard to your issue, the following pages may be of assistance:
+http://www.themehorse.com/theme-instruction/ultimate/
+http://www.themehorse.com/support-forum/forum/ultimate-free/
+If you have any questions regarding WordPress.com, please let us know.
+
+
+I am just learning about wordpress and am creating a website that I do not want published/visible to anyone. Can I unpublished my site? if someone types in the name of my site or wants to use it, i want them to be able to use it.
+
+The blog I need help with is impactvolleyball.wordpress.com. 
+Hi there,
+All you have to do is go to Settings. There should be a heading on that page called 'Site Visibility' - just check the option that applies to you there, possibly 'I would like my site to be private, visible only to users I choose' is what you're after.
+Hope that helps!
+
+
+My login still works at mysite.wordpress.com/wp-admin, but my admin capabilities have disappeared.
+
+The blog I need help with is aquiachoir.wordpress.com. 
+What is the URL of the blog you are trying to log into please?
+
+
+aquiachoir.wordpress.com
+or actually aquiachoir.wordpress.com/wp-admin
+
+
+@eridout
+Your user account does not own aquiachoir.wordpress.com.
+At present, you are a Contributor to the site:
+https://en.support.wordpress.com/user-roles/#contributor
+If you have additional questions, please let us know.
+
+
+Pmciano,
+Thanks for the reply.
+I'm confident this must mean I have forgotten the user account I used to create and administer the site. I'm also confident that no other person would have been given exclusive admin rights to the site. Evidently for some now forgotten reason I must have created myself an additional account without admin capabilities.
+Is it possible please for you to tell me the account which does have the admin capabilities?
+Thanks.
+--Edwin Ridout
+
+
+@edwinridout
+I will privately respond with your Account Recovery options.
+You will hear from me soon.
+
+
+On this page I would like to change the current h2 tag to "more information". How do I do this and keep the descriptions for each of my products?
+http://162.217.146.207/~smilesfirst/product/h2tag/
+
+
+Hi, you are in the wrong forum.
+This forum is for blogs/sites hosted by WordPress.com
+WordPress.COM and WordPress.ORG are completely separate and different http://support.wordpress.com/com-vs-org/
+And you should ask in the WordPress.org forum.
+http://wordpress.org/support/
+
+
+can't seem to get to the "copy a post" on my wordpress. I also cant get to my "dashboard" on my site????
+
+The blog I need help with is revdawncasseday.wordpress.com. 
+can't seem to get to the "copy a post" on my wordpress. I also cant get to my "dashboard" on my site????
+What is the URL of your Site/blog? (starting with https://...)
+
+
+I am trying to embed an issuu catalogue by pasting the link, but it is just showing up as a URL in my Visual Editor.
+Here is the issuu link:
+http://issuu.com/houseandhomemedia/docs/b506h_event_e_online_cropped_2?e=0/11761704
+
+The blog I need help with is gimmeshelter416.wordpress.com. 
+Follow this instructions:
+https://en.support.wordpress.com/issuu-embeds/
+
+
+I used to have a site through godaddy a few years back, and it's showing up in my wordpress.com account even though the domain has long since cancelled.  Please remove this website (www.golivealot.com) from my wordpress.com account.  Thanks!
+
+The blog I need help with is www.golivealot.com. 
+Hi there,
+Staff can and will do this for you. Please subscribe to this thread so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+okay, done
+
+
+Good now all you need is patience. :)
+
+
+Hi there,
+It has been removed from your account as requested.
+Cheers!
+
+
+Could I make one more request?  I would also like to remove/delete the site automatemyfitness.wordpress.com as well.  It can be removed and the URL can be released.  Thanks for your help!
+
+
+cannot change theme or pictures.  Asks me to sign in but will not allow as I am already signed in to account.
+
+The blog I need help with is www.pearlnuggets.com. 
+Hi, you are in the wrong forum.
+This forum is for blogs/sites hosted by WordPress.com
+WordPress.COM and WordPress.ORG are completely separate and different http://support.wordpress.com/com-vs-org/
+And you should ask in the WordPress.org forum.
+http://wordpress.org/support/
+
+
+BTW, this a duplicate thread:
+https://en.forums.wordpress.com/topic/changing-layout-1?replies=2#post-2312078
+Read also:
+https://en.forums.wordpress.com/topic/site-still-showing-under-construction?replies=2#post-2305039
+And ask  in the WordPress.ORG forum.
+http://wordpress.org/support/
+
+
+Play carnatic music on keyboard.no music teacher needed.Innovative Srisaraswathi 72 melakarta chakra.see and play.
+To buy please visit;
+website http://www.faces108.com
+
+The blog I need help with is srisaraswathi72melakartachakra.wordpress.com. 
+Hi! On my site's Home Page I see both the words HOME and BLOG in orange. However, when I click on BLOG, only that word is orange, with the rest being black (same with ABOUT). How can I update it so that when a user is on the Home Page, only the word HOME is orange?
+LINK: http://thedarkesthourjournal.com/
+Thanks!
+
+
+Hi, you are in the wrong forum.
+This forum is for blogs/sites hosted by WordPress.com
+WordPress.COM and WordPress.ORG are completely separate and different http://support.wordpress.com/com-vs-org/
+And you should ask in the WordPress.org forum.
+http://wordpress.org/support/
+
+
+HI!
+Can someone please help me to tell me how to restore my Blog mammanenne.se - its gone?? and when  try to update or visit the blog i get this message: Fatal error: Call-time pass-by-reference has been removed in /var/www/mammanenne.se/public_html/wp-content/plugins/yd-profile-visitor-tracker/yd-profile-visitor-tracker.php on line 174
+What is wrong!? 
+please help me!
+BR Jennie
+
+The blog I need help with is mammanenne.se. 
+The blog I need help with is mammanenne.se.
+Hi, you are in the wrong forum.
+This forum is for blogs/sites hosted by WordPress.com
+WordPress.COM and WordPress.ORG are completely separate and different http://support.wordpress.com/com-vs-org/
+And you should ask in the WordPress.org forum.
+http://wordpress.org/support/
+
+
+why aren't my posts posting to my blog page.  I have my 'home' page set to show my recent posts and my posts show up fine there, but none of my posts are posting to my actual blog page.
+
+The blog I need help with is anewheartinpng.wordpress.com. 
+I am trying to register my wordpress site with a new domain name. I am being told that only a .me is available which is OK, but it isn't allowing me to pay. It keeps telling me that it is already in the cart ...confused
+
+The blog I need help with is rootgrowth.wordpress.com. 
+I am trying to register my wordpress site with a new domain name. I am being told that only a .me is available which is OK, but it isn't allowing me to pay. It keeps telling me that it is already in the cart ...confused
+
+The blog I need help with is rootgrowth.wordpress.com. 

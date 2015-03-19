@@ -7,7 +7,13 @@ from time import gmtime, strftime
 #didn't actually need to split these up, next iteration can be joined
 root_url = 'https://en.forums.wordpress.com'
 index_url = root_url + "/forum/support"
-current_time = strftime("%Y-%m-%d %H:%M:%S", gmtime())
+date = strftime("%Y-%m-%d")
+
+check_data = os.path.exists("data/" + date + ".txt")
+
+if check_data == False:
+	file=open(os.path.join("data/", date + ".txt"), 'w')
+
 
 def get_page_urls():
     response = requests.get(index_url)
@@ -25,7 +31,5 @@ for url in topic_urls:
 	response = requests.get(url)
 	soup = bs4.BeautifulSoup(response.text)
 	for topic in soup.find_all(class_="post"):
-		with open("workfile.txt", 'a+') as workfile:
+		with open(os.path.join("data/", date + ".txt"), "a") as workfile:
    			workfile.write(topic.get_text().encode('utf-8'))
-
-shutil.move("workfile.txt",current_time)

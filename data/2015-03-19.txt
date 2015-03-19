@@ -1,0 +1,1734 @@
+TEST TEST TEST
+According to https://en.support.wordpress.com/recycling-blog-names/ the reason why URLs of deleted blogs are never recycled is because someone may confuse the new blog with the old one, and get angry at previous owner.
+But what about when YOU are the owner of the old blog? This reasoning doesn't apply, so I see no reason why a user shouldn't be allowed to recover a URL that was once his.
+Is there some OTHER reason for not allowing users to recover their past URLs?
+
+The blog I need help with is elancora.wordpress.com. 
+PS: I was required to select a blog in order to post this post, so I selected elancora.wordpress.com, but the blog I would like to recover is lfschenone.wordpress.com
+
+
+But what about when YOU are the owner of the old blog? This reasoning doesn't apply, so I see no reason why a user shouldn't be allowed to recover a URL that was once his.
+Is there some OTHER reason for not allowing users to recover their past URLs?
+You have received several warnings before deleting the blog. Even an email.
+https://en.support.wordpress.com/delete-site/
+
+
+I know that, thanks. You are not answering the question.
+
+
+You are not answering the question.
+Yes, I did.
+In all these warnings you received, was informed that you could not retrieve the URL.
+
+
+Sorry but the URL & the site/blog are gone. Forever.
+
+
+I'm asking for the REASON why you cannot recover your OWN previous address. The reason man. Do you know it?
+
+
+You have your answer.  You ignored multple warnings that deleting a blog URL is permanent and irreversible and no,  registering the deleted URL is not possible.
+Blog deletion is not easily accomplished. To prevent accidental or inadvertent deletion of blogs, there are multiple warnings given that blog deletion is permanent and irreversible. 
+Lastly, a verification link is sent in an email and must be clicked to delete a blog. If clicking that link does not work then copy and paste it into your upper browser window and click. If you click the URL is gone forever. http://en.support.wordpress.com/delete-site/
+Deleted blog URLs are not recycled, regardless of who registered and deleted them and no exceptions are made.
+http://en.support.wordpress.com/recycling-blog-names/
+You can register another .wordpress.com blog http://en.support.wordpress.com/register-a-blog/
+Then if you wish to you can register a domain via a domain mapping upgrade because it does not matter what the underlying .wordpress.com address is when you are domain mapping.
+http://en.support.wordpress.com/domain-mapping/
+http://en.support.wordpress.com/domain-mapping/register-domain/
+
+
+I have been using the old posting format without problems. 
+Today, that option has been removed.  
+Why?
+The "new format" is problematic and cumbersome.
+The older publishing platform did not have issues that caused security features in my browser to alert me every few minutes to intrusive programs running in the background. 
+With the old format I don't have to recreate categories and tags with each new post.  
+I have hundreds that I need and use every day but the established categories  do not  show up.  Yes, I see that  drop down menu, but it only offers 6 choices.  What happened to the category list already created?
+It is important that I be able to set the time for each post.  It is my system for ordering my work and has nothing to do with "scheduling". 
+There are numerous other issues that can only be resolved by allowing the choice of working with old editing-posting format.
+Without that option, I will be forced to leave WordPress.
+
+The blog I need help with is libya360.wordpress.com. 
+UPDATE:
+It seems that the editor is only malfunctioning on  some of my websites, not all. 
+On libya360.wordpress.com, everything is working smoothly. The speed is much faster compared to the sister sites,  I can see all the  established categories in the drop down and set the publication time.
+My guess is that you are still working on the changeover and things will normalize soon?
+
+
+The new format sucks.....Options are left out...for example, I'm unable to tag new pages to a home page....I'm sure there are people who like the new format....but there are a lot, I'm sure, who, like myself, do not....I hate it....give us the option to use the Classic mode...
+
+
+Today, that option has been removed.
+Why?
+Nope, you can always find the classic editor.
+See here: https://en.forums.wordpress.com/topic/new-improved-edit-interface-is-still-deleting-numeric-tags?replies=21#post-2309540
+
+
+galois, 
+The classic option was available yesterday but not today so this is a recent change. WP had promised to keep the option open. For some reason it's been closed, at least on my website.
+
+
+The classic option was available yesterday but not today so this is a recent change. WP had promised to keep the option open. For some reason it's been closed, at least on my website.
+I understand you and I know about this.
+But the classic option is still available for you.
+From here: https://cloudup.com/cfMJ02ama_r
+
+
+When I select edit on my post, it automatically goes to that new bee-bo-boop format and I have no way to switch to the classic editor at that time.  There should be a button on that page to switch the view, like it used to.  Now, I have to go to my classic site, find all of my posts and then edit from there, instead of using the quick edit link that is on the posts.  You've just made it so much harder to use wordpress.
+Please do not default to that crappy new editor.   I want the original editor to be my default 
+thank you
+
+
+Or see here: https://en.forums.wordpress.com/topic/new-improved-edit-interface-is-still-deleting-numeric-tags?replies=23#post-2310052
+
+
+Again, @cbiancardi:
+See here: https://cloudup.com/cfMJ02ama_r
+or here: https://en.forums.wordpress.com/topic/new-improved-edit-interface-is-still-deleting-numeric-tags?replies=23#post-2310052
+
+
+again, @galois, you aren't understanding - I have no default button on that crappy new editor to flip me back to the classic one.  I don't care that I can jump thru hoops to get to the classic editor - I didn't have to do that before.  I do not want the bee-boop editor as my default.    I already know that I can go thru several clicks to get to the old editor.  What I want is my user experience that I had recently - which I didn't have to do all of these things to just edit a page.
+unless you have a solution to that, I will wait for someone in tech support to respond.
+
+
+As long as the new editor continues to delete posts the way it does, it's my opinion that it should be taken offline completely until fixed. It's irresponsible.
+
+
+https://itf1011.wordpress.com
+I totally agree.
+For the third time this evening I have made extensive changes to a post or page, only for the save or post/publish act to only part fill the 'new' green progress bar at the top and then simply stop, rendering my new work lost in limbo, neither saved, published, nor retrievable without a page refresh (which results in a blank editor).
+I am furious. 
+I now need to re-work the entire piece again.  I am now forced to copy and paste my work into WordPress if it cannot be relied upon to save it successfully.
+I have noticed a significant amount of change over recent months, none of which seems to add any quantifiable value, and indeed seems to lessen user experience.
+I am becoming increasingly frustrated with the barrage of change for no apparent reason.
+The list of things that now aggravate me is extensive, so I shall not list it here.
+It was all awesome as it was about a year ago.  Now we have nice new jazzy editors and menus and I like none of it.
+Stop changing things!
+If it ain't broke don't fix it.
+Change for change sake is the worst kind of change.
+
+
+@cbiancardi: I am a volunteer and was trying to help you find the way to the classic editor.
+Do not discharge your anger to me.
+
+
+I will wait for someone in tech support to respond.
+Keep dreaming, @cbiancardi
+
+
+I can't find a better place to post this so here goes - like some others I'm struggling with the new editor, got very used to the old but I do understand things change and I need to change with them. What I want to do is to change dates on my posts. I run a lost and found site for animals in Darwin (Australia) and I want to repost those animals which have been lost for a long time. Under the reschedule it appears I can only reschedule for a time in the future and not for the immediate. I used to be able to do this with the classic editor. I really don't want to recreate the whole post which is the only way I can see of doing it. Do I need to download new software?
+Really hoping somebody can help. I'm sure I'll have further questions as time goes on. many thanks telaf
+
+
+Please please please please let us get back to the old editor dearest WordPress. I am lost on this new one. The old one was so easy and now I can't get it back..... :-(
+
+
+I'm reading that there are a series of clicks I can make to get back to classic editor now that the button is gone. Can anyone tell me what those clicks are? I will happily click away to get back there...
+Thank you!
+
+
+Please re-instate the option to switch......
+.... And stop fiddling with things.
+
+
+If you go to the old style Dashboard and select add New Post then you get the old style editor (with the option to beep boop bump).
+If you go to the  old style Dashboard and select the list of Posts, then you can edit your post using the old style editor.
+I have a horrible feeling about this. I hope I'm wrong.....
+
+
+@galois - my anger is not "being" discharged towards you.  If you had bothered to read my post, you would have seen that I already know how to "get" back to the classic editor.
+You didn't bother to read my posts.  Volunteer or no, if one doesn't bother to read what the issue is, then there isn't much help there if the problem isn't being handled.  You are just repeating the same thing over and over again, and not responding to the question.  If you don't have the answer, then please don't respond to it with a canned response.  You are wasting your volunteer time
+
+
+I am fairly pi**ed off about this too, but lets direct our energies towards getting the option back. (Lets hope it doesnt take as long as last time).
+In the meantime, I spent 20 minutes looking for an add-on that would help. I think someone told us about something like this last time. Not sure.
+Anyway, if installed the  firefox add-on
+ URL link 
+ that allows you to transform the link to the new editor, to the one for the old editor.
+This means that you can right-click on any Edit post button and go directly to the old editor.
+I know its not a solution, but it is a work-around. (You would need one for each of your blogs). I will give more details if anyone is interested.
+
+
+@knashermac2009 I would love details on that!  Would that work for the free version of wordpress?   thank you so much!
+
+
+@cbiancardi Yes  it will work!
+1. Download and enable the firefox add-on URL Link 2.04.03
+2. From the list of add-ons, find URL Link and click on Options
+3. Click on th e"Edit Menu" tab and add a new entry
+ Edit Post|https://yourWebSiteURL/wp-admin/post.php?post=*&action=edit
+(Edit Post is what you will later. The stuff after the | is the link to the classic editor. The * will be the post_id)
+4. Click on the "Edit Search and Replace String" tab and add a new entry
+https://wordpress.com/post/yourWebSiteCode/||
+The bit before the || is the link to the new editor without the post id. Link URL is going to remove this (leaving the post_id). You can obtain yourWebSiteCode (a 7 digit number) by hovering over a link to the new editor (as in New Post or Edit Post).
+5. Click OK. I removed all the other entries in both menus to remove clutter.
+6. Now, when you go into your blog, right-click on any edit button and hover over "Open Selection". You'll see "Unaltered" plus all the items from the Edit Menu in URL Link (including Edit Post). Select the latter.
+
+
+Please Reinstate the Option of Choice to Use the Old Publishing Format -- strongly echoed
+
+
+We all appreciate what volunteers do, but I sometimes think that this system is reinforcing WP's already bad habits. The volunteers get a lot of the anger which WP should be feeling itself.
+
+
+I would like to speak for a subgroup of bloggers on WordPress.
+I blog anonymously and in private browsing windows.  When I close my browser, the cache is deleted.  Since the new editor apparently stores drafts in a computer's cache, the new editor is absolutely not an option for me.
+Now imagine all those college students who have to use campus computer labs... you know, those students who don't have their own computer or smart phone.  (Yes, plenty of those still exist in spite of the proliferation of such technology among youth.)
+If the new editor had been the only visible option when I started blogging, I would not have stayed on WordPress for more than a day.  It wouldn't have been feasible.  (Having been here for a while, I know there are workarounds.  A newbie wouldn't realize that.)
+
+
+@bumblepuppies ... so with the new editor, if the cache is emptied you lose all your drafts?? I have dozens of drafts. They are my "lab" for future posts. Am I going to lose them once the classic editor is shut down?? This is the worst thing I have heard yet. Anyone??
+
+
+@davidderrick-Who said anything about the Classic Editor being shut down?
+
+
+@davidderrick
+That is my understanding.  The workaround would be to publish your drafts, but schedule them for a time that's 100 years into the future.
+
+
+It would be foolish to assume the classic editor is staying, no?
+
+
+I made a lovely header on PicMonkey, and it is sized exactly as it's recommended, but when I upload it, it looks blurry... Help? 
+(note: I went back to my old theme while I try to sort this out)
+
+The blog I need help with is justmybrandofnonsense.wordpress.com. 
+Hi,
+First, let me ask...is there a better way to solve problems using WordPress.com, than using this very congested forum system?  For instance, is there a Twitter resource where you could ask a quick question and get a quick answer?
+Now...my real question is about removing page titles, so that they don't show at the top of each page, when the menu has the page title on a menu tab, and you wind up with redundancy.  When I removed the page title, and put the page title in the Navigation window on the Menu page, the look of the site is better.  However, without a page title on the admin page, that page is noted as "#1 (untitled)" on the WP Stats page.
+This adds a step or two when editing the site, because the page names(titles) are not there for convenient access.  
+Also, I am wondering what effect that will have on other analytics programs, though Google doesn't work anyway with WordPress (or so I thought, until today, when I am being asked to link Webmaster Tools and Google Analytics for another of my WP.com sites?!)
+Constructive input will be appreciated.
+Thanks,
+Steve
+
+The blog I need help with is fishingoregon.net. 
+Hey Steve,
+These forums are probably going to be your best way of getting support. 
+With regards to the title, do you have a premium subscription? If so it would be really easy to hide the page titles with CSS. 
+Let me know if you'd like to give this a try and need some help with the CSS.
+Having no titles at all will have an impact on SEO. Hiding the text with CSS (but making it available to screen readers) is advisable. This is a good method.
+You can't use Google Analytics with your wordpress.com site (without a hack) but Google does "work" with WordPress, so far as Google will rank your pages just like any other page.
+I hope this helps. I'm out for tonight, but I'll be around tomorrow if you have any follow ups.
+
+
+Thanks for the input JS!  The client does have the premium upgrade, but I am a bit reluctant to trust myself with CSS.  Thanks for the insight re the no titles route.  Looked at the "good method" and it did nothing for me for clarification...sorry.  I changed the pages back, so that page title are evident, but I would love to learn to use CSS, for at least this modification.
+Thanks,
+Steve
+
+
+Hey Steve, no problem at all. Try this CSS in your customizer. I've added a comment block so that you can see what it is doing, and to credit the authors of the code. 
+/*******************************************************************************
+Hide post titles, using screen-reader-text method from _s acessibility
+https://github.com/Automattic/_s/blob/master/sass/modules/_accessibility.scss
+Targets all elements with class of .entry title.
+*******************************************************************************/
+
+.entry-title {
+  clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+Let me know if that helps.
+- Jimmy
+
+
+That worked, once I figured out where to place it!  Thanks a lot!!
+Can you check the site to confirm things are as functional as they should be?
+Best,
+Steve
+
+
+Hey Steve, all looks good to me. Good show!
+- Jimmy
+
+
+Hello
+My blog is called 'The Pays Basque changed our lives'. Unfortunately an old title (Basque in the sun or Basque-ing in the French sun is still attached to this on the search engines, which then gives an incorrect link. How do I eliminate them please?
+Regards
+John.
+
+The blog I need help with is aquitaine2015.wordpress.com. 
+What's the incorrect link that appears in search engines?
+
+
+Hey John,
+Search engines are tricky and getting to change them will be a tad difficult and time consuming. If the search engine is google, you can submit a request to remove the link.
+
+
+'aquitaine2015.wordpress.com/2015/02/27/basqueing-in-the-French-sun' is the incorrect link
+Sorry for the delay - my computer packed up last night! This link puts people through to WordPress but not 'aquitaine2015.wordpress.com'
+which confuses people!
+Hope you can help.
+Excuse me for asking but where are WordPress staff based??
+Regards
+John.
+
+
+I just put that link into my browser and landed on your site here:
+https://aquitaine2015.wordpress.com/2015/02/27/basqueing-in-the-french-sun-2/
+As simplysaru mentioned, search engines can take a while to update their results, but we try to account for links that are slightly off and redirect readers to the right place.
+Where you do land when you click on this link:
+http://aquitaine2015.wordpress.com/2015/02/27/basqueing-in-the-French-sun/
+
+
+Thanks again!
+The incorrect link does land in the right place, but on the first page and not my site. Guess I'll have to live with that!
+Are you able to help with one other query? Pictures have now appeared on my site but I don't recall putting them there! However, they do enhance the blog. My question is; how do I space out the writing with those images. Is there a setting I should go to??
+Thanks again
+John.
+
+
+Our theme developers actually just updated the Boardwalk theme to display the first image in your post if you don't have a Featured Image set. You can turn this functionality off if you'd like through your Customizer in the Theme pane.
+Or, you can have more control over which images appear by setting Featured Images on your posts.
+Does that help? I'm not sure exactly what you're referring to by "space out the writing with those images" so let me know if I didn't address this. :)
+
+
+Thank you yet again; I'm sorry to be so ignorant but I'm very impressed with the help I am getting. I think I'd better invest in WordPress for Dummies!
+I haven't yet mastered Customizer or Featured Images. Is the Boardwalk theme the line of images of all posts that appear when you first visit the site? If so, the first image in each post is not being shown there. Is that my fault? I would please like the first image to be shown as someone isn't so pleased with the image on Post 2!
+By 'spacing out the writing' I meant is it possible to rearrange the words on the Boardwalk? Maybe I'd better wait before trying that.
+Thanks again; the help is appreciated.
+John.
+
+
+Hi John!
+I'm happy to help you out! Here's some information about your theme, Boardwalk:
+https://wordpress.com/themes/boardwalk/
+We have many different themes, each with their own way of displaying your posts, images, videos, and other content.
+You can choose the specific image for each post by setting a Featured Image on the post. Here's some info about doing that:
+http://en.support.wordpress.com/featured-images/
+Open your second post in the editor, and select a Featured Image. As long as the image is 2000 wide by 1500 high or larger, it will appear on the front of your site.
+I hope this helps! Let me know what else I can help with. :)
+
+
+I just submitted a post and now I can't review the post or get onto anything to do with my blog. Can anyone help me? It's not the computer as I can't access it on my mobile safari either...
+
+The blog I need help with is growingupforeveryoungblog.wordpress.com. 
+I see your site/blog https://growingupforeveryoungblog.wordpress.com/ perfectly.
+Maybe it's a browser issue, try this:
+https://en.support.wordpress.com/browser-issues/
+
+
+Apologies, I'm not crazy savvy with this, so hopefully this makes sense. 
+A site of mine - yorkminxters.co.uk has been down for a few days. I can't even access the admin dashboard.
+When I go to the 'My Sites' page for my WordPress account, this site link has a little yellow warning next to it that when I click, it states 'Jetpack 3.3 required - update now.' But when I click 'update now', it tries to take me to the Admin page, which is down! Any ideas how to fix this?
+
+The blog I need help with is yorkminxters.co.uk. 
+Sorry, no answer here, but I'm posting (and subscribing) because I've had the Jetpack 3.3 Required message for about a week now as well on my wordpress.com blog (smutek.ninja) 
+My site isn't down, but I've been perplexed by the message. I didn't find anything relevant when I searched the forum.
+
+
+You're both in the wrong forum. You need to be at Jetpack.me and at the Jetpack sub-forums in WordPress.org.
+
+
+Raincoaster....We are NOT in the wrong forum
+I have a wordpress.com hosted site and am also getting the non existent update jetpack message. Regular users KNOW that jetpack is for wordpress.org. So why are wordpress.com users getting it.
+This is a wordpress issue
+
+
+Raincoaster....We are NOT in the wrong forum
+Ditto. I'm posting to confirm, again, that I am seeing this upgrade notification on my wordpress.com blog, at smutek.ninja - not on a self hosted site.
+Here's a screenshot.
+
+
+@Butterflyedge: Your domain name expired a month ago: http://who.is/whois/yorkminxters.co.uk
+You'll need to contact your registrar to get that cleared up. 
+I've removed it from your WordPress.com for the time being so you don't continue to get these notices.
+
+
+@jsmutek: The issue is that you previously had a Jetpack site using the smutek.ninja domain; I have removed the Jetpack site from your account, so you shouldn't continue to see the update notice.
+
+
+@robinoz: same situation as above. I have disconnected it.
+
+
+Thanks rootjosh!
+
+
+I would like to remove the domain mapping from one wordpress.com account and set it up in another.  The domain registration has already been transferred, but the mapping within the wordpress.com interface still remains, and will not let me map the domain to the new account.  I get the "Sorry but brentwoodcommontownhomes.com is already mapped to a WordPress.com blog." message.
+
+The blog I need help with is brentwoodcommontownhomes.wordpress.com. 
+Which site are you trying to move brentwoodcommontownhomes.com to?
+
+
+Moving from: http://brentwoodcommontownhomes.wordpress.com
+TO: http://brentwoodcommon.wordpress.com
+The domain name has already been transferred, and the DNS settings have been updated, but I cannot re-map because it is still mapped in the other wordpress.com account.
+
+
+Okay, I've added it manually. I see brentwoodcommontownhomes.com pointing to http://brentwoodcommon.wordpress.com now.
+Remember to set it as your primary domain if you want brentwoodcommontownhomes.com to show to viewers instead of the WordPress.com domain.
+
+
+I just discovered that I can't actually delete my account? I don't understand this and then you state that it will take time to release the email address to use on another site.....there is a breach of rights here for sure!
+
+The blog I need help with is denisefwoods.wordpress.com. 
+So, awhile back I accidentally deleted my original wordpress, which was barringtonmartin.wordpress.com under the domain of barringtonmartin.com. Now, I'm back to wordpress and I still want to use the domain of BarringtonMartin.com with my new wordpress site; however, upon attempting to map this domain, it states that it is still mapped to my old deleted wordpress site, barringtonmartin.wordpress.com. What can I do to transfer my domain to my new wordpress site?
+I appreciate any help! Thanks.
+
+The blog I need help with is barringtonmartinii.wordpress.com. 
+I should have that fixed for you now. Let me know.
+
+
+Thanks for you help, but when I try to enter "barringtonmartin.com" for my new blog of barringtonmartinii.wordpress.com it continues to say that my domain name is taken. What else could be the issue?
+
+
+Okay, I've added it manually. I see barringtonmartin.com pointing to barringtonmartinii.wordpress.com now.
+Remember to set it as your primary domain if you want barringtonmartin.com to show to viewers instead of the WordPress.com domain.
+
+
+My client would like to have a sort of weekly specials and news box on the side bar, so I have put up a Title, and used this code, gleaned from a post on this issue, but I am not seeing a frame, or box around "Larry's Lure".
+<div id="sidebar">
+<h1><b><u><span style="color:#cd2626;">
+Larry's Lure</span></u></b></h1> 
+<div class="textwidget"><h3><b>Coming soon!</b></h3></div>
+</div>
+Thanks,
+Steve
+
+The blog I need help with is fishingoregon.net. 
+My facebook- and twitterwidgets don't work, who do I speak to?
+The facebook widget won't show the picture it's supposed to, and the Twitter-widget won't show any tweets.
+
+The blog I need help with is sebolas.com. 
+Es wurden nicht alle Artikel vom alten Blog Importiert!!
+Es Steht immer noch in Bearbeitung, das ist aber schon seit zwei Wochen!
+
+The blog I need help with is daskaeseportal.wordpress.com. 
+Noch keiner eine idee?
+
+
+Please, post to---> Deutsch (German): http://de.forums.wordpress.com
+
+
+Or post here, in English if you can.
+
+
+oh Sorry! ;)
+
+
+Let me chime in here. :) mwuehle has already posted in the german forum and we german moderators advised him to post over here because we couldn't help.
+We're talking about a stuck import process. mwuehle moved from WordPress.org to WordPress.com. The import process stops at 60% of the posts and says he will be notified when the import is done. This way two weeks ago. 
+It's best if one of the Happiness Engineers checks for the import process and maybe resets it so that the user can import again.
+Cheers
+Martin(IQ)
+
+
+It's best if one of the Happiness Engineers checks for the import process and maybe resets it so that the user can import again.
+Perfect, Martin. I suggested to @mwuehle write in English here.
+Cheers.
+
+
+Hi @mwuehle,
+Happy to help, but it looks like you've already deleted your site. I'm really sorry for the delay. If you still need help unsticking the import, let me know the site address!
+
+
+I am trying to permanently delete my site, but I get a circular reference that won't allow me to access it.  How do I delete MRSecurityBlog?
+
+The blog I need help with is mrsecurityblog.com. 
+I started a blog (.wordpress.com) and purchased a domain through WordPress to be the primary domain. I thought I had set the original blog to redirect to the new domain. However, in the dashboard, I have two sites: the wordpress.com site, and then my site I set up as a primary domain. When I go to "My Domains," these blogs are managed on different windows, and I do not have the option to redirect the wordpress.com site to the intended primary. Instead, my primary domain is set for some silly "dotcom.wordpress.com" URL. How do I fix this? When I go to "My Blogs" in Dashboard, only the wordpress.com site and the dotcom.wordpress.com appear.
+
+The blog I need help with is theferryschool.wordpress.com. 
+I've switched that for you. Your domain should point to the correct site now.
+
+
+Very nice. Thank you!
+
+
+Happy to help.
+
+
+I typed the wrong email at registration and can't get the conformation email
+
+The blog I need help with is marissagasparro.wordpress.com. 
+The software here redacts email addresses ie. it HIDES them do only Staff can see them. Post both the wrong and the right email addresses into this thread please.  I tagged this thread for Staff assistance. Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+Edit: do only was meant to be so only
+
+
+The wrong email was [email redacted], the right email is [email redacted].
+
+
+Thank you. Please be patient while waiting for Staff to work their way forward to this thread.
+
+
+Hi @marissagasparro,
+It looks like you've already confirmed your account. Please let me know if you have any additional trouble.
+
+
+I want to transfer my domain/blog itsallgoodlife.com to squarespace.
+When I go on My domains, only lindyjoffeomassi.wordpress.com/ is there, not the itsallgoodlife.com.
+I am confused. There is no place to edit the DNS....
+Itsallgoodlife only shows up under My blogs...
+End of story is I want to move itsallgoodlife.com to be my url/domain on my squarespace website. Can you help me do that, please.
+
+The blog I need help with is lindyjoffeomassi.wordpress.com. 
+Celà fait plus de 24 heures que j'ai demandé l'importation des données d'un autre site/blog fonctionnant également avec wordpress, combien de temps faut il pour que l'importation soit effective ?
+Voici l'adresse du site que je tente d'importer : http://sophrologues.org/sophrocoach17/
+Merci de votre aide. C'est urgent car la plateforme de ce site doit fermer le 31 Mars !
+
+The blog I need help with is sophrologuepraticien.wordpress.com. 
+Sometimes the importer gets stuck and this thread has been tagged for Staff to reset it for you. Please subscribe to it so you are notified when they respond.
+
+
+The importer got stuck.  I reset it for you.
+Please try starting the import again.
+
+
+It is the second time that I do not manage to import  contended from another web of wordpress.org. What can I do?
+
+The blog I need help with is vinalopodigit.wordpress.com. 
+Hi there,
+I assume you are using this process
+Moving Between WordPress.com Blogs
+https://en.support.wordpress.com/moving-a-blog/#moving-from-wordpress-org
+Sometimes the importer gets stuck and this thread has been tagged for Staff to reset it for you. Please subscribe to it so you are notified when they respond.
+
+
+Whenever I try to import it's says in Spanish: To import WordPress Procesando … We are processing your import now and we will send an e-mail when it is quite made. If we do not do it in 24 hours, please he contacts to support, and we will have everything tidy. But never  wordpress send  the mail
+
+
+Did you look in the spam filter in your email client?
+ If you use Gmail also look under the "social" tab.
+
+
+The importer got stuck.  I reset it.  Please try your import again.
+Let me know if you still have trouble.
+
+
+Hi there, 
+I would like to use getsett.wordpress.com for a science blog... it is already registered by someone, but right now it doesn't seem like they are actually doing anything with the site, in fact, it looks like no one has done anything with it except set a theme for the page.
+Is there any way I can get in contact with the person who has registered this url to ask them nicely if I can use it? I can't comment on the blog, and I've had difficulty finding out how to contact this person as they have not posted and have no contact page.
+Thanks!
+
+The blog I need help with is fitsett.wordpress.com. 
+There is no expiration date on blogs unused, reserved or otherwise. If you can make contact on your own with the owner of an unused blog via a contact form or commenting, then providing the are agreeable there is a means of a consenting blog owner to transfer the blog to another username account. http://en.support.wordpress.com/moving-a-blog/#transferring-your-blog-to-another-user-or-account
+In the case that there is no contact information Staff will not breach the privacy policy and provide you with an email address.
+If you are not successful, you can register another blog with a similar name. http://en.support.wordpress.com/register-a-blog/
+Or you can register a domain via a domain mapping upgrade and it will not matter what the underlying .wordpress.com address is.
+http://en.support.wordpress.com/domain-mapping/
+http://en.support.wordpress.com/domain-mapping/register-domain/
+
+
+If you find that an active blog address is registered by another user, you may be able to obtain it for your use if the owner of the blog agrees to transfer it to you.  You may contact the blog owner – via a comment on their site or through a contact form, if available – to ask for their consent.  If you do not get permission, or do not hear back from the blog owner, we cannot transfer the blog address to you. Please note that we cannot contact the owner of the previously deleted blog for you, nor can we provide you with the contact information of blog owners.
+https://en.support.wordpress.com/recycling-blog-names/
+
+
+Hi, TT.  :)
+
+
+Hey there! Thanks for the quick responses!
+I'm new to WordPress, and I appreciate the links to the Support pages... I'm still trying to orient myself. :)
+I'll see what I can do to further contact this person (and include the handy link for transferring the blog, thanks!) but I think I may be out of luck... I guess I'll have to be faster next time. Or try an address with an unorthodox domain, as most of the usual ones seem to be taken.
+
+
+You're welcome & best wishes.
+
+
+You're welcome.
+
+
+Hello, We have a below requirement. Please help me to develop this.
+We have a below metrics
+Base Rate
+Stop charge
+Parking charge
+Toll charge
+Total Fare
+I need to develop a report with a feature "Dynamic Totals", Dynamic Totals means user can add multiple metrics to get the totals on run time or after running the report or dashboard.
+Case 1 - when user  runs the reports, he should be able to add all above 4 metrics to get "Total Fare".
+In this case "Total Fare = Base Rate + Stop charge + Parking charge + Toll charge "
+Case 2 - when user  runs the reports, he should be able to add only 3 metrics to get "Total Fare". in this case user wants to exclude the "Tool charges" to the Total Fare
+In this case "Total Fare = Base Rate + Stop charge + Parking charge"
+so user can exclude any of the above 4 metrics to get the "Tool charges"
+Case 3 - when user  runs the reports, he should be able to add only "100% of Base Rate and 50% Stop charge and 20% of toll charge to the "Total Fare".
+In this case "Total Fare = Base Rate + (Stop charge * 50%) + (Tool charges * 20%)"
+Thanks,
+Madhu
+
+
+I was attempting to move my domain hindizen.com (registered through WordPress.com) to my hosting account at GoDaddy. I updated nameservers and A record. I installed WordPress software and tried to upload XML file but got many errors so I reverted everything. 
+I restored the nameservers back to WordPress.com defaults and deleted the A record. Then I reset my hosting account hoping that my blog would be okay at WordPress.com. I've done it earlier with my other blogs so I was sure that nothing would go wrong.
+Now when I'm trying to open my website hindizen.com, I'm seeing the page that "hindizen.com This page is parked free, courtesy of WordPress.com"
+I're rechecked it again. My domain is still with me and all values are at WordPress.com defaults.
+Please help.
+
+The blog I need help with is hindizen.com. 
+http://hindizen.com/ - loads fine to a WordPress.COM site for me - you probably have a local caching issue - try clearing your cache & forcing a page reload
+
+
+Yes, it's back to normal but I wonder what caused a "parked domain" page..
+
+
+Take a bit of time for changes to get updated and you could have had local caching issues either on your PC or your ISP
+
+
+That happens when you change both the nameservers AND the A record.
+You need to do one or the other, not both. If you use an A record, the nameservers have to be WordPress.com nameservers. If you use GD nameservers, you do not need an A record.
+
+
+How do I get my site back up and running?
+[email redacted]
+Thanks
+Glenn
+[email redacted]
+
+The blog I need help with is deckollie.wordpress.com. 
+What is the URL? Starting with http://...
+
+
+I was editing over a several day period. Then today when I tried to upload images I kept getting "error" messages. I went to check account status, it prompted me to confirm my login. I did. Then the draft had reverted to one 5 days ago. So 80% of my work had been done since then, and is now lost. I was sloppy, I usually copy paste to another document, but I didn't this time.
+I then tried following instructions on how to review drafts. It said to go to the Publish module. Which prompted me to inadvertently publish a really crappy looking version. Which I quickly tried to unpublish, but there was only a "trash" option.
+So .... where's the work I did this weekend?  Any way to recover?
+
+The blog I need help with is petersmagnusson.org. 
+There is a long standing issue Staff are aware of if you use the new post editor for creating or editing posts.
+Provided you did not create the post in the new Beep Beep Boop editor where it's saved only on your browser, and is not auto-saved to the servers for your blog you may be able to recover a lost post or page.
+If the post was created on the dashboard of your own blog at Dashboard > Posts > All Posts > Add New then you ought to be able to recover a lost post or page from revisions if needs be.
+http://en.support.wordpress.com/posts/post-revisions/
+See also if applicable > restoring from trash http://en.support.wordpress.com/trash/#restoring-from-trash
+To locate draft POSTS Dashboard > Posts > All Post > Drafts
+http://hayleyinthekimberley.wordpress.com/wp-admin/edit.php?post_status=draft&post_type=post
+To locate draft PAGES Dashboard > Pages> All Pages > Drafts
+http://hayleyinthekimberley.wordpress.com/wp-admin/edit.php?post_status=draft&post_type=page
+(If you are referring to a Page then see here > http://en.support.wordpress.com/pages/page-revisions/)
+If you cannot locate a revision or restore from Trash then the content has been lost and cannot be recovered.
+I recommend:
+1. Always create your posts on the dashboard of your own blog at
+ Dashboard > Posts > All Posts > Add New
+If you have cookies enabled on your browser your preference will be saved unless or until your clear your cookies, and it will take you to the classic editor automatically every time you create a new post via the drop-down menu in the black admin bar or edit a post via the edit button on the blog itself.
+2. Immediately after creating a post and entering a title click the save draft link. Thereafter, "click save draft" frequently.
+3. Always allow pages to fully load before clicking any other links.
+4. Never leave a post or page open for content creation or editing and walk away from it, or open another tab in the same blog and work on something else while it is still open. Save it properly and return to edit it later.
+5. Use an offline blog editor so you have backups on your own computer http://en.support.wordpress.com/xml-rpc/
+
+
+Yes, I used the "Beep Beep Boop" editor, that's the one that WordPress.com opened for me when I wanted to write a new posting. I didn't "chose" it.
+And it has a button "Save Draft" which I would hit constantly. Before you hit that button, the "Current Status" line says "New Draft". When you hit "Save Draft" this status changes to "Saved Draft".
+If I disconnect the internet, and hit "Save Draft", I get the message "Oops! An error occurred while saving the post. Please refresh the page and try again."  That's fine, at that point I can copy-paste from the browser buffer to something like Word and stop trusting it.
+But what happened to me was that I was getting the "Saved Draft" status after hitting "Save Draft". But now that I think about it, I probably didn't get the pop-down "Draft saved on ___. Keep on goin'!". But absence of feedback is not good feedback.
+The status it showed me remained "Draft Saved". Which apparently means nothing (if it's not saved and confirmed on a server, it's not "saved", period).
+You're saying staff is "aware" of this? This is a pretty serious problem. There are lots of easy fixes/improvements that come to mind, for example a simple status line somewhere that says "draft last saved to servers at: xxx" with a date and time. Lots of easy fixes to avoid the main failure mode: not notify the user in any way while the page is open, and there's time to copy-save the text to somewhere else.
+Recommendations of how to avoid this are not helpful at all, but I thank you for the effort.
+My take away is not to trust anything WordPress.Com user interface tells me. I have grown lazy, trusting services like Google Docs, DropBox, Office365 to not screw things up like this. It's 2015 after all. I thought this was something obscure or I did something stupid, but if "staff are aware" and it's "longstanding" (!) issue and they haven't rushed out improvements, that's a Bad Thing.
+
+
+I tagged this thread for Staff to take notice of your issues, concerns and feedback. Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+You may also want to visit this thread https://en.forums.wordpress.com/topic/please-reinstate-the-option-of-choice-to-use-the-old-publishing-format/page/6?replies=170#post-2314777
+
+
+Thank you timethief, appreciate that.
+
+
+You're welcome.
+
+
+Who knows 'tell me' cause my transfer from my blog now I'm all in the draft and I can not publish .... Thanks
+
+
+@dolcesimo
+ Click this link please and start your own thread https://en.forums.wordpress.com/?new=1
+ In it clearly describe exactly what content you lost and provide titles and or URLs for pages or posts you refer to.
+
+
+@dolcesimo
+ I note that you username is linked to a URL that does not exist. Make sure you provide the URL for your blog in your own new thread please.
+
+
+Hi petersmagnusson,
+I do see a post in your trash folder.  Is this the missing one?
+https://petersmagnusson.wordpress.com/wp-admin/edit.php?post_status=trash&post_type=post
+There are problems with the autosave in the new editor that can get people in trouble if they have the editor open in multiple windows and other similar issues that we are working on, but if you manually hit save draft, the post is saved to the server.
+You can see all the posts in the new interface, but when you are looking for past versions, or wondering what happened to a draft, the WP admin view is easier for now.  Here's a direct link to that dashboard:
+https://petersmagnusson.wordpress.com/wp-admin/edit.php
+
+
+Hi,
+I deleted my word press account, but my resume document that I attached with my word press is available when its being searched in google. How can I delete that permanently so that it can no longer be searched in google.
+website: harisali39.files.wordpress.com/2012/08/hacv1.docx
+Haris
+
+
+To keep things running quickly around here, files are held in multiple caches through a separate system. These caches are usually cleared within 3 days and the files will then become 404 page not found.
+IMPORTANT NOTE: Deleting blogs and/or blog content does not remove any indexed items from the SERPs (search engine page results). Google and Bing only clear their caches of deleted indexed content that produces a 404 (page not found) every 3 - 6 months.
+https://support.google.com/webmasters/answer/1663419?hl=en
+I tagged this thread for a Staff follow-up. Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+I have deleted that for you.
+
+
+I am customising my format and saving it..... but when I go back to viewing it or loading a new post, it reverts back to plain background, borders and colours. Please would you advise? Thanks
+
+The blog I need help with is bubblingwordclouds.wordpress.com. 
+If you have not purchased the Premium upgrade bundle which includes the custom design upgrade note that no changes you try out aside from those such as Custom Background, Custom Header, etc. which are stated on the theme description pages in the features column (right hand side) will be visible to visitors.
+See:
+Premium bundle details http://store.wordpress.com/plans/premium/
+http://en.support.wordpress.com/custom-design/
+http://en.support.wordpress.com/custom-design/editing-css/
+http://en.support.wordpress.com/custom-design/custom-fonts/
+You do not need to load the design tools unless you have the Custom Design upgrade. All of these functions can be accessed from your dashboard - without loading the custom design tools - no upgrade required.
+Appearance > Header
+Appearance > Background
+Appearance > Theme Options (applicable only to some themes)
+Settings > Reading (set a static front page)
+Site Title and Tagline > Settings > General
+If you are using the preview mode for the Custom Design upgrade some of the settings in that mode will save but they won't show up on the front end unless you purchase the upgrade.
+To go back to the free options, go to Appearance → Themes → Customize → Colors and click the "exit the preview" link in yellow at the top of the panel on the right.
+See also: http://dailypost.wordpress.com/2014/01/18/video-tutorial-customizing-your-theme/
+If you have purchased the required upgrade then please use this link http://en.forums.wordpress.com/forum/css-customization#postform so you can copy and paste your text into a thread that will appear in the CSS Forum where you will get the help you need.
+
+
+I recently performed a 'Domain Upgrade'. I set my new domain as the 'primary domain'. Were you to search for it, my blog's URL would come up with the new domain name. All is fine there.
+However, when I log in to edit my blog, the old domain name appears in the URL. I'm confused and slightly worried that I've done something wrong in upgrading my domain. Is there anything I can do to ensure that when I edit in future, the new domain will be evident?
+Any help would be greatly appreciated. Thanks for your time,
+Blair
+
+The blog I need help with is footballforthought.com. 
+However, when I log in to edit my blog, the old domain name appears in the URL. I'm confused and slightly worried that I've done something wrong in upgrading my domain. Is there anything I can do to ensure that when I edit in future, the new domain will be evident?
+Your new domain works:
+http://footballforthought.com/
+But your admin page is different:
+https://ahundredandtenpercent.wordpress.com/wp-admin/
+Only you can see the URL on your admin page.
+
+
+Thanks for your help, Galois. Is there any way I can edit my admin page URL?
+
+
+Is there any way I can edit my admin page URL?
+Nope.
+And it's not necessary at all: Only you can see the URL...
+
+
+Dear Forums,
+I recently attempted to edit one of my recent articles, only to be taken to the new editor. There used to be an option to switch to classic mode, however that seems to have been removed. I may not be looking in the right place for the option to switch to the classic mode. If I am not seeing that option, please point me to where it is on the new editor? Thank you.
+If you have removed the option to switch to classic mode, please reinstate an option to switch to the classic editor. 
+Thank you.
+Craig
+
+The blog I need help with is secondchancetolive.wordpress.com. 
+Hi Craig,
+The Classic Editor will continue to exist in wp-admin. We know some users prefer to use this editor, so we want you to have access to it, instead of phasing it out with the new version of the Dashboard. However, a link to the Classic Editor will not return to the New Editor. From: https://en.forums.wordpress.com/topic/when-editing-an-old-post-how-do-i-switch-to-the-classic-editor?replies=5#post-2316097
+ The classic editor has not been removed but the link to return to it from the new editor was removed by Staff, who watched how many used it for 6 months and then decided that link wasn't needed.
+If you have not done so already and would like to see the return of the link to the Classic Editor from within the New Post Editor, please post in this thread to say so https://en.forums.wordpress.com/topic/please-reinstate-the-option-of-choice-to-use-the-old-publishing-format/page/4?replies=97#post-2311491
+
+
+I also tagged this thread for Staff to take notice of your issue and feedback. Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+I have three blogs in WP where I regularly post, now I can't go into my blogs through the dashboard because it doesn't appears with my blog instead appears in other blog that I never used.  My blogs are: http://piedadmo.net, http://piedadmontesdeoca.com, and htt://piedadmo.me.  None of those I can't go in so I can edit or write a new post.  The blog http://piedad45's blog is not the one where I used all these years where I have my posts and edit them, comments, etc.
+
+
+Thank you Timethief,
+I appreciate you taking the time to explain what you have with me. I do not know if you are saying there is an option to prevent going to the new editor -- and instead opening to the new editor. I would like to have that option so that I can go immediately to classic editor, instead of defaulting to the new editor. 
+With all the UPROAR when the new editor was launched -- I am amazed that more people did not use the switch to classic mode button -- unless they did not know that that option existed.
+
+MANY, MANY, MANY people, based on the LONG stream of comments at the launch were very DISGRUNTLED that staff were, is essence; making people use the new editor. That is why they (staff) gave the option to revert to the classic mode in the side bar of the new editor at the time. 
+Please ask staff to reinstall the classic button option in the new editor. Thank you.
+Please send this comment along with the above stream to staff. Thank you for your time and kindness timethief. 
+Have a great day my friend.  
+Craig
+
+
+@piedad1945
+ Please do not hijack threads by posting off-topic into theme. It's confusing and results in the original poster and everyone trying to help them who has subscribed to the thread getting unnecessary unrelated email, and that is annoying.
+ Please use this Add New Topic link found on the front page of these forums  https://en.forums.wordpress.com/?new=1 so you can copy and paste your text into a thread that will appear in  a new thread where you will get the help you need.
+
+
+Please use this Add New Topic link found on the front page of these forums
+TT: It's a duplicate.
+https://en.forums.wordpress.com/topic/my-old-blogs-have-being-changed-for-piedad1945-that-dont-have-my-posts?replies=2#post-2317903
+
+
+I was unable to delete a blog I am following
+
+The blog I need help with is howardat58.wordpress.com. 
+Howdy @howardat58!
+To delete a blog you are following go to https://wordpress.com/following/edit/. When you get to this page you will see a list of blogs you are following. On the right side of the list there is an "X" that will turn red when you hover over it. Click this "X" to unfollow a blog. 
+I hope this solves your problem!
+
+
+I was unable to delete a blog I am following 
+What is the URL please?  
+If you cannot delete it here https://wordpress.com/following/edit/ by clicking the "x" next to the URL or you then type modlook into the tags in the sidebar of this thread for Staff help. Then subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+the URL is
+http://aopinionatedman.com/
+a wordpress site
+
+
+I have removed that for you.
+
+
+I have just set up my blog today, and have 'scheduled' my posts for dates in the past, hoping that they will appear on the calendar widget, but only today's post does.
+Is there a way to fix it so that they are all linked in the calendar?  Thanks
+
+The blog I need help with is lifeofhblip.wordpress.com. 
+Remove site from Jetpack
+I have searched and do not find anyway to remove a site that is not longer a WordPress site from JetPack? I have found a link posted several times, but it is a broken link.
+Help! Jetpack is causing some issues on our server and we would like to disconnect it immediately!
+Thanks.
+
+The blog I need help with is classflow.wordpress.com. 
+Actually the site that needs to be removed is ClassFlow.com.
+
+
+Actually the site that needs to be removed is ClassFlow.com.
+
+
+Please provide the URL of this site.
+Staff can and will do this for you and I tagged this thread for their attention. Please subscribe to this thread so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+Actually the site that needs to be removed is ClassFlow.com.
+
+
+Actually the site that needs to be removed is ClassFlow.com.
+
+
+Thanks for the URL. Be aware that there will be no immediate response from Staff.  They have to work their way forward through all threads tagged prior to this one so you need to be patient.
+
+
+Would like to just remove it myself, but have spent too much time combing through the forum to no avail. Why is there no option to remove sites that are no longer under one's control from their Jetpack account? This makes no sense.
+
+
+change url to domain I have already registered with wordpress instead of my primary domain. it does not show up in 'my domains'
+
+The blog I need help with is lindyjoffeomassi.wordpress.com. 
+What are your specific details  please? 
+I don't see the URL of any domain up there. And, I don't see where you state which .wordpress.com sub-domain URL you want to domain URL mapping moved from, nor the .wordpress.com sub-domain URL you want the domain mapping moved to either. 
+Please post all your details as I tagged this thread for Staff assistance. Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+Currently, my primary domain is "https://lindyjoffeomassi.wordpress.com/" but I want to change it: I have registered with wordpress "itsallgoodlife.com", which is what I would like to make my domain
+It does not show up on 'my domains' ...
+thanks!!!
+
+
+Currently, my primary domain is "https://lindyjoffeomassi.wordpress.com/" but I want to change it: I have registered with wordpress "itsallgoodlife.com", which is what I would like to make my domain
+It does not show up on 'my domains' ...
+thanks!!!
+
+
+Nameservers Validated!
+Congratulations! The nameservers appear to be set up correctly for itsallgoodlife.com.
+Oops, No Primary Site Set
+There is no primary domain set for lindyjoffeomassidotcom.wordpress.com. This means that although itsallgoodlife.com will forward to the site, itsallgoodlife.com will appear in the browser address bar. To learn more about setting a primary domain, please see our documentation.  https://en.support.wordpress.com/domains/#setting-the-primary-domain
+
+I don't get it, sorry.
+Firstly, I re-did a new wordpress to be joffeomassilindy.wordpress.com and that is to be conncected with itsallgoodlife.com (lindyjoffeomassi.wordpress.com is connected to 'breadmakesyoufat.com' and I want them separate). 
+I then transfered 'itsallgoodlife' to  joffeomassilindy.wordpress.com.
+Now I want the domain/url to show up as 'itsallgoodlife' for my blog
+
+
+Thanks for providing more details for Staff. Please be patient while waiting for their help.
+
+
+@joffeomassilindy
+The domain in question, itsallgoodlife.com, is owned by another WordPress.com user, not joffeomassilindy.
+If you control this other account and want to transfer the domain to joffeomassilindy, please log into WordPress.com as the correct user and reply here with your transfer request.
+
+
+OK, so I have now messed up worse than I thought.
+First I registered lindyjoffeomassi, where I had 2 domains registered: breadmakesyoufat and itsallgoodlife. Then I made anew account in an effort to separate the two under joffeomassilindy in an effort to separate the 2 domains and transfered itsallgoodlife to that one, but it's not showing up now on either. The purchase of the domain itsallgoodlife shows up in  my billing on lindyjoffeomassi.
+Please help me to find it anywhere ?? I am stuck.
+Thanks!!
+
+
+@joffeomassilindy
+I will privately reply with your Account Recovery options.
+You will hear from me shortly.
+
+
+this thread is way too long to read the entire thing; I don't have time. but it seems the response from wordpress is 'too bad, so sad'. so all the comments from all the users are being totally ignored. i want to be able to find my list of blog posts, not the way they appear to the public but the way they appeared in the 'classic version'. I NEED to be able to find my list of blog posts, they way they appeared in the 'classic version'. why oh why do 'improvements' ALWAYS mean DISASTER? WHY do programmers NEVER listen to USERS?!? THIS IS NOT AN IMPROVEMENT!
+
+The blog I need help with is unioncitylibrary.wordpress.com. 
+Did you try unioncitylibrary.wordpress.com/wp-admin ?
+I'm ale to access my "classic" WP Admin screen when accessing via sitename/wp-admin
+Let me know if this helps.
+
+
+la importación no ocurre (de otro wordpress)
+
+The blog I need help with is desnudala.wordpress.com. 
+Hi!
+I unstuck the importer for you. Can you give the import one more try?
+
+
+I have been using the old posting format without problems. 
+Today, that option has been removed.  
+Why?
+The "new format" is problematic and cumbersome.
+The older publishing platform did not have issues that caused security features in my browser to alert me every few minutes to intrusive programs running in the background. 
+With the old format I don't have to recreate categories and tags with each new post.  
+I have hundreds that I need and use every day but the established categories  do not  show up.  Yes, I see that  drop down menu, but it only offers 6 choices.  What happened to the category list already created?
+It is important that I be able to set the time for each post.  It is my system for ordering my work and has nothing to do with "scheduling". 
+There are numerous other issues that can only be resolved by allowing the choice of working with old editing-posting format.
+Without that option, I will be forced to leave WordPress.
+
+The blog I need help with is libya360.wordpress.com. 
+UPDATE:
+It seems that the editor is only malfunctioning on  some of my websites, not all. 
+On libya360.wordpress.com, everything is working smoothly. The speed is much faster compared to the sister sites,  I can see all the  established categories in the drop down and set the publication time.
+My guess is that you are still working on the changeover and things will normalize soon?
+
+
+The new format sucks.....Options are left out...for example, I'm unable to tag new pages to a home page....I'm sure there are people who like the new format....but there are a lot, I'm sure, who, like myself, do not....I hate it....give us the option to use the Classic mode...
+
+
+Today, that option has been removed.
+Why?
+Nope, you can always find the classic editor.
+See here: https://en.forums.wordpress.com/topic/new-improved-edit-interface-is-still-deleting-numeric-tags?replies=21#post-2309540
+
+
+galois, 
+The classic option was available yesterday but not today so this is a recent change. WP had promised to keep the option open. For some reason it's been closed, at least on my website.
+
+
+The classic option was available yesterday but not today so this is a recent change. WP had promised to keep the option open. For some reason it's been closed, at least on my website.
+I understand you and I know about this.
+But the classic option is still available for you.
+From here: https://cloudup.com/cfMJ02ama_r
+
+
+When I select edit on my post, it automatically goes to that new bee-bo-boop format and I have no way to switch to the classic editor at that time.  There should be a button on that page to switch the view, like it used to.  Now, I have to go to my classic site, find all of my posts and then edit from there, instead of using the quick edit link that is on the posts.  You've just made it so much harder to use wordpress.
+Please do not default to that crappy new editor.   I want the original editor to be my default 
+thank you
+
+
+Or see here: https://en.forums.wordpress.com/topic/new-improved-edit-interface-is-still-deleting-numeric-tags?replies=23#post-2310052
+
+
+Again, @cbiancardi:
+See here: https://cloudup.com/cfMJ02ama_r
+or here: https://en.forums.wordpress.com/topic/new-improved-edit-interface-is-still-deleting-numeric-tags?replies=23#post-2310052
+
+
+again, @galois, you aren't understanding - I have no default button on that crappy new editor to flip me back to the classic one.  I don't care that I can jump thru hoops to get to the classic editor - I didn't have to do that before.  I do not want the bee-boop editor as my default.    I already know that I can go thru several clicks to get to the old editor.  What I want is my user experience that I had recently - which I didn't have to do all of these things to just edit a page.
+unless you have a solution to that, I will wait for someone in tech support to respond.
+
+
+As long as the new editor continues to delete posts the way it does, it's my opinion that it should be taken offline completely until fixed. It's irresponsible.
+
+
+https://itf1011.wordpress.com
+I totally agree.
+For the third time this evening I have made extensive changes to a post or page, only for the save or post/publish act to only part fill the 'new' green progress bar at the top and then simply stop, rendering my new work lost in limbo, neither saved, published, nor retrievable without a page refresh (which results in a blank editor).
+I am furious. 
+I now need to re-work the entire piece again.  I am now forced to copy and paste my work into WordPress if it cannot be relied upon to save it successfully.
+I have noticed a significant amount of change over recent months, none of which seems to add any quantifiable value, and indeed seems to lessen user experience.
+I am becoming increasingly frustrated with the barrage of change for no apparent reason.
+The list of things that now aggravate me is extensive, so I shall not list it here.
+It was all awesome as it was about a year ago.  Now we have nice new jazzy editors and menus and I like none of it.
+Stop changing things!
+If it ain't broke don't fix it.
+Change for change sake is the worst kind of change.
+
+
+@cbiancardi: I am a volunteer and was trying to help you find the way to the classic editor.
+Do not discharge your anger to me.
+
+
+I will wait for someone in tech support to respond.
+Keep dreaming, @cbiancardi
+
+
+I can't find a better place to post this so here goes - like some others I'm struggling with the new editor, got very used to the old but I do understand things change and I need to change with them. What I want to do is to change dates on my posts. I run a lost and found site for animals in Darwin (Australia) and I want to repost those animals which have been lost for a long time. Under the reschedule it appears I can only reschedule for a time in the future and not for the immediate. I used to be able to do this with the classic editor. I really don't want to recreate the whole post which is the only way I can see of doing it. Do I need to download new software?
+Really hoping somebody can help. I'm sure I'll have further questions as time goes on. many thanks telaf
+
+
+Please please please please let us get back to the old editor dearest WordPress. I am lost on this new one. The old one was so easy and now I can't get it back..... :-(
+
+
+I'm reading that there are a series of clicks I can make to get back to classic editor now that the button is gone. Can anyone tell me what those clicks are? I will happily click away to get back there...
+Thank you!
+
+
+Please re-instate the option to switch......
+.... And stop fiddling with things.
+
+
+If you go to the old style Dashboard and select add New Post then you get the old style editor (with the option to beep boop bump).
+If you go to the  old style Dashboard and select the list of Posts, then you can edit your post using the old style editor.
+I have a horrible feeling about this. I hope I'm wrong.....
+
+
+@galois - my anger is not "being" discharged towards you.  If you had bothered to read my post, you would have seen that I already know how to "get" back to the classic editor.
+You didn't bother to read my posts.  Volunteer or no, if one doesn't bother to read what the issue is, then there isn't much help there if the problem isn't being handled.  You are just repeating the same thing over and over again, and not responding to the question.  If you don't have the answer, then please don't respond to it with a canned response.  You are wasting your volunteer time
+
+
+I am fairly pi**ed off about this too, but lets direct our energies towards getting the option back. (Lets hope it doesnt take as long as last time).
+In the meantime, I spent 20 minutes looking for an add-on that would help. I think someone told us about something like this last time. Not sure.
+Anyway, if installed the  firefox add-on
+ URL link 
+ that allows you to transform the link to the new editor, to the one for the old editor.
+This means that you can right-click on any Edit post button and go directly to the old editor.
+I know its not a solution, but it is a work-around. (You would need one for each of your blogs). I will give more details if anyone is interested.
+
+
+@knashermac2009 I would love details on that!  Would that work for the free version of wordpress?   thank you so much!
+
+
+@cbiancardi Yes  it will work!
+1. Download and enable the firefox add-on URL Link 2.04.03
+2. From the list of add-ons, find URL Link and click on Options
+3. Click on th e"Edit Menu" tab and add a new entry
+ Edit Post|https://yourWebSiteURL/wp-admin/post.php?post=*&action=edit
+(Edit Post is what you will later. The stuff after the | is the link to the classic editor. The * will be the post_id)
+4. Click on the "Edit Search and Replace String" tab and add a new entry
+https://wordpress.com/post/yourWebSiteCode/||
+The bit before the || is the link to the new editor without the post id. Link URL is going to remove this (leaving the post_id). You can obtain yourWebSiteCode (a 7 digit number) by hovering over a link to the new editor (as in New Post or Edit Post).
+5. Click OK. I removed all the other entries in both menus to remove clutter.
+6. Now, when you go into your blog, right-click on any edit button and hover over "Open Selection". You'll see "Unaltered" plus all the items from the Edit Menu in URL Link (including Edit Post). Select the latter.
+
+
+Please Reinstate the Option of Choice to Use the Old Publishing Format -- strongly echoed
+
+
+We all appreciate what volunteers do, but I sometimes think that this system is reinforcing WP's already bad habits. The volunteers get a lot of the anger which WP should be feeling itself.
+
+
+I would like to speak for a subgroup of bloggers on WordPress.
+I blog anonymously and in private browsing windows.  When I close my browser, the cache is deleted.  Since the new editor apparently stores drafts in a computer's cache, the new editor is absolutely not an option for me.
+Now imagine all those college students who have to use campus computer labs... you know, those students who don't have their own computer or smart phone.  (Yes, plenty of those still exist in spite of the proliferation of such technology among youth.)
+If the new editor had been the only visible option when I started blogging, I would not have stayed on WordPress for more than a day.  It wouldn't have been feasible.  (Having been here for a while, I know there are workarounds.  A newbie wouldn't realize that.)
+
+
+@bumblepuppies ... so with the new editor, if the cache is emptied you lose all your drafts?? I have dozens of drafts. They are my "lab" for future posts. Am I going to lose them once the classic editor is shut down?? This is the worst thing I have heard yet. Anyone??
+
+
+@davidderrick-Who said anything about the Classic Editor being shut down?
+
+
+@davidderrick
+That is my understanding.  The workaround would be to publish your drafts, but schedule them for a time that's 100 years into the future.
+
+
+It would be foolish to assume the classic editor is staying, no?
+
+
+My client would like to have a sort of weekly specials and news box on the side bar, so I have put up a Title, and used this code, gleaned from a post on this issue, but I am not seeing a frame, or box around "Larry's Lure".
+<div id="sidebar">
+<h1><b><u><span style="color:#cd2626;">
+Larry's Lure</span></u></b></h1> 
+<div class="textwidget"><h3><b>Coming soon!</b></h3></div>
+</div>
+Thanks,
+Steve
+
+The blog I need help with is fishingoregon.net. 
+Hey Steve, me again. 
+This is also a job for custom CSS. Try adding this, just like the  other CSS that you used. 
+/* Larrys Lure Text Widget
+* Each widget has it's own ID and can be targeted with CSS
+* This CSS is applied specifically to text widget with ID of text-7
+* Second rule sets the color of H1 elements nested under text-7.
+*/
+
+#text-7 {
+  border: 1px solid gray;
+  padding: 5px;
+}
+
+#text-7 h1 {
+  color: #CD2626;
+}
+Note that each time you create a widget, WordPress will assign it a specific ID. ID's are unique, so there is only one ID for any single element. This is opposed to classes, which can be used multiple times.
+(# is an ID selector, . is a class selector )
+If you wanted to target all text widgets you could change #text-7 to .widget-text - which would target the class for all text widgets, instead of the ID for that specific widget.
+Make sense?
+
+
+ps. I'd delete all that additional markup you added, and just use Larry's Lure for the title, and coming soon in the text area of the widget. 
+:)
+
+
+Jimmy,
+I hadn't seen your note, but it looks cleaner your way than what I did.  FYI, I will include it here...
+<div style="border:3px double #000080;padding:1.2em;"><h1><b><u><span style="color:#000080;">
+Larry's Lure</u></b></h1></span> 
+<div class="textwidget"><span style="color:#000080;"><h3><b>Local Fishing Bait Coming Soon!</b></h3></span></div>
+Thanks...
+Steve
+
+
+I have a self hosted site that no longer exists.
+I'm told only a member of WordPress.com staff can remove this:
+essentiallysmooth.com
+
+The blog I need help with is www.essentiallysmooth.com. 
+Thanks for the URL. Subscribe to this thread so you are notified when Staff remove it.
+
+
+Removed! Let me know if I can help with anything else.
+
+
+Please also remove the following sites from "my sites" (selfhosted)
+- ontheline Media GbR
+  ontheline-media.de
+- Die Conspiritanten
+http://www.conspiritant.de
+- homekurse.de
+  homekurse.de
+Thank you
+
+
+@christophscheyer - Done!
+
+
+Hi. 
+I needto remove this site from the dashboard: protoarte.com/portal
+Thanks.
+
+
+@fejocaal - all set!
+
+
+If you are removing sites, I'd like ohiogranfondo.com removed from my dashboard.  Thanks
+
+
+I've just removed that!
+
+
+Hi there, I need to remove centerspacekb.com from my site list.  It was self hosted and no longer exists.
+
+
+@ecklarson	 - I've removed that for you.
+
+
+Dear Forums,
+I recently attempted to edit one of my recent articles, only to be taken to the new editor. There used to be an option to switch to classic mode, however that seems to have been removed. I may not be looking in the right place for the option to switch to the classic mode. If I am not seeing that option, please point me to where it is on the new editor? Thank you.
+If you have removed the option to switch to classic mode, please reinstate an option to switch to the classic editor. 
+Thank you.
+Craig
+
+The blog I need help with is secondchancetolive.wordpress.com. 
+Hi Craig,
+The Classic Editor will continue to exist in wp-admin. We know some users prefer to use this editor, so we want you to have access to it, instead of phasing it out with the new version of the Dashboard. However, a link to the Classic Editor will not return to the New Editor. From: https://en.forums.wordpress.com/topic/when-editing-an-old-post-how-do-i-switch-to-the-classic-editor?replies=5#post-2316097
+ The classic editor has not been removed but the link to return to it from the new editor was removed by Staff, who watched how many used it for 6 months and then decided that link wasn't needed.
+If you have not done so already and would like to see the return of the link to the Classic Editor from within the New Post Editor, please post in this thread to say so https://en.forums.wordpress.com/topic/please-reinstate-the-option-of-choice-to-use-the-old-publishing-format/page/4?replies=97#post-2311491
+
+
+I also tagged this thread for Staff to take notice of your issue and feedback. Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+I have three blogs in WP where I regularly post, now I can't go into my blogs through the dashboard because it doesn't appears with my blog instead appears in other blog that I never used.  My blogs are: http://piedadmo.net, http://piedadmontesdeoca.com, and htt://piedadmo.me.  None of those I can't go in so I can edit or write a new post.  The blog http://piedad45's blog is not the one where I used all these years where I have my posts and edit them, comments, etc.
+
+
+Thank you Timethief,
+I appreciate you taking the time to explain what you have with me. I do not know if you are saying there is an option to prevent going to the new editor -- and instead opening to the new editor. I would like to have that option so that I can go immediately to classic editor, instead of defaulting to the new editor. 
+With all the UPROAR when the new editor was launched -- I am amazed that more people did not use the switch to classic mode button -- unless they did not know that that option existed.
+
+MANY, MANY, MANY people, based on the LONG stream of comments at the launch were very DISGRUNTLED that staff were, is essence; making people use the new editor. That is why they (staff) gave the option to revert to the classic mode in the side bar of the new editor at the time. 
+Please ask staff to reinstall the classic button option in the new editor. Thank you.
+Please send this comment along with the above stream to staff. Thank you for your time and kindness timethief. 
+Have a great day my friend.  
+Craig
+
+
+@piedad1945
+ Please do not hijack threads by posting off-topic into theme. It's confusing and results in the original poster and everyone trying to help them who has subscribed to the thread getting unnecessary unrelated email, and that is annoying.
+ Please use this Add New Topic link found on the front page of these forums  https://en.forums.wordpress.com/?new=1 so you can copy and paste your text into a thread that will appear in  a new thread where you will get the help you need.
+
+
+Please use this Add New Topic link found on the front page of these forums
+TT: It's a duplicate.
+https://en.forums.wordpress.com/topic/my-old-blogs-have-being-changed-for-piedad1945-that-dont-have-my-posts?replies=2#post-2317903
+
+
+Asking to staff to reinstall the classic button option in the new editor. Qould that be possible?
+Thank you.
+Piedad Montes de Oca Alburquerque
+Vicepresidenta Ejecutiva
+Kraneo*SCPF
+(809)563-6683
+(829)599-2155
+[email redacted]
+http://piedadmo.net
+
+
+Hi!
+On my blog http://grzesiopolak.com I deleted a page (about a month ago) with the link http://grzesiopolak.com/listy-do-polski/. I was chaning the whole section, so that page has gone to the bin, than was deleted permanently.
+After a month I came back and created a completely new page and wanted the link to be the same, i.e. http://grzesiopolak.com/listy-do-polski/ - forget about it. The system is changing it to http://grzesiopolak.com/listy-do-polski-2/ (like the old page was still there). Frustrating, as I've already made links in other posts and pages!
+It happens when I upload an image that I have to correct, too: after deleting the image "for ever", the new image will be automatically called "image-2" in the link - not just "image" ("-2" will be automatically added to any title in the URL).
+Does WordPress keeps those "deleted for ever" pages, posts and images somewhere in some cache on the server, so I cannot use the same name again in the link (after I delete images, posts or pages from Trash)? This is not very comfortable :/
+Unhappily, I had to go around and change the name from http://grzesiopolak.com/listy-do-polski-2/ to http://grzesiopolak.com/listy_do_polski/.
+Any suggestions as to what I do wrong?
+Adam
+
+The blog I need help with is grzesiopolak.com. 
+When you see a 2 at the end of the URL it means that the first one is in the Trash and has not been permanently deleted.  See here https://en.support.wordpress.com/trash/#permanently-deleting-a-post-or-page
+
+
+Hello timethief,
+That's the problem: I enter trash, delete permanently and yet the system does the same: adds "-2" to the name!
+The same goes with images: I uploaded an image listy-do-polski.jpg, which I deleted permanently, and yet when I re-uploaded it, the system still changed the name to listy-do-polski-2.jpg. What is even more interesting, after I re-named it to listy_do_polski.jpg, it created an attachment page with URL http://grzesiopolak.com/listy-do-polski/ with that image there! I never asked for an attachment page with URL http://grzesiopolak.com/listy-do-polski/ with that image... That URL was initially reserved for a page listy-do-polski (not for an attachment page)...
+However I delete (permanently, forever from Trash), the system keeps on adding that "-2" to the "old" (deleted permanently) name of page, image or post.
+It's a bit annoying. If I knew about that glitch, I would never delete permanently anything, but indeed leave pages or posts in the Trash to recall them back and make corrections later... I am still puzzled...
+Greetings from Cape Town!
+Adam
+
+
+Hi there,
+ When it comers to providing support I provide triage and answer the most repetitive questions posed day in and day out. I'm sorry I was unable to help you resolve this but do not worry as I tagged this thread for Staff assistance. Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+Edit:  comers was meant to be comes :(
+
+
+Thank you :)
+
+
+You're welcome and please be patient while waiting.
+
+
+Hi @grzesiopolak,
+To clarify, posts/pages and images are handled a bit differently. 
+For pages/posts, once you delete a page or post, that URL should be available again for use (assuming you've removed it from the trash as well). The issue here is that the slug is being used by a media item here:
+https://grzesiopolak.wordpress.com/wp-admin/post.php?post=3520&action=edit
+If you scroll down that page, you'll see "listy-do-polski" as the slug for that media item. If you change that to something else, you should then be able to change the slug to listy-do-polski here:
+https://grzesiopolak.wordpress.com/wp-admin/post.php?post=3526&action=edit
+For media items, slugs aren't reusable. So, if you uploaded an image called example.jpg, it would exist here:
+https://grzesiopolak.files.wordpress.com/2015/03/example.jpg
+Even if you delete the image from your site and upload another example.jpg, it will still append a "2" like this:
+https://grzesiopolak.files.wordpress.com/2015/03/example-2.jpg
+The only way to have the example.jpg slug again for the image would be to upload it during a different month (so it would be 2015/04 for example).
+Can you try renaming the slug on the media item to see if you're able to then rename the page slug?
+
+
+Hi,
+I'd like some of my widgets to form part of main nav menu but it only lets me add pages, posts and links... The widgets don't come up
+If I google it then people suggest creating a new page template but this doesn't exist in my dashboard options?
+Many thanks,
+
+The blog I need help with is ruckmylife.com. 
+Hello! Adding widgets to your menu is not possible here on WordPress.com. Creating new page templates is also only available through self hosted WordPress.org sites.
+Can you tell me what you're trying to add? Maybe there's another way to do it!
+
+
+Hi,
+Thanks for your reply. Should I be looking to move to wordpress.org? I'm worried I've done the wrong thing by paying for hosting on .com as I am not able to do what I want to do I don't think and I can't seem to add plugins or anything?
+I am trying to add archive and recent blogs to the main menu but I don't seem to be able to?
+Thanks for your help
+C
+
+
+I am trying to add archive and recent blogs to the main menu but I don't seem to be able to?
+This sounds like something you can definitely do here. Can you explain which posts you want to appear on each of those pages?
+Our recent post pages show all of your recent posts, and users can scroll back as far as they want. Does that sound like what you want for the recent blogs page?
+As for archives, we offer many different types of archives. You can link to Category archives, or yearly archives, even monthly archives. Can you tell me what type of archives you're looking for?
+If you let me know the rest of the functionality you're looking for through plugins, I can help you find ways to do those things here on WordPress.com. If you're still interested in moving to a self hosted site, here's some info about what that means for you:
+https://dailypost.wordpress.com/2013/11/14/com-or-org/
+http://en.support.wordpress.com/com-vs-org/
+Let me know if you have any more questions!
+
+
+Hi,
+You're so helpful, thanks! I have the recent posts widget at the top of the page, but it's limited to how many it shows, where's the scrolling option for users? It also shows all posts, not just my blogs but that's another problem I am trying to work out!
+I was looking for a tab in the nav that housed all blogs on it, not just top 5/10 - is that possible to do?
+I have set up archives but in the widget section I can only see by month as an option, not category or anything...I was hoping to do it so that the archive housed a list of the blogs and their title, as users don't know which month they were published, so if they click they can see them all there - I guess similar to the nav page I am trying to set up. I only have a small number of blogs as this is new, but when they rack up, I want users to be able to see all of them with their titles somewhere?
+Thanks so much
+
+
+I was looking for a tab in the nav that housed all blogs on it, not just top 5/10 - is that possible to do?
+Yes! It sounds like you have some posts that are part of your blog, and other posts that are not part of your blog. Is this correct? Do all of your blog posts have a specific tag or category like "blog"?
+Once you do, you can create a Category Page for that:
+http://en.support.wordpress.com/category-pages/
+I have set up archives but in the widget section I can only see by month as an option, not category or anything...I was hoping to do it so that the archive housed a list of the blogs and their title, as users don't know which month they were published, so if they click they can see them all there - I guess similar to the nav page I am trying to set up.
+It sounds like you want to use several Category Pages:
+http://en.support.wordpress.com/category-pages/
+Does this do what you want?
+
+
+Hi,
+This is useful and nearly there, but can I only create a custom menu for blogs rather than have it in the main nav/menu along the top of the page. I feel like I need to add all of the blogs into a page, then add that page into the main menu/nav? Thank you again, your advice is so clear and spot on, I really appreciate it.
+regarding archive widget, I can still only see by month as an option?
+Thanks again
+
+
+Ignore me, I've done it. This really rocks, exactly what I wanted to do, thank you so much! So any post I tick with that category will appear on this section and there's no limit to numbers?
+Archives still don't give me an option to file in a different way with categories or month etc...
+last thing, can I use categories to denote what appears on the Homepage as there are some posts I don't want on there?
+Thanks again... can you now find my forum plea for help getting social icons on my header as you are the most helpful person to respond so far. Thanks again!
+
+
+So any post I tick with that category will appear on this section and there's no limit to numbers?
+Yep! This is exactly right. :)
+Archives still don't give me an option to file in a different way with categories or month
+This is true. We have various widgets you can add if you want users to have these options. The Archives widget shows months. And the Calendar widget will show a calendar style view of your posts. Then the Categories widget will show either a drop down or a list of your categories which will lead to the Category Pages.
+can I use categories to denote what appears on the Homepage as there are some posts I don't want on there?
+Unfortunately no. I would suggest setting up a static page for your front page if you want to keep certain posts off the front.
+http://en.support.wordpress.com/pages/front-page/
+can you now find my forum plea for help getting social icons on my header 
+Sure! I'll go find it. :D
+
+
+Your responses are so clear and awesome and have worked, thank you so much! I have everything crossed you can find my other queries so you can help this blonde debutant out - follow button/comments on posts and social icons are the main ones.
+Thanks again, please let this be a huge shout out to say you are the best forum reply/support person I've come across - if I can understand, then you're doing well!
+
+
+I'm so happy I can help! Sorry for the delay. I was offline for a few days. Back now though! Let me know if you have more questions I can help with. :)
+
+
+No worries and thanks....final one is the follow button on my site as I can only have the email function and friends are not seeing it so I think a button would be better but that doesn't exist I don't think? Shame after each post there isn't a function to follow blog?
+
+
+You could add the Subscription shortcode to the end of your posts if you like:
+https://en.support.wordpress.com/blog-subscription-shortcode/
+We try to make it as easy as possible for your readers to subscribe to your blog with or without a WordPress.com account. Anyone who is logged into a WordPress.com account will see this Follow button at the top of your site:
+https://i.cloudup.com/winRrkhkhU.png
+Anyone who is not logged into a WordPress.com account will see this at the bottom of their browser window when visiting your site:
+https://cloudup.com/cVBiwM8eAnJ
+As you've found we also have a couple of follow widgets:
+1. The Follow Blog widget adds a box where viewers can subscribe to your site via email.
+2. The Follow Button widget adds a button that WordPress.com users can click to follow your site.
+The email options will not require your followers to create a WordPress.com account. However, they will need to confirm that their subscription by clicking a link in a confirmation email from WordPress.com.
+I hope this clarifies your options. Let me know if you have questions!
+
+
+According to https://en.support.wordpress.com/recycling-blog-names/ the reason why URLs of deleted blogs are never recycled is because someone may confuse the new blog with the old one, and get angry at previous owner.
+But what about when YOU are the owner of the old blog? This reasoning doesn't apply, so I see no reason why a user shouldn't be allowed to recover a URL that was once his.
+Is there some OTHER reason for not allowing users to recover their past URLs?
+
+The blog I need help with is elancora.wordpress.com. 
+PS: I was required to select a blog in order to post this post, so I selected elancora.wordpress.com, but the blog I would like to recover is lfschenone.wordpress.com
+
+
+But what about when YOU are the owner of the old blog? This reasoning doesn't apply, so I see no reason why a user shouldn't be allowed to recover a URL that was once his.
+Is there some OTHER reason for not allowing users to recover their past URLs?
+You have received several warnings before deleting the blog. Even an email.
+https://en.support.wordpress.com/delete-site/
+
+
+I know that, thanks. You are not answering the question.
+
+
+You are not answering the question.
+Yes, I did.
+In all these warnings you received, was informed that you could not retrieve the URL.
+
+
+Sorry but the URL & the site/blog are gone. Forever.
+
+
+I'm asking for the REASON why you cannot recover your OWN previous address. The reason man. Do you know it?
+
+
+You have your answer.  You ignored multple warnings that deleting a blog URL is permanent and irreversible and no,  registering the deleted URL is not possible.
+Blog deletion is not easily accomplished. To prevent accidental or inadvertent deletion of blogs, there are multiple warnings given that blog deletion is permanent and irreversible. 
+Lastly, a verification link is sent in an email and must be clicked to delete a blog. If clicking that link does not work then copy and paste it into your upper browser window and click. If you click the URL is gone forever. http://en.support.wordpress.com/delete-site/
+Deleted blog URLs are not recycled, regardless of who registered and deleted them and no exceptions are made.
+http://en.support.wordpress.com/recycling-blog-names/
+You can register another .wordpress.com blog http://en.support.wordpress.com/register-a-blog/
+Then if you wish to you can register a domain via a domain mapping upgrade because it does not matter what the underlying .wordpress.com address is when you are domain mapping.
+http://en.support.wordpress.com/domain-mapping/
+http://en.support.wordpress.com/domain-mapping/register-domain/
+
+
+The reason man.
+Simple - their sandbox, their rules 
+Some places allow recycling of names etc. WordPress.COM has chosen not to
+
+
+Hi,
+First, let me ask...is there a better way to solve problems using WordPress.com, than using this very congested forum system?  For instance, is there a Twitter resource where you could ask a quick question and get a quick answer?
+Now...my real question is about removing page titles, so that they don't show at the top of each page, when the menu has the page title on a menu tab, and you wind up with redundancy.  When I removed the page title, and put the page title in the Navigation window on the Menu page, the look of the site is better.  However, without a page title on the admin page, that page is noted as "#1 (untitled)" on the WP Stats page.
+This adds a step or two when editing the site, because the page names(titles) are not there for convenient access.  
+Also, I am wondering what effect that will have on other analytics programs, though Google doesn't work anyway with WordPress (or so I thought, until today, when I am being asked to link Webmaster Tools and Google Analytics for another of my WP.com sites?!)
+Constructive input will be appreciated.
+Thanks,
+Steve
+
+The blog I need help with is fishingoregon.net. 
+Hey Steve,
+These forums are probably going to be your best way of getting support. 
+With regards to the title, do you have a premium subscription? If so it would be really easy to hide the page titles with CSS. 
+Let me know if you'd like to give this a try and need some help with the CSS.
+Having no titles at all will have an impact on SEO. Hiding the text with CSS (but making it available to screen readers) is advisable. This is a good method.
+You can't use Google Analytics with your wordpress.com site (without a hack) but Google does "work" with WordPress, so far as Google will rank your pages just like any other page.
+I hope this helps. I'm out for tonight, but I'll be around tomorrow if you have any follow ups.
+
+
+Thanks for the input JS!  The client does have the premium upgrade, but I am a bit reluctant to trust myself with CSS.  Thanks for the insight re the no titles route.  Looked at the "good method" and it did nothing for me for clarification...sorry.  I changed the pages back, so that page title are evident, but I would love to learn to use CSS, for at least this modification.
+Thanks,
+Steve
+
+
+Hey Steve, no problem at all. Try this CSS in your customizer. I've added a comment block so that you can see what it is doing, and to credit the authors of the code. 
+/*******************************************************************************
+Hide post titles, using screen-reader-text method from _s acessibility
+https://github.com/Automattic/_s/blob/master/sass/modules/_accessibility.scss
+Targets all elements with class of .entry title.
+*******************************************************************************/
+
+.entry-title {
+  clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+Let me know if that helps.
+- Jimmy
+
+
+That worked, once I figured out where to place it!  Thanks a lot!!
+Can you check the site to confirm things are as functional as they should be?
+Best,
+Steve
+
+
+Hey Steve, all looks good to me. Good show!
+- Jimmy
+
+
+Thanks Jimmy!!  Check out the text box on the sidebar!  I asked the board, but figured it out.  I like that CSS convenience...I would like to learn more.
+Thanks again!
+Steve
+
+
+Hi, I am using the Motif theme and there i no follow button in the bottom right corner when people use the mobile. (PC, Laptop and tablet fine)
+There is no point telling me to use the follow me widget as the sidebar is not visible in mobile view. Can you please fix this asap as the majority of my traffic comes from mobiles and this affects follower numbers, in fact a friend complained the other day that she couldn't clearly see where to sign up. This seems like it would be a pretty big issue for all users, not just myself.
+As well as this, thanks to the frustrating new editor layout I am missing half of my categories! Ironically, they still show up in the mobile version. Please fix this also.
+
+The blog I need help with is melbournefoodreview.com. 
+Hi there. An option you can look at is the Blog Subscription shortcode. That one works on posts and pages, so you can create a new page and add the shortcode to allow people to subscribe that way. It's not as elegant as a button, but will at least give you this functionality. https://en.support.wordpress.com/blog-subscription-shortcode/
+Still, I'll tag this for staff to follow up. I was helping someone else with this issue the other day, and could swear I tagged that thread, but it doesn't appear to be tagged anymore and no one from staff responded to that one, so I might have imagined doing it :) Please be patient while waiting for them to respond to this thread.
+As well as this, thanks to the frustrating new editor layout I am missing half of my categories! Ironically, they still show up in the mobile version. Please fix this also. 
+The current main feedback thread on the new editor can be found here: https://en.forums.wordpress.com/topic/please-reinstate-the-option-of-choice-to-use-the-old-publishing-format?replies=167 Please post in that thread with any and all problems you are experiencing with the new editor.
+Meanwhile, I recommend you use the classic editor instead. From the My Sites page, click on the WP-Admin link, and then select Posts ->Add New to create a new post or Posts ->All Posts to edit an existing one. That editor shows all your categories and is completely bug-free, unlike the new editor.
+
+
+Just confirming (for the sake of my own sanity) that I definitely did add the modlook tag to this thread ;)
+
+
+The Follow button does show on a mobile, it's just at the very bottom of the page.
+An alternative is to option above is to  create a menu item that jumps down the home page to the follow button. The follow button section has an ID assigned by wordpress in the source code. 
+View the source code from a desktop and search for "subscription", find the "id=" section and note what the value of ID is. In my theme it is id=blog_subscription-4
+Then create a Follow menu item and link it to Follow section of the home page, eg
+http://traumadissociation.wordpress.com#blog_subscription-4
+
+
+@traumadissociation
+Sorry, I only saw your post now. For some reason I didn't get an email notification when you posted.
+Viewing the OP's site in the Android browser and Chrome for Android I don't see the button at all. I do see the follow widget under the content, but not the button for logged out users. Same on the blog of the user I assisted in the other thread linked above.
+On what type of device and browser do you see the button? It might help narrow this down.
+
+
+Hi @melbfoodreviewer,
+I am using the Motif theme and there i no follow button in the bottom right corner when people use the mobile. (PC, Laptop and tablet fine)
+The Follow tab will not appear on phones. This is intended behavior. 
+The best fix would be to use the Follow widget like you mentioned. However, if you disable the default mobile theme (since your theme is mobile responsive) here:
+https://melbgourmet.wordpress.com/wp-admin/themes.php?page=mobile-options
+You should see the widget at the bottom of your site as shown here:
+http://d.pr/i/XDWs
+I would also suggest reducing the number of posts shown on page load to less than 50 (maybe 20) to reduce the amount of scrolling required (this will also help page load time). You can do that here:
+https://melbgourmet.wordpress.com/wp-admin/options-reading.php
+
+
+I made a lovely header on PicMonkey, and it is sized exactly as it's recommended, but when I upload it, it looks blurry... Help? 
+(note: I went back to my old theme while I try to sort this out)
+
+The blog I need help with is justmybrandofnonsense.wordpress.com. 
+Hello
+My blog is called 'The Pays Basque changed our lives'. Unfortunately an old title (Basque in the sun or Basque-ing in the French sun is still attached to this on the search engines, which then gives an incorrect link. How do I eliminate them please?
+Regards
+John.
+
+The blog I need help with is aquitaine2015.wordpress.com. 
+What's the incorrect link that appears in search engines?
+
+
+Hey John,
+Search engines are tricky and getting to change them will be a tad difficult and time consuming. If the search engine is google, you can submit a request to remove the link.
+
+
+'aquitaine2015.wordpress.com/2015/02/27/basqueing-in-the-French-sun' is the incorrect link
+Sorry for the delay - my computer packed up last night! This link puts people through to WordPress but not 'aquitaine2015.wordpress.com'
+which confuses people!
+Hope you can help.
+Excuse me for asking but where are WordPress staff based??
+Regards
+John.
+
+
+I just put that link into my browser and landed on your site here:
+https://aquitaine2015.wordpress.com/2015/02/27/basqueing-in-the-french-sun-2/
+As simplysaru mentioned, search engines can take a while to update their results, but we try to account for links that are slightly off and redirect readers to the right place.
+Where you do land when you click on this link:
+http://aquitaine2015.wordpress.com/2015/02/27/basqueing-in-the-French-sun/
+
+
+Thanks again!
+The incorrect link does land in the right place, but on the first page and not my site. Guess I'll have to live with that!
+Are you able to help with one other query? Pictures have now appeared on my site but I don't recall putting them there! However, they do enhance the blog. My question is; how do I space out the writing with those images. Is there a setting I should go to??
+Thanks again
+John.
+
+
+Our theme developers actually just updated the Boardwalk theme to display the first image in your post if you don't have a Featured Image set. You can turn this functionality off if you'd like through your Customizer in the Theme pane.
+Or, you can have more control over which images appear by setting Featured Images on your posts.
+Does that help? I'm not sure exactly what you're referring to by "space out the writing with those images" so let me know if I didn't address this. :)
+
+
+Thank you yet again; I'm sorry to be so ignorant but I'm very impressed with the help I am getting. I think I'd better invest in WordPress for Dummies!
+I haven't yet mastered Customizer or Featured Images. Is the Boardwalk theme the line of images of all posts that appear when you first visit the site? If so, the first image in each post is not being shown there. Is that my fault? I would please like the first image to be shown as someone isn't so pleased with the image on Post 2!
+By 'spacing out the writing' I meant is it possible to rearrange the words on the Boardwalk? Maybe I'd better wait before trying that.
+Thanks again; the help is appreciated.
+John.
+
+
+Hi John!
+I'm happy to help you out! Here's some information about your theme, Boardwalk:
+https://wordpress.com/themes/boardwalk/
+We have many different themes, each with their own way of displaying your posts, images, videos, and other content.
+You can choose the specific image for each post by setting a Featured Image on the post. Here's some info about doing that:
+http://en.support.wordpress.com/featured-images/
+Open your second post in the editor, and select a Featured Image. As long as the image is 2000 wide by 1500 high or larger, it will appear on the front of your site.
+I hope this helps! Let me know what else I can help with. :)
+
+
+I just submitted a post and now I can't review the post or get onto anything to do with my blog. Can anyone help me? It's not the computer as I can't access it on my mobile safari either...
+
+The blog I need help with is growingupforeveryoungblog.wordpress.com. 
+I see your site/blog https://growingupforeveryoungblog.wordpress.com/ perfectly.
+Maybe it's a browser issue, try this:
+https://en.support.wordpress.com/browser-issues/
+
+
+Apologies, I'm not crazy savvy with this, so hopefully this makes sense. 
+A site of mine - yorkminxters.co.uk has been down for a few days. I can't even access the admin dashboard.
+When I go to the 'My Sites' page for my WordPress account, this site link has a little yellow warning next to it that when I click, it states 'Jetpack 3.3 required - update now.' But when I click 'update now', it tries to take me to the Admin page, which is down! Any ideas how to fix this?
+
+The blog I need help with is yorkminxters.co.uk. 
+Sorry, no answer here, but I'm posting (and subscribing) because I've had the Jetpack 3.3 Required message for about a week now as well on my wordpress.com blog (smutek.ninja) 
+My site isn't down, but I've been perplexed by the message. I didn't find anything relevant when I searched the forum.
+
+
+You're both in the wrong forum. You need to be at Jetpack.me and at the Jetpack sub-forums in WordPress.org.
+
+
+Raincoaster....We are NOT in the wrong forum
+I have a wordpress.com hosted site and am also getting the non existent update jetpack message. Regular users KNOW that jetpack is for wordpress.org. So why are wordpress.com users getting it.
+This is a wordpress issue
+
+
+Raincoaster....We are NOT in the wrong forum
+Ditto. I'm posting to confirm, again, that I am seeing this upgrade notification on my wordpress.com blog, at smutek.ninja - not on a self hosted site.
+Here's a screenshot.
+
+
+@Butterflyedge: Your domain name expired a month ago: http://who.is/whois/yorkminxters.co.uk
+You'll need to contact your registrar to get that cleared up. 
+I've removed it from your WordPress.com for the time being so you don't continue to get these notices.
+
+
+@jsmutek: The issue is that you previously had a Jetpack site using the smutek.ninja domain; I have removed the Jetpack site from your account, so you shouldn't continue to see the update notice.
+
+
+@robinoz: same situation as above. I have disconnected it.
+
+
+Thanks rootjosh!
+
+
+I would like to remove the domain mapping from one wordpress.com account and set it up in another.  The domain registration has already been transferred, but the mapping within the wordpress.com interface still remains, and will not let me map the domain to the new account.  I get the "Sorry but brentwoodcommontownhomes.com is already mapped to a WordPress.com blog." message.
+
+The blog I need help with is brentwoodcommontownhomes.wordpress.com. 
+Which site are you trying to move brentwoodcommontownhomes.com to?
+
+
+Moving from: http://brentwoodcommontownhomes.wordpress.com
+TO: http://brentwoodcommon.wordpress.com
+The domain name has already been transferred, and the DNS settings have been updated, but I cannot re-map because it is still mapped in the other wordpress.com account.
+
+
+Okay, I've added it manually. I see brentwoodcommontownhomes.com pointing to http://brentwoodcommon.wordpress.com now.
+Remember to set it as your primary domain if you want brentwoodcommontownhomes.com to show to viewers instead of the WordPress.com domain.
+
+
+I just discovered that I can't actually delete my account? I don't understand this and then you state that it will take time to release the email address to use on another site.....there is a breach of rights here for sure!
+
+The blog I need help with is denisefwoods.wordpress.com. 
+So, awhile back I accidentally deleted my original wordpress, which was barringtonmartin.wordpress.com under the domain of barringtonmartin.com. Now, I'm back to wordpress and I still want to use the domain of BarringtonMartin.com with my new wordpress site; however, upon attempting to map this domain, it states that it is still mapped to my old deleted wordpress site, barringtonmartin.wordpress.com. What can I do to transfer my domain to my new wordpress site?
+I appreciate any help! Thanks.
+
+The blog I need help with is barringtonmartinii.wordpress.com. 
+I should have that fixed for you now. Let me know.
+
+
+Thanks for you help, but when I try to enter "barringtonmartin.com" for my new blog of barringtonmartinii.wordpress.com it continues to say that my domain name is taken. What else could be the issue?
+
+
+Okay, I've added it manually. I see barringtonmartin.com pointing to barringtonmartinii.wordpress.com now.
+Remember to set it as your primary domain if you want barringtonmartin.com to show to viewers instead of the WordPress.com domain.
+
+
+My facebook- and twitterwidgets don't work, who do I speak to?
+The facebook widget won't show the picture it's supposed to, and the Twitter-widget won't show any tweets.
+
+The blog I need help with is sebolas.com. 
+Es wurden nicht alle Artikel vom alten Blog Importiert!!
+Es Steht immer noch in Bearbeitung, das ist aber schon seit zwei Wochen!
+
+The blog I need help with is daskaeseportal.wordpress.com. 
+Noch keiner eine idee?
+
+
+Please, post to---> Deutsch (German): http://de.forums.wordpress.com
+
+
+Or post here, in English if you can.
+
+
+oh Sorry! ;)
+
+
+Let me chime in here. :) mwuehle has already posted in the german forum and we german moderators advised him to post over here because we couldn't help.
+We're talking about a stuck import process. mwuehle moved from WordPress.org to WordPress.com. The import process stops at 60% of the posts and says he will be notified when the import is done. This way two weeks ago. 
+It's best if one of the Happiness Engineers checks for the import process and maybe resets it so that the user can import again.
+Cheers
+Martin(IQ)
+
+
+It's best if one of the Happiness Engineers checks for the import process and maybe resets it so that the user can import again.
+Perfect, Martin. I suggested to @mwuehle write in English here.
+Cheers.
+
+
+Hi @mwuehle,
+Happy to help, but it looks like you've already deleted your site. I'm really sorry for the delay. If you still need help unsticking the import, let me know the site address!
+
+
+I am trying to permanently delete my site, but I get a circular reference that won't allow me to access it.  How do I delete MRSecurityBlog?
+
+The blog I need help with is mrsecurityblog.com. 
+I started a blog (.wordpress.com) and purchased a domain through WordPress to be the primary domain. I thought I had set the original blog to redirect to the new domain. However, in the dashboard, I have two sites: the wordpress.com site, and then my site I set up as a primary domain. When I go to "My Domains," these blogs are managed on different windows, and I do not have the option to redirect the wordpress.com site to the intended primary. Instead, my primary domain is set for some silly "dotcom.wordpress.com" URL. How do I fix this? When I go to "My Blogs" in Dashboard, only the wordpress.com site and the dotcom.wordpress.com appear.
+
+The blog I need help with is theferryschool.wordpress.com. 
+I've switched that for you. Your domain should point to the correct site now.
+
+
+Very nice. Thank you!
+
+
+Happy to help.
+
+
+I typed the wrong email at registration and can't get the conformation email
+
+The blog I need help with is marissagasparro.wordpress.com. 
+The software here redacts email addresses ie. it HIDES them do only Staff can see them. Post both the wrong and the right email addresses into this thread please.  I tagged this thread for Staff assistance. Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+Edit: do only was meant to be so only
+
+
+The wrong email was [email redacted], the right email is [email redacted].
+
+
+Thank you. Please be patient while waiting for Staff to work their way forward to this thread.
+
+
+Hi @marissagasparro,
+It looks like you've already confirmed your account. Please let me know if you have any additional trouble.
+
+
+I want to transfer my domain/blog itsallgoodlife.com to squarespace.
+When I go on My domains, only lindyjoffeomassi.wordpress.com/ is there, not the itsallgoodlife.com.
+I am confused. There is no place to edit the DNS....
+Itsallgoodlife only shows up under My blogs...
+End of story is I want to move itsallgoodlife.com to be my url/domain on my squarespace website. Can you help me do that, please.
+
+The blog I need help with is lindyjoffeomassi.wordpress.com. 
+Celà fait plus de 24 heures que j'ai demandé l'importation des données d'un autre site/blog fonctionnant également avec wordpress, combien de temps faut il pour que l'importation soit effective ?
+Voici l'adresse du site que je tente d'importer : http://sophrologues.org/sophrocoach17/
+Merci de votre aide. C'est urgent car la plateforme de ce site doit fermer le 31 Mars !
+
+The blog I need help with is sophrologuepraticien.wordpress.com. 
+Sometimes the importer gets stuck and this thread has been tagged for Staff to reset it for you. Please subscribe to it so you are notified when they respond.
+
+
+The importer got stuck.  I reset it for you.
+Please try starting the import again.
+
+
+It is the second time that I do not manage to import  contended from another web of wordpress.org. What can I do?
+
+The blog I need help with is vinalopodigit.wordpress.com. 
+Hi there,
+I assume you are using this process
+Moving Between WordPress.com Blogs
+https://en.support.wordpress.com/moving-a-blog/#moving-from-wordpress-org
+Sometimes the importer gets stuck and this thread has been tagged for Staff to reset it for you. Please subscribe to it so you are notified when they respond.
+
+
+Whenever I try to import it's says in Spanish: To import WordPress Procesando … We are processing your import now and we will send an e-mail when it is quite made. If we do not do it in 24 hours, please he contacts to support, and we will have everything tidy. But never  wordpress send  the mail
+
+
+Did you look in the spam filter in your email client?
+ If you use Gmail also look under the "social" tab.
+
+
+The importer got stuck.  I reset it.  Please try your import again.
+Let me know if you still have trouble.
+
+
+Hi there, 
+I would like to use getsett.wordpress.com for a science blog... it is already registered by someone, but right now it doesn't seem like they are actually doing anything with the site, in fact, it looks like no one has done anything with it except set a theme for the page.
+Is there any way I can get in contact with the person who has registered this url to ask them nicely if I can use it? I can't comment on the blog, and I've had difficulty finding out how to contact this person as they have not posted and have no contact page.
+Thanks!
+
+The blog I need help with is fitsett.wordpress.com. 
+There is no expiration date on blogs unused, reserved or otherwise. If you can make contact on your own with the owner of an unused blog via a contact form or commenting, then providing the are agreeable there is a means of a consenting blog owner to transfer the blog to another username account. http://en.support.wordpress.com/moving-a-blog/#transferring-your-blog-to-another-user-or-account
+In the case that there is no contact information Staff will not breach the privacy policy and provide you with an email address.
+If you are not successful, you can register another blog with a similar name. http://en.support.wordpress.com/register-a-blog/
+Or you can register a domain via a domain mapping upgrade and it will not matter what the underlying .wordpress.com address is.
+http://en.support.wordpress.com/domain-mapping/
+http://en.support.wordpress.com/domain-mapping/register-domain/
+
+
+If you find that an active blog address is registered by another user, you may be able to obtain it for your use if the owner of the blog agrees to transfer it to you.  You may contact the blog owner – via a comment on their site or through a contact form, if available – to ask for their consent.  If you do not get permission, or do not hear back from the blog owner, we cannot transfer the blog address to you. Please note that we cannot contact the owner of the previously deleted blog for you, nor can we provide you with the contact information of blog owners.
+https://en.support.wordpress.com/recycling-blog-names/
+
+
+Hi, TT.  :)
+
+
+Hey there! Thanks for the quick responses!
+I'm new to WordPress, and I appreciate the links to the Support pages... I'm still trying to orient myself. :)
+I'll see what I can do to further contact this person (and include the handy link for transferring the blog, thanks!) but I think I may be out of luck... I guess I'll have to be faster next time. Or try an address with an unorthodox domain, as most of the usual ones seem to be taken.
+
+
+You're welcome & best wishes.
+
+
+You're welcome.
+
+
+Hello, We have a below requirement. Please help me to develop this.
+We have a below metrics
+Base Rate
+Stop charge
+Parking charge
+Toll charge
+Total Fare
+I need to develop a report with a feature "Dynamic Totals", Dynamic Totals means user can add multiple metrics to get the totals on run time or after running the report or dashboard.
+Case 1 - when user  runs the reports, he should be able to add all above 4 metrics to get "Total Fare".
+In this case "Total Fare = Base Rate + Stop charge + Parking charge + Toll charge "
+Case 2 - when user  runs the reports, he should be able to add only 3 metrics to get "Total Fare". in this case user wants to exclude the "Tool charges" to the Total Fare
+In this case "Total Fare = Base Rate + Stop charge + Parking charge"
+so user can exclude any of the above 4 metrics to get the "Tool charges"
+Case 3 - when user  runs the reports, he should be able to add only "100% of Base Rate and 50% Stop charge and 20% of toll charge to the "Total Fare".
+In this case "Total Fare = Base Rate + (Stop charge * 50%) + (Tool charges * 20%)"
+Thanks,
+Madhu
+
