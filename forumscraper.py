@@ -2,7 +2,7 @@ import requests
 import bs4
 import shutil
 import os
-from time import gmtime, strftime
+from time import strftime
 
 #didn't actually need to split these up, next iteration can be joined
 root_url = 'https://en.forums.wordpress.com'

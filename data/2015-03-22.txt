@@ -1,0 +1,707 @@
+
+I don't see the Markdown option available on my blog.  There's nothing under settings that allows for changing that.  Am I missing it?
+
+The blog I need help with is hwoodjoe.wordpress.com. 
+I have been using the old posting format without problems. 
+Today, that option has been removed.  
+Why?
+The "new format" is problematic and cumbersome.
+The older publishing platform did not have issues that caused security features in my browser to alert me every few minutes to intrusive programs running in the background. 
+With the old format I don't have to recreate categories and tags with each new post.  
+I have hundreds that I need and use every day but the established categories  do not  show up.  Yes, I see that  drop down menu, but it only offers 6 choices.  What happened to the category list already created?
+It is important that I be able to set the time for each post.  It is my system for ordering my work and has nothing to do with "scheduling". 
+There are numerous other issues that can only be resolved by allowing the choice of working with old editing-posting format.
+Without that option, I will be forced to leave WordPress.
+
+The blog I need help with is libya360.wordpress.com. 
+UPDATE:
+It seems that the editor is only malfunctioning on  some of my websites, not all. 
+On libya360.wordpress.com, everything is working smoothly. The speed is much faster compared to the sister sites,  I can see all the  established categories in the drop down and set the publication time.
+My guess is that you are still working on the changeover and things will normalize soon?
+
+
+The new format sucks.....Options are left out...for example, I'm unable to tag new pages to a home page....I'm sure there are people who like the new format....but there are a lot, I'm sure, who, like myself, do not....I hate it....give us the option to use the Classic mode...
+
+
+Today, that option has been removed.
+Why?
+Nope, you can always find the classic editor.
+See here: https://en.forums.wordpress.com/topic/new-improved-edit-interface-is-still-deleting-numeric-tags?replies=21#post-2309540
+
+
+galois, 
+The classic option was available yesterday but not today so this is a recent change. WP had promised to keep the option open. For some reason it's been closed, at least on my website.
+
+
+The classic option was available yesterday but not today so this is a recent change. WP had promised to keep the option open. For some reason it's been closed, at least on my website.
+I understand you and I know about this.
+But the classic option is still available for you.
+From here: https://cloudup.com/cfMJ02ama_r
+
+
+When I select edit on my post, it automatically goes to that new bee-bo-boop format and I have no way to switch to the classic editor at that time.  There should be a button on that page to switch the view, like it used to.  Now, I have to go to my classic site, find all of my posts and then edit from there, instead of using the quick edit link that is on the posts.  You've just made it so much harder to use wordpress.
+Please do not default to that crappy new editor.   I want the original editor to be my default 
+thank you
+
+
+Or see here: https://en.forums.wordpress.com/topic/new-improved-edit-interface-is-still-deleting-numeric-tags?replies=23#post-2310052
+
+
+Again, @cbiancardi:
+See here: https://cloudup.com/cfMJ02ama_r
+or here: https://en.forums.wordpress.com/topic/new-improved-edit-interface-is-still-deleting-numeric-tags?replies=23#post-2310052
+
+
+again, @galois, you aren't understanding - I have no default button on that crappy new editor to flip me back to the classic one.  I don't care that I can jump thru hoops to get to the classic editor - I didn't have to do that before.  I do not want the bee-boop editor as my default.    I already know that I can go thru several clicks to get to the old editor.  What I want is my user experience that I had recently - which I didn't have to do all of these things to just edit a page.
+unless you have a solution to that, I will wait for someone in tech support to respond.
+
+
+As long as the new editor continues to delete posts the way it does, it's my opinion that it should be taken offline completely until fixed. It's irresponsible.
+
+
+https://itf1011.wordpress.com
+I totally agree.
+For the third time this evening I have made extensive changes to a post or page, only for the save or post/publish act to only part fill the 'new' green progress bar at the top and then simply stop, rendering my new work lost in limbo, neither saved, published, nor retrievable without a page refresh (which results in a blank editor).
+I am furious. 
+I now need to re-work the entire piece again.  I am now forced to copy and paste my work into WordPress if it cannot be relied upon to save it successfully.
+I have noticed a significant amount of change over recent months, none of which seems to add any quantifiable value, and indeed seems to lessen user experience.
+I am becoming increasingly frustrated with the barrage of change for no apparent reason.
+The list of things that now aggravate me is extensive, so I shall not list it here.
+It was all awesome as it was about a year ago.  Now we have nice new jazzy editors and menus and I like none of it.
+Stop changing things!
+If it ain't broke don't fix it.
+Change for change sake is the worst kind of change.
+
+
+@cbiancardi: I am a volunteer and was trying to help you find the way to the classic editor.
+Do not discharge your anger to me.
+
+
+I will wait for someone in tech support to respond.
+Keep dreaming, @cbiancardi
+
+
+I can't find a better place to post this so here goes - like some others I'm struggling with the new editor, got very used to the old but I do understand things change and I need to change with them. What I want to do is to change dates on my posts. I run a lost and found site for animals in Darwin (Australia) and I want to repost those animals which have been lost for a long time. Under the reschedule it appears I can only reschedule for a time in the future and not for the immediate. I used to be able to do this with the classic editor. I really don't want to recreate the whole post which is the only way I can see of doing it. Do I need to download new software?
+Really hoping somebody can help. I'm sure I'll have further questions as time goes on. many thanks telaf
+
+
+Please please please please let us get back to the old editor dearest WordPress. I am lost on this new one. The old one was so easy and now I can't get it back..... :-(
+
+
+I'm reading that there are a series of clicks I can make to get back to classic editor now that the button is gone. Can anyone tell me what those clicks are? I will happily click away to get back there...
+Thank you!
+
+
+Please re-instate the option to switch......
+.... And stop fiddling with things.
+
+
+If you go to the old style Dashboard and select add New Post then you get the old style editor (with the option to beep boop bump).
+If you go to the  old style Dashboard and select the list of Posts, then you can edit your post using the old style editor.
+I have a horrible feeling about this. I hope I'm wrong.....
+
+
+@galois - my anger is not "being" discharged towards you.  If you had bothered to read my post, you would have seen that I already know how to "get" back to the classic editor.
+You didn't bother to read my posts.  Volunteer or no, if one doesn't bother to read what the issue is, then there isn't much help there if the problem isn't being handled.  You are just repeating the same thing over and over again, and not responding to the question.  If you don't have the answer, then please don't respond to it with a canned response.  You are wasting your volunteer time
+
+
+I am fairly pi**ed off about this too, but lets direct our energies towards getting the option back. (Lets hope it doesnt take as long as last time).
+In the meantime, I spent 20 minutes looking for an add-on that would help. I think someone told us about something like this last time. Not sure.
+Anyway, if installed the  firefox add-on
+ URL link 
+ that allows you to transform the link to the new editor, to the one for the old editor.
+This means that you can right-click on any Edit post button and go directly to the old editor.
+I know its not a solution, but it is a work-around. (You would need one for each of your blogs). I will give more details if anyone is interested.
+
+
+@knashermac2009 I would love details on that!  Would that work for the free version of wordpress?   thank you so much!
+
+
+@cbiancardi Yes  it will work!
+1. Download and enable the firefox add-on URL Link 2.04.03
+2. From the list of add-ons, find URL Link and click on Options
+3. Click on th e"Edit Menu" tab and add a new entry
+ Edit Post|https://yourWebSiteURL/wp-admin/post.php?post=*&action=edit
+(Edit Post is what you will later. The stuff after the | is the link to the classic editor. The * will be the post_id)
+4. Click on the "Edit Search and Replace String" tab and add a new entry
+https://wordpress.com/post/yourWebSiteCode/||
+The bit before the || is the link to the new editor without the post id. Link URL is going to remove this (leaving the post_id). You can obtain yourWebSiteCode (a 7 digit number) by hovering over a link to the new editor (as in New Post or Edit Post).
+5. Click OK. I removed all the other entries in both menus to remove clutter.
+6. Now, when you go into your blog, right-click on any edit button and hover over "Open Selection". You'll see "Unaltered" plus all the items from the Edit Menu in URL Link (including Edit Post). Select the latter.
+
+
+Please Reinstate the Option of Choice to Use the Old Publishing Format -- strongly echoed
+
+
+We all appreciate what volunteers do, but I sometimes think that this system is reinforcing WP's already bad habits. The volunteers get a lot of the anger which WP should be feeling itself.
+
+
+I would like to speak for a subgroup of bloggers on WordPress.
+I blog anonymously and in private browsing windows.  When I close my browser, the cache is deleted.  Since the new editor apparently stores drafts in a computer's cache, the new editor is absolutely not an option for me.
+Now imagine all those college students who have to use campus computer labs... you know, those students who don't have their own computer or smart phone.  (Yes, plenty of those still exist in spite of the proliferation of such technology among youth.)
+If the new editor had been the only visible option when I started blogging, I would not have stayed on WordPress for more than a day.  It wouldn't have been feasible.  (Having been here for a while, I know there are workarounds.  A newbie wouldn't realize that.)
+
+
+@bumblepuppies ... so with the new editor, if the cache is emptied you lose all your drafts?? I have dozens of drafts. They are my "lab" for future posts. Am I going to lose them once the classic editor is shut down?? This is the worst thing I have heard yet. Anyone??
+
+
+@davidderrick-Who said anything about the Classic Editor being shut down?
+
+
+@davidderrick
+That is my understanding.  The workaround would be to publish your drafts, but schedule them for a time that's 100 years into the future.
+
+
+It would be foolish to assume the classic editor is staying, no?
+
+
+I have hundreds of people monthly tell me they are being forced to "unsubscribe" to my blog. They are not pushing the button. You are capping the amount of followers we can have aren't you. Either that or you have a serious glitch in your system that makes followers "suddenly disappear." This is horrible programing if that is the case and if it is instead the case that you have a "limit" on how many people can follow our blogs then that should be annouced.
+
+The blog I need help with is aopinionatedman.com. 
+And please only happiness engineers respond. I don't need worthless answers from "volunteers" thanks.
+
+
+I have also seen that I have lost subscribers without anyone actually unfollowing me and they come back and follow me again and the same has also happened to the people I follow. This has been there for quite a while now.  It will be good to get this on a higher priority and fix it sooner.
+
+
+Anybody?!?!
+
+
+This thread has been tagged for staff. They answer threads based on timestamps, so every new post moves this thread to the back of the queue. Please don't post in this thread anymore until a staff member responds, or it will just take longer to get an answer.
+
+
+please remove the cap on followers, and fix the glitch that is causing me to lose followers, they are not unfollowing me on purpose, they get punted from my blog and have to sign up again, this happens to me as well, I end up having to refollow blogs over and over again because wordpress keeps auto unfollowing me , also fix your notifications, I seldom get any so I have to check it every few minutes for new comments follows etc, since it doesn't notify me automatically anymore.
+
+
+Please listen to aopinionatedman and butchcountry67 . They great people. They don't need to go through with what they are going through
+now. Positive and productive help for them  is needed from this here wp.
+
+
+@kokkieh
+ This has been answered by Staff previously.  aopinionatedman  
+No real blogger who published original content wants fake followers of spam followers or scam followers and that's what this is all about.
+Bottom line: Those who speed follow multiple blogs in short periods of time are affecting spammer like behavior and the software has stopped them from their spammer-like game playing. Those who think those who follow thousands of blogs actually read the content in all those blogs would have to be light in the head.  That said if all one does is publish reblogs and post individual images of cats and/or other stuff that lacks subsctance are microbloggers who will be welcomed at Tumblr.   I say that the game playing has been halted - Alleluia!
+
+
+Positive and productive help for them is needed from this here wp. 
+ Here's some positive and productive help for those who insist upon affecting spammer-like  following behaviors  → Tumblr: Sign up
+
+
+There is no cap on the number of followers who can follow any blog.
+The software will prevent spammer-like behavior such as following many blogs in a short period of time from accomplishing their game playing goals.
+No one owns a thread on these forums. And, none of us can dictate who will answer their threads.
+Our support options are found here https://en.support.wordpress.com/help-support-options/
+Any WordPress.COM member one who lacks an upgraded account and cannot use private support can contact Staff directly by emailing
+help@wordpress.com
+
+
+okay so just follow 1 or 2 new blogs per day and your system won't flip out.... got it, it sucks but I got it, and fy1 I actually do read in excess of 100 different blogs per day , and I am not spamming or playing games, you guys assume an awful lot don't you? I am a serious blogger attempting to make connections from around the world, to learn and make online friends.... what part of that is game playing? so okay I got it just watch how many blogs you follow and everything is gonna be alright....
+So lets deal with a few other issues shall we?? like how wordpress automatically unfollows blogs? what is up with that? why do I have to keep re following blogs that I have followed for months? and it's not just me it's happening to, so when I hit the follow button again , it counts as a new follow against your program... fix this please, it's ridiculous, and while we are at it, lets discuss your notifications program.... I am sure notifications work just fine on mobile devices , but let me tell you, it sucks on the desktop, I have to manually check it every so often for new followers or those that have to refollow because your system has a bug in it , and for comments etc.
+so tell me... who is playing games? certainly not me, however your "programs" and updates sure do like to play games, and at the bloggers expense! please fix these issues, I'd like to pay for some pretty hefty upgrades, but I am not throwing money at a blog site that has so many glitches and issues.
+
+
+Hi all!
+You are capping the amount of followers we can have aren't you.
+We do not have any caps in place on the number of followers a site can have. I also haven't heard any other reports of this, so I'm going to need some details to be able to look into it. Can you give me a couple of user names of people who have had to resubscribe to your site recently?
+And please only happiness engineers respond. I don't need worthless answers from "volunteers" thanks.
+If you want only staff to respond to your question, please contact us through our contact form:
+http://en.support.wordpress.com/contact/
+This will create a thread in our Staff Answers forum where only staff and you can post. Everyone should feel that they are allowed to help in our forums. Requests for specific users, staff or otherwise, does not create the friendly welcoming environment we're hoping to foster.
+
+
+I also noticed you mention this in one of your posts:
+Modlook is when they tag you for “breaking their rules.”
+Modlook is actually the tag that flags your thread for staff attention. Sometimes it's used to mark spam or abusive behavior, but most often its used to draw our attention to a thread that our volunteers can't help with.
+
+
+Hi, I am one of aopinonatedman's followers that has had to constantly refollow his blog.  I get booted and have to come back and refollow again.  I actually spoke with a staff member today (Kristen B) about the issues I've had with having my follows deleted.  This has been the most frequently deleted follow I have.  I have had other's get deleted as well.  Some I can find again, some I can not.
+
+
+Hi thedailyblabber! Thanks so much for following up here. We took a look at the logs for your subscribing and unsubscribing to aopinionatedman.com and aren't really sure what's happening right now. Can you answer a few questions for me so I can dig into this with our developers further?
+1. How are you subscribing? (via the Reader, or the admin bar, or a follow button)
+2. Do you do the same thing every time?
+3. How do you discover that you've been unsubscribed?
+4. Do you have the site or WordPress.com in general open in multiple tabs?
+5. What type of device do you read on? And what type of device are you following on?
+It looks like you've subscribed to aopinionatedman.com via your Reader only, which means you won't be getting emails from the site. Does this sound correct?
+
+
+@timethief
+This has been answered by Staff previously.
+Thanks. I'm not actually the one who tagged this. I just posted that because I saw people kept posting in an already tagged thread :)
+
+
+@shawnajroberts
+I've actually also experienced the system unfollowing a blog that I followed this week. I can't recall it happening ever before. On Wednesday I followed https://tpenguinltg.wordpress.com/ via the follow button in the black admin bar on their site. Yesterday when that user commented on my site the notifications drop-down showed I was not following them, and when I visited their blog it also showed me as not following. I did have multiple WordPress.com tabs open when following, but that has never been an issue before. I'm using Firefox 36 on a Windows 7 PC. I've re-followed them now. I'll let you know if it doesn't stick.
+
+
+The Reader dropped my subscription to Hack a Day a few months back - so that makes me wonder what other sites it has dropped for me
+
+
+Sorry for the delay, I haven't really been online much today.  Anyway to answer your questions...
+1. How are you subscribing? (via the Reader, or the admin bar, or a follow button) 
+I have subscribed by hitting the follow button on the admin bar (the black bar at the top of the page) and when it wasn't "sticking" I tried adding the URL to the box on the "blogs I follow page".  To my dismay that didn't work either.  So the last time I followed Harsh Reality, I just clicked the follow button on the admin bar.  
+2. Do you do the same thing every time? 
+I don't know what I did the first time I liked his blog maybe a year ago.  However I know after it started going missing from my follows, months ago, I would hunt down his blog link from twitter and refollow by clicking the follow button at the top of the page.  
+3. How do you discover that you've been unsubscribed? 
+After a day or so I notice that I haven't seen any postings by this author. Which is odd because he posts a lot through the day.  So, I would go to my "blogs I follow" page to notice that Harsh Reality is no longer a blog I follow even though I hadn't unfollowed it.  
+4. Do you have the site or WordPress.com in general open in multiple tabs? 
+Typically if I click on a link in the reader another tab will open.  However, I tend to not have more than 2 WordPress tabs open at a time.  I will close a window when I am finished reading a post and go back to the reader.  If I am using another blog for a post I am creating like WordPress' "The Daily Post" I will have the original post in one tab and my post that I am writing in another.  Still, no more than two WordPress tabs at a time.  I hate clutter so I tend to close down unused tabs.
+5. What type of device do you read on? And what type of device are you following on?  
+I blog only from my Macbook because I do not like the WordPress App, so I tend to read a lot of posts from my Macbook.  However, later in the day when I have put my Macbook away I will read posts on my iPad.  So I'd say I read between the two devices pretty equally.  Which probably means I follow posts pretty equally from both devices.  Not that it should matter.
+
+
+Oh and BTW, no I do not receive emails from Harsh Reality because he posts too often throughout the day and I don't want to fill up my email box.  However I only follow a handful of blogs via email.  For the most part I read them in reader.  Which doesn't really matter if I've become unfollowed.  I have one blog that I follow via email that went missing at some point this week and I had to refollow yesterday.  It's not just aopinionatedman's blogs that are going missing from reader, though he is the most frequent.
+
+
+I've only been here a few months and OM's blog disappeared from my reader at one point. I had to go find him manually and re follow, though I had never decided to unfollow this interesting, productive and helpful blog. I'm a newbie and don't "get" all the technicalities yet. I just know this happened to me. I use my phone app most often and sometimes my laptop (Mac)
+I'm going to try to find the place in my admin panel to check on blogs I follow, to see if any have been unfollowed. I know I have not done that myself apart from one instance of something I considered to be pornography.
+
+
+@shawnajroberts
+Here's some more useless answers from a Volunteer ;)
+Perhaps this is related to disabled social features. That can happen when a blogger is manifesting spam-like behaviors by speed liking and speed following many other blogs in a short timeframe and/or when they harass others. I see a thread wherein rootjosh is helping another blogger to unfollow one of the very blogs cited here (a blog that has been previously suspended).  I also see another thread wherein a blogger is complaining about that same blogger too and one a buddy too re: Why can't you block users? Stop trolling "pingbacks"?
+
+
+Timethief - 
+I neither speed like nor do I speed follow anyone.  I read posts and if I like them, I like them.  I am much more discerning about who I follow and tend to keep my list rather small so that I can read new posts and not just simply like them from my reader sight unseen.  What I don't appreciate is having my list of followed blogs weeded for me.  Which is why I spoke up here and in private.  I just want the problem solved so that I can go back to enjoying my reader again rather than having to hunt for lost follows.
+
+
+@thedailyblabber
+ I did not address you or refer to you and your blog in any way in this thread. I wish you well with getting your issue resolved and I know shawnajroberts will see to it.
+
+
+@thedailyblabber - Thanks so much for your follow up! I'm going to summarize this information for our developers and see if we can figure out what's happening. I may come back with more questions shortly. :)
+@annj49 - Thanks for chiming in. If you have any of the information I requested above from thedailyblabber, that would really help us be able to dig into your instance of this issue as well.
+@timethief - I think this is unrelated to the disabled social features, but I'll definitely mention it to the dev that's working with me on this. Maybe it will ring some bells. :)
+Just a reminder for all, we are coming up on the weekend. I will likely not hear back from our devs about this until next week, at which point I'll likely have more questions for you. Thank you for bearing with us. We definitely want to get this fixed. We do not in any way want to be removing site subscriptions without your permission.
+I'll be around this weekend, so if you have more information to pass along or any questions, feel free to chime in! Then I can hit the ground running with the developer on Monday. :D
+
+
+@raincoaster & @auxclass - I've deleted your latest comments here. Please do not post any more antagonizing comments. If you'd like to contribute to this thread, please follow up with the information I asked for above as it pertains to your own instances of being removed as a follower.
+
+
+@kokkieh - Thank you for your information as well! :)
+
+
+@shawnajroberts - so what about this one?
+And please only happiness engineers respond. I don't need worthless answers from "volunteers" thanks. 
+
+As you can see, I've addressed that above. If you have concerns about the way I've handled this, feel free to email us, but let's keep it out of this support thread.
+
+
+It's well known that Opinionated Man spent one third of his time blogging "following" as per his own words.
+http://aopinionatedman.com/2015/02/11/my-blogging-model/
+He follows 500, but has followed up to 2000 per day....
+http://aopinionatedman.com/2015/02/11/an-introduction-to-powerblogging-part-1/
+He also spends time abusing extremely helpful forum volunteers such as Timethief.
+Clearly at the volume blogs, and spends time, you can imagine how many "follows" he has made.
+He was warned against such spammy behavior by others, but chose to proceed with his spam.
+Thus, his concerns are most like extremely unique, as he's bumping up HARD against WordPress' attempts to fight spammers, as noted by Timethief and staff.
+If you follow a reasonable amount of people, it;s entirely possible any "unfollowing" is a bug, and will be addressed with reasonable responses to the staffs requests.
+As for OM, he leaves out tons of context when he comes to make his baseless accusations and abuse staff.
+I still have no idea why WordPress tolerates his behavior.
+
+
+I'm using the Catch Base theme and I really like the Featured Content sections on the Home page. My question: Is there some way to just show abbreviated content from the actual page referenced that displays on the home page in a Featured Content?
+
+
+We cannot help you without the URL of the site in question, starting with http.
+
+
+Suddenly I'm not getting notification of fellow blogger's new posts in my email though  follow them and checked for same in 'The blogs I follow' column. Please help.
+
+The blog I need help with is amaltaas.wordpress.com. 
+Which blog?
+Have you checked your email Spam folder? Sometimes email providers tighten things up so that legit notifications go there.
+
+
+I want to delete my site but can't because of a domain upgrade that I cannot seem to cancle.
+
+The blog I need help with is almaurania.wordpress.com. 
+Hi, i am worried i want to cancel the trial period because i am not interested. Moreover i started a trial of the business plan for exploring it and now i dont know how to cancel it. it is weird cause when i press my upgrades it seems that i am using the free account however i remember to choose the business one and i gave even my bank account dates. Then i tried to move the money from my bank just in case and it doesnt let me move everything it obey me to hold 300€ just the price of the business premium plan.  Can anybody help me please
+?
+
+The blog I need help with is bambutimes.wordpress.com. 
+@franciscovallejoborras
+There are no Upgrades or WordPress.com sites associated with your WordPress.com account.
+If I've misunderstood the issue, or if you have any other questions, please let me know.
+
+
+Thank you !!
+
+
+One of my blog posts disappeared! One of my blog posts disappeared! All that remains is a comment I made as additional input to the original post titled "Food 4 Thought" posted to my JustOneMoreHill blog last March. What the fox is going on?
+
+The blog I need help with is justonemorehill.wordpress.com. 
+We have no way of knowing from the information you gave us.
+Is it on your blog Posts page? If so, what is the URL? What is the title? What is the link to the comment?
+
+
+Cannot register new domain names.  Program will search and find available domains, but will not move on to the payment screen to purchase.  Help please.
+
+
+You cannot register a domain name here if you do not already have a blog here. Register a blog with a URL of whatever.wordpress.com and then you can buy the custom domain whatever.com.
+
+
+The first post on my page isn't my most recent. How do I make the first post on my page the most recent? I want my posts to go in order of posting with my most recent first.
+
+The blog I need help with is lipstickkissesandglitterdreams.wordpress.com. 
+When you have a new blog and make several posts in one day, they can get mixed up. Go in and edit the time stamp on the posts to get them in the order you want.
+The timestamp is the time the post was started, not the time it was finished, so if you save drafts, you can see where the problem would arise.
+
+
+Thank you so much! 
+I'm sorry but how do I do that!?
+
+
+Edit the post. On the right hand side you'll see a calendar icon. Click it and change the time. Update the post.
+
+
+Hello, I'm using Sela theme and I'd like to have the custom header image link to the home page. I don't see a place to add a link in the Customizer - how do I go about doing this? Thanks!
+
+The blog I need help with is www.natalieanntaggart.com. 
+Sorry but we cannot help you. We provide support only for blogs hosted by WordPress.COM and that site is not one of them. You are posting to the wrong support forum.
+WordPress.COM and WordPress.ORG are completely separate and have different username accounts, logins, features, run different versions of some themes with the same names, and have separate support documentation and separate support forums. Read the differences here http://en.support.wordpress.com/com-vs-org/
+If you need help with a WordPress.ORG software install in the future and don't have a username account at WordPress.ORG click http://wordpress.org/support/ and register one on the top right hand corner of the page that opens, so you can post to the support forums there.
+Resetting your WordPress.ORG password http://codex.wordpress.org/Resetting_Your_Password
+WordPress.org support docs are at https://codex.wordpress.org/Main_Page
+
+
+In Feb. it was buried to low, then amightywp
+Happiness Engineer showed me a way to grab it. 
+Now see below his fix.
+amightywp
+Happiness Engineer
+Feb 3, 2015, 10:43 AM
+Hi there,
+Rachel is out for a few days so I am taking over a few of her tickets.
+I just did some testing by setting my chrome browser to the same dimensions as the one which you used to write in, and I can see what you mean about not being able to see the shortlink.
+I'm not sure what kind of device you're using, but if you can expand your browser window down a bit further, or even zoom out a bit (use Ctrl and the plus/minus button to zoom in and out), then you should be able to see the entire menu.
+End
+And his suggestion worked but Now when you go to it to copy, it flips off fast and doesn't let you copy. In both browsers of Opera and Firefox same thing. I'm not going to download another browser. This always was the problem with Firefox. Had no problems with Opera until WordPress changed the side menu and put the shortlink at bottom, it use to be on top.
+I realize you can go to edit and get it there but a pain in the a** way to get it.
+So can somebody please fix this. Like I said you can click on the shortlink and it turns blue but when you click copy it disappears and you cannot copy.
+Please don't ask me to take snapshot of page. I've tried via instructions and still cannot succeed in doing it.
+
+The blog I need help with is longshotsblues.wordpress.com. 
+Okay I see you are referring to this earlier thread https://en.forums.wordpress.com/topic/shortlink-is-now-missing?replies=22#post-2249750 And, I tagged this thread for Staff assistance. Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+Already subscribed. Thanks timethief.
+
+
+Already subscribed. Thanks timethief.
+
+
+Hey there! Can you confirm for me what type of device you're using? A tablet or a phone? Or are you on a computer? And are you using a touch screen or do you have a trackpad or mouse attached that this is happening with?
+
+
+Desk top wired computer. Only thing I've ever had and used. everything was fine with that shortlink until about a week to 10 days ago.
+
+
+Thanks for the info! I haven't been able to reproduce this behavior. Have you quit your browser recently? It may need to be restarted.
+
+
+I restart it everyday as I don't leave my computer on (I clear the cache and close the browser . The shortlink disappears FAST when you go to click copy. Both in Opera and Firefox. It always did this in firefox all the time and was never fixed. I switched to Opera and had no problems, Now it's happening in Opera.
+I'm not going to keep downloading every browser out there.
+As I said wordpress changed the side bar and buried this shortlink at very bottom when it was always on top. amightywp
+Happiness Engineer showed me how to use the Ctrl and the plus/minus button to zoom in and out) and that was the only way I could then see and capture it.
+It worked fine then as usual all of a sudden stopped being fine. Now you can't copy at all.
+
+
+Thanks for following up! That sounds super frustrating. I definitely want to get that fixed up for you.
+I just read through your thread with Rachel and Ash. Can you confirm for me what version of Windows you're running so I can do some more testing? 
+It sounds like the dropdown menu is losing focus in the browser for some reason. I don't want to make you install more new browsers, as it sounds like there may be something happening system-wide.
+
+
+We are having the same issue across all browsers and all members
+Any eta on when this will be fixed
+
+
+Hi there,
+I’d like to delete a self-hosted blog from my WordPress.com account. It has been deleted from my host site and I cannot turn off Jetpack. Here is the url of the blog to remove:
+football.noahhougland.com
+Thanks a lot for your assistance,
+
+The blog I need help with is football.noahhougland.com. 
+Thanks for the URL. Staff can and will do this for you and I tagged this thread for their attention. Please subscribe to this thread so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+what happened to the classic posting option. It was located on the bottom right side of the page. I prefer to use the classic instead of this new one with the beep beep bop bop. Please help.
+
+The blog I need help with is lovelyseasonscomeandgo.wordpress.com. 
+Please do a search of the forum. There are at least a dozen threads on the issue, each with the instructions on how to find the classic editor. There are three of them on the front page right now.
+
+
+As of today I am tagging every thread regarding the removal of the classic editor link from the new editor for a Staff response like I did here. Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it. 
+The Classic Editor will continue to exist in wp-admin. We know some users prefer to use this editor, so we want you to have access to it, instead of phasing it out with the new version of the Dashboard. However, a link to the Classic Editor will not return to the New Editor. From: https://en.forums.wordpress.com/topic/when-editing-an-old-post-how-do-i-switch-to-the-classic-editor?replies=5#post-2316097
+
+Hello,
+I have uploaded a profile picture but it is not appearing in the bubble above my blogs title or in the upper right hand corner of my blog, next to the pencil/edit icon; instead there is still a default silhouette.  How do I change that silhouette to my profile picture? 
+thanks
+stephanie
+
+The blog I need help with is signsinthenight.wordpress.com. 
+The blog's Blavatar and your Avatar are different. Upload the Blavatar on the Settings->General page. Upload your own avatar at Gravatar.com.
+
+
+Thanks was trying to find this for weeks!
+In settings Generel can you create a slideshow? If so how?
+
+
+Thanks was trying to find this for weeks!
+In settings Generel can you create a slideshow? If so how?
+
+
+No idea.
+
+
+How do I add pages to the navigation bar of the Oxygen theme? The current pages that are there carried over when I changed themes, but I don't know how to add new pages to the navigation bar.
+
+The blog I need help with is fabledhaven.wordpress.com. 
+Static pages? Or category pages, etc? If the former, it should happen automatically unless they're sub-pages. if the latter, use a Custom Menu https://en.support.wordpress.com/menus/
+Note that you should review the theme specs before making any changes. Oxygen is a complicated theme.
+
+
+Hi,
+I have a wordpress.com blog of honeybarmcakes.wordpress. I created a new site chyroshaman.wordpress.com after that I could no longer log-in to my previous site. I went to the account recovery for honeybarmcakes but after repeated requests for a new password to be sent to my registered e-mail non have come.
+Is there anything you could do. I do not have any of the account verification e-mails first sent when creating the account. I had backed up my honeybarmcakes site and have imported my backup into my chyroshaman site. If you check the two sites you will be able to see that is extremely likely that I am the owner of both blog sites.
+Regards
+Chyro.
+
+The blog I need help with is chyroshaman.wordpress.com. 
+Have you looked in your Spam folder?
+
+
+Yep not in spam. Checked both my mac mail and login in to gmail. Thanks for the reply.
+The problem seems to be a wordpress glich that happens if you have not logged out of an existing site before creating a new site.
+Chyro
+
+
+I have had my blog on Blogspot.com but am transferring to WordPress.  I like to link to Geneabloggers.com, and I thought I correctly added Geneabloggers to my links, but the Geneabloggers image (widget) does not appear as it did on Blogspot.  Can you please advise me what I need to do?
+
+The blog I need help with is kithandkinchronicles.wordpress.com. 
+Could you share the link to blogger blog so I can see how the Geneabloggers  image appears. 
+You need to add the Geneabloggers image in your Media Library, and can use Image Widget to display it on your WordPress.com blog's sidebar.
+Feel free to let me know if you have further questions.
+
+
+what is the actual code in the widget? Paste it here between CODE tags so we can look at it.
+
+
+I now own a specific domain name and want to create a premium account for a WordPress blog by the same name. However, that name is taken but it has NO posts or activity since it was created in 2010. Is there a way to either contact the "owner" and get that name, or can the name be reassigned to me since it appears to be abandoned? 
+I'm new to WordPress, but will be using it as a principal site while I am serving with the Peace Corps in Namibia, and probably in other locations following that two year assignment. 
+I know I can assign the domain name to my blog regardless of the blog name, but would prefer to be consistent with the same blog site name, if possible. 
+Thanks - as soon as I have an answer I will create a blog site, go premium, and start populating it. I already have publicity cards printed with the domain name printed and they are being distributed, so I need to get this going as soon as possible.
+
+The blog I need help with is andygarrisonus.wordpress.com. 
+WordPress.COM is the top level domain here. All WordPress.COM blogs are on .wordpress.com sub-domains.  And, it does not matter what the underlying .wordpress.com sub-domain URL is when you are domain mapping. 
+See here for details of all 3 plans http://store.wordpress.com/bundles/ offered by WordPress.com.
+Premium bundle details http://store.wordpress.com/plans/premium/
+Business bundle details http://store.wordpress.com/plans/business/
+Note that each upgrade bundle applies to a single blog only and is for a single year only when it is due to be renewed.
+There is no expiration date on .wordpress.com blogs unused, reserved or otherwise. If you can make contact on your own with the owner of an unused blog via a contact form or commenting, then providing the are agreeable there is a means of a consenting blog owner to transfer the blog to another username account. http://en.support.wordpress.com/moving-a-blog/#transferring-your-blog-to-another-user-or-account
+In the case that there is no contact information Staff will not breach the privacy policy and provide you with an email address.
+If you are not successful, you can register another blog with a similar name. http://en.support.wordpress.com/register-a-blog/
+Or you can register a domain via a domain mapping upgrade and it will not matter what the underlying .wordpress.com address is.
+http://en.support.wordpress.com/domain-mapping/
+http://en.support.wordpress.com/domain-mapping/register-domain/
+What domain mapping does its create a seamless transfer between the underlying .wordpress.com blog URLs to the domain URLs no matter where they are on the internet. Visitors who click the underlying .wordpress.com blog URLs will be seamlessly redirected to the exact same content under the domain URLs.
+If you would like to use a domain URL that you already own on the blog hosted by WordPress.com you will first need to register a .wordpress.com blog, purchase an upgrade for it, and set up domain mapping.
+Please read Domains: Important Notes Before Upgrading http://en.support.wordpress.com/domains/
+All that changes when you are domain mapping is the URL and nothing else. The content stays exactly where it is. Payment methods are found at http://en.support.wordpress.com/payment/
+In order to map to a domain one must have an underlying .wordpress.com subdomain blog to map from, and the domain name you desire must be available for purchase, or you must already own the domain URL.
+You must be logged in as Admin http://en.support.wordpress.com/user-roles/#administrator under the exact same username account that registered the blog to access the blog's dashboard at > Store > My Upgrades to purchase upgrades for the blog.
+See here
+See here if you do not own a domain http://en.support.wordpress.com/domains/
+See here for mapping an existing domain that you already own http://en.support.wordpress.com/domains/map-existing-domain/
+WordPress.com does not accept domain transfers but mapping an existing domain is possible. Domain mapping of an existing domain URL that you already own and purchased elsewhere is not done free of charge. You will have to renew the domain name purchase where you made it and the domain mapping purchase here every year. Mapping an existing domain costs $13. annually.
+if you already have a website you don’t want to affect, and you want to add a blog to it under a subdomain (for example, blog.yourgroovydomain.com) see here http://support.wordpress.com/domain-mapping/map-subdomain/
+After you do the primary blog set up it can take between 24 - 72 hours for domain name propagation to take place throughout the internet. You can view the DNS changes here > http://www.whatsmydns.net/ What's important during that stage is to be patient.
+If you succeed at purchasing the domain mapping upgrade it will be reflected at these two spots:
+Dashboard > Store > My Upgrades
+http://en.support.wordpress.com/my-upgrades/
+Dashboard > Store > Billing History
+http://en.support.wordpress.com/billing-history/
+Your payment methods are here https://en.support.wordpress.com/payment/
+
+
+Basically, it's up to you to turn detective and try to contact that blogger. Staff will not act as intermediaries or supply contact details. You can try leaving a comment and seeing if they reply.
+
+
+how do i put it on the web.  we have an old website that i wish to replace with this one.  i have everything that i would need but i need to know how to make this one the current one
+
+The blog I need help with is gulfpresbyterian.wordpress.com. 
+also can you tell me how i can change the font on these pages
+
+
+What do you mean, "make this one the current one?" https://gulfpresbyterian.wordpress.com/ there it is. Blog away. 
+You have to change the font by hand-coding HTML in every post, or by purchasing the Custom Design upgrade and changing the CSS code.
+
+
+Hi. 
+I have two user names and want to move a blog from one user to the other. (I own both blogs.)
+I followed the directions to move the blog but haven't seen the email I need to confirm the change. Am I doing something wrong?
+Then, I happened on a info re: exporting info from one blog to another--am I correct to assume I can't move content between users?
+Thanks for your input!
+
+
+Hi there. How did you move the blog? Did you go to WP-Admin ->My Blogs ->Transfer blog (http://en.support.wordpress.com/moving-a-blog/#transferring-your-blog-to-another-wordpress-com-user-or-account)? Check your email's spam folder and also the Social tab if you use Gmail.
+As far as I know you can move content between users as you simply export the xml file from one blog and import it to another. The two blogs don't need to be in the same account. https://en.support.wordpress.com/moving-a-blog/
+Regarding the difference between moving a blog and moving content: If you transfer a blog to another account, the entire blog, including URL, theme, content, followers, stats and upgrades, gets moved to a different username account. 
+If you export content ONLY posts, pages, media files, categories, tags and comments are moved. Also, the blog from which you export remains unchanged - exporting doesn't delete the content.
+If for some reason the blog transfer won't work, I think staff can help you with it, but they'll need the URL of the blog that must be moved, as well as the username of the account to which it must be moved. If you need more help with this, please let us know and also include that information.
+
+
+Thanx for your help, Kokkieh. I tried to move it via the blog transfer option (big red warning, etc). Checked SPAM folder(s) but nothing there.
+I'm at a loss.
+
+
+Thanx for your help, Kokkieh. I tried to move it via the blog transfer option (big red warning, etc). Checked SPAM folder(s) but nothing there.
+I'm at a loss.
+
+
+Please give the URL of the site you want to move and the username of the account to which you want it moved. Then we can tag this for staff to see if they can help.
+
+
+http://joannectimpano.com
+Please move it to this user name: connectwithjoanne
+Thank you!
+
+
+I've tagged this for staff. Please be patient while waiting for their response.
+
+
+Staff is awesome. I greatly appreciate your help too.
+
+
+i cant open my blogs
+http://www.gezginbiraile.wordpress.com
+http://www.omnamashivaom.wordpress.com
+i cant make it, the site doesnt work what can i do, really help !
+
+The blog I need help with is gezginbiraile.wordpress.com. 
+Contact your ISP. ISPs in Oman and Turkey are blocking WordPress.com right now.
+Alternately you can use a VPN to trick the ISP.
+
+
+hello peeps,
+I cannot my site, on firefox i get the following error:
+Secure Connection Failed
+{
+An error occurred during a connection to houseofajax.wordpress.com. The server rejected the handshake because the client downgraded to a lower TLS version than the server supports. (Error code: ssl_error_inappropriate_fallback_alert)
+    The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.
+    Please contact the website owners to inform them of this problem.
+}
+while on G chrome it just says that the website is not available
+I am able to add posts to my site apparently but when I try to view the site I am met with those errors. 
+thank you for taking the time out to help me!
+
+The blog I need help with is houseofajax.wordpress.com. 
+In line 2, I meant to say: I cannot
+view
+ my site...
+
+			
+I see your site http://houseofajax.wordpress.com/
+Tested with Opera, Maxthon, Chrome, Firefox, Safari & Internet Explorer.
+Which version of Firefox you are using?
+
+
+Same thing for me, seems to be a location issue. I'm in Oman, and can't connect to any wordpress.com site (including this page) from any internet connection/browser or computer due to "Secure connection failed". However, if I log in to a UK VPN, immediately everything works as normal. I've had people from other countries contact me about my blog reporting the same issue as I'm experiencing in Oman.
+
+
+same at me...i cant open site since 4 days...i dont know why but im using firefox
+
+
+Oman and Turkey have ISPs that are blocking WordPress.com. Contact your ISP and ask them to stop blocking it.
+
+
+Good afternoon,
+I have a problem with the quantity of views. It suddenly decreased quite a lot. 
+My last post was from the 17th of March. I got some traffic on the 17th and 18th of March, usual amount of views. 
+Yesterday I got only 3 views and today it's 4 only. It's a big change. 
+I did not do any updates during the last couple of days, I am also accurate with the amount of tags. 
+Could you please check what is wrong?
+My blog is northernberries.wordpress.com
+Thank you in advance for your help,
+ Anastasia
+
+The blog I need help with is northernberries.wordpress.com. 
+Will someone help me with my question please?
+Thank you!
+
+
+Same here, low views. Anyone???Hellllooooooo???
+
+
+Would somebody give us some hard numbers please? Also copy paste your referrers from the stat page both for a day with a typically high number of views, and again for one with this low number.
+Also, remember that it is the weekend and Turkey and Oman are blocking WordPress.com.
+
+
+I'm trying to make my site where there are several "blog pages" on my 1 wordpress site dealing with different topics. I want to be able to have just 1 email sign-up that allows people to receive inbox updates whenever there is a new posting on my site- regardless of which blog page it's on. Is this possible? I have a site on weebly and right now people have to sign up for each individual blog page that they want updates on- it's really annoying. I hope this makes sense- Any advice?!
+
+The blog I need help with is cassieweller.wordpress.com. 
+https://cassieweller.wordpress.com/ has only one blog posts page, and if you use the subscription widget, subscribers will get all updates from that blog regardless of how you organize them, unless you make static pages.
+
+
+"add media" button not working
+
+The blog I need help with is elzendo.wordpress.com. 
+What browser and version are you using, and how much room is left in your media library? Also what kind of file is it?
+
+
+I suddenly have a narrow window in which to view what I'm typing in new posts (I can only see two lines).  It won't let me move the modules around, or expand the box.
+
+The blog I need help with is mythankfulboy.wordpress.com. 
+I did already delete cache and cookies.
+
+
+What browser and version are you using, and are you in Turkey or Oman, perchance?
+
+
+I was asked by ShawnajRoberts to start another help/issue thread.
+okay so wordpress has a glitch somewhere, it automatically unfollows blogs that I am following, the issue is, I will click the follow button, either in the top left corner of the dashboard, or use the widget follow buttons if the blogger has one on their blog, the problem is wordpress will automatically unfollow, so I have to go back and re follow again and again, usually 2 or 3 times before it stays followed
+Also the notifications seem a bit wonky, they seem a bit better today but are inconsistent, as of last friday I have had to manually check the notifications as it wasn't showing any, it seems to be working today off and on . 
+as for the reader, it went crazy friday, I didn't get any blogs on the reader that I was following, however what I did get was well over a couple hundred blogs ( one called 420) that were all about marijuana, I don't read those blogs nor am I following any, I had to block each individual blog not once but twice because your block feature kept unblocking these blogs, I had to block them to clean out my reader. I haven't had that problem since, I think it was a one time thing, at least I hope. 
+Now I realize you guys have been making upgrades to make wordpress more mobile friendly, but in doing so it seems to messed up the system for those of use that rely on desktops and laptops, could you look into this please? perhaps it is a simple programming error that was overlooked. 
+Now the last thing is, I would like to know the exact number of blogs I can follow per day ( as in clicking the follow button) , I would like to post that number on my blog so others know as I certainly do not want to get mistaken for a spammer, my blogging strategy is simple, I am trying to build a following in excess of 1000+ (over the course of a year or two) , if you click and follow my blog , I will in turn extend the courtesy and follow yours in return. 
+I also use the reader to find blogs of interest, sometimes the freshly pressed etc. , blogs are like newspapers, no one reads every single one every single day, they browse through their reader at the blogs they follow, if a post appeals to them they read it , if not they pass on that post. I have actually sat down on a sunday and read in excess of 400 blog posts, it can be done. 
+ so it is important to me not to be labelled a spammer, or those that follow me, I do not want to break any rules here, and hope to blog here for many years to come , that is why I asked about the follow limit, is it a per day thing or weekly or monthly? 
+Thank you for looking into this stuff
+
+The blog I need help with is butchcountry67.wordpress.com. 
+Our wordpress name is reserved We registered OUR NAME and then we went to edit it and it is reserved. Why? Our New Site: 
+WordPress name
+iOmniCloud.wordpress.com
+Our Domain Name
+http://iOmniCloud.com
+We would like our proper name. Your system kept forcing us to make other names to attempt to get to the only one we want.
+Thank you
+
+
+This is a two day old WordPress.COM username account https://en.forums.wordpress.com/profile/iomnicloud
+This is a WordPress.COM hosted blog iOmniCloud.wordpress.com
+This is NOT a WordPress.COM hosted blog http://iomnicloud.com/
+We provide support only for blogs hosted by WordPress.COM and that site is not one of them.
+WordPress.COM and WordPress.ORG are completely separate and have different username accounts, logins, features, run different versions of some themes with the same names, and have separate support documentation and separate support forums. Read the differences here http://en.support.wordpress.com/com-vs-org/
+If you need help with a WordPress.ORG software install in the future and don't have a username account at WordPress.ORG click http://wordpress.org/support/ and register one on the top right hand corner of the page that opens, so you can post to the support forums there.
+Resetting your WordPress.ORG password http://codex.wordpress.org/Resetting_Your_Password
+WordPress.org support docs are at https://codex.wordpress.org/Main_Page
+
+
+Hi,
+Referrals are missing from my stats page for the website: http://designspiration.net/
+I get hundreds of referrals a day from the site, but they do not appear on the stats page. 
+How do i get them back?
+
+The blog I need help with is picdit.net. 
+Sorry but I am unable to help you resolve this.  I tagged this thread for Staff assistance. Please subscribe to it so you are notified when they respond. To subscribe look in the sidebar of this thread, find the subscribe to topics link and click it.
+
+
+Thanks so much.
+
+
+If somoene has marked them as a spam referrer, they won't show on your stats, so that would definitely need to be looked into.
+
