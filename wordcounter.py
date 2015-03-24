@@ -1,20 +1,12 @@
-#import glob #for searching multiple dates eventually
 import os
 import csv
 from time import strftime
 from string import punctuation
 
-stop_words = [ "a", "i", "it", "am", "at", "on", "in", "to", "too", "very", "of", "from", "here", "even", "the", "but", "and", "is", "my", "them", "then", "this", "that", "than", "though", "so", "are" ]
+stop_words = [ "a", "i", "it", "am", "at", "on", "in", "to", "too", "very", "of", "from", "here", "even", "the", "but", "and", "is", "my", "them", "then", "this", "that", "than", "though", "so", "are", "you", "for", "with", "if", "can" ]
 
-#next iteration: date ranges
 print ("What date would you like to count? Please use YYYY-MM-DD format.")
 user_date = raw_input()
-
-#for name in glob.glob(("data/"+user_date+"*.txt")):
-#    print name
-
-#future iteration: strip out commonly used words
-#probably a library for that
  
 file = open(os.path.join("data/", user_date + ".txt"), "r")
 
@@ -33,13 +25,11 @@ for word in file.split():
     else:
         wordcount[word] += 1
 
-print wordcount 
+csv_file = open(os.path.join("csv_output/", user_date + ".csv"), "w")
 
-#csv_file = open(user_date + ".csv", "w")
+writer = csv.writer(csv_file)
 
-#writer = csv.writer(csv_file)
+for k,v in wordcount.items():
+	writer.writerow([k,v])
 
-#for items in wordcount:
-#    for k,v in wordcount.items():
-#        writer.writerow([k,v])
-#print("Wordcount for " + user_date + " has been exported to " + user_date + ".csv" )
+print("Wordcount for " + user_date + " has been exported to " + user_date + ".csv" )
